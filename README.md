@@ -1,4 +1,4 @@
-# governance
+# Dog Collar (COLLAR) DAO Governance
 Community Governance Documents
 
 The Dog Collar (COLLAR) DAO has been created as a DAO governance gold standard for the COLLAR community. We strive not only to lead by example but also to give back to all by making our DAO governance documents available for others to use.
