@@ -24,7 +24,7 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
         <p>&lt;code&gt;&lt;/code&gt;</p>
         <p><code>The COLLAR DAO will direct what is funded, but a few possilbe charitable actions could direct fund from the monthly COLLAR DAO vote to:</code>
         </p>
-        <p><code>    * Animail clinics for operations.</code>
+        <p><code>    * Animals clinics for operations.</code>
         </p>
         <p><code>    * purchasing of cows for nomads in africa.</code>
         </p>
