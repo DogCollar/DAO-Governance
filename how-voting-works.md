@@ -7,6 +7,8 @@ description: >-
 
 # How Voting Works
 
+![The power of the \#CollarCrew is in the hands of us all.](.gitbook/assets/reddit_profile_banner_template_8.jpg)
+
 Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with greater than 100,000,000,000 \(100 Billion\) Tokens can participate in all DAO Proposal votes.
 
 An electoral threshold is defined as a COLLAR DAO Proposal garnering greater than 20% of the circulating supply of COLLAR at the time of a COLLAR DAO Proposal meeting the posting requirements.
