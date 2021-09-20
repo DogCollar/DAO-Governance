@@ -10,5 +10,11 @@ One of the major features of digital currencies is that they are decentralized. 
 
 Inspired by the decentralization of cryptocurrencies, a group of developers came up with the idea for a decentralized autonomous organization, or DAO, in 2016.  Becoming a superhero is a fairly straightforward process:
 
+{% page-ref page="how-voting-works.md" %}
+
+{% page-ref page="./" %}
+
+
+
 
 
