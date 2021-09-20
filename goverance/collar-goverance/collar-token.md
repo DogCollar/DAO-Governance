@@ -18,6 +18,10 @@ The primary responsibility of COLLAR holders is to ensure the stability and the 
 
 ## What voting rights do COLLAR HODL have?
 
-COLLAR HODL have the ability to enact technical changes to the COLLAR DAO itself and also to ratify decisions off-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy,  COLLAR voters have ultimate control. To learn more about governance the COLLAR DAO visit the [COLLAR Governance](dog-collar-dao.md). COLLAR HODL who are interested in actively participating in the management of the COLLAR Community are encouraged to engage on our [official COLLAR Discord server.](../../community/community-engagment/dog-collar-offical-social-links.md)  
+COLLAR HODL have the ability to enact technical changes to the COLLAR DAO itself and also to ratify decisions off-chain about non-technical matters. Whether that be a change to the system parameters, or a decision to accept a new governing philosophy,  COLLAR voters have ultimate control. To learn more about governance the COLLAR DAO visit the [COLLAR Governance](dog-collar-dao.md). COLLAR HODL who are interested in actively participating in the management of the COLLAR Community are encouraged to engage on our [official COLLAR Discord server.](../../community/community-engagment/dog-collar-offical-social-links.md)
+
+## How much **COLLAR** is there?
+
+There were a total of 1,000,000 COLLAR at the inception, of which 1/2 \(500 Trillion\) have been verified to be burned. COLLAR currently has 500 Trillion available, see the [COLLAR Token Contract on Etherscan.](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#balances)  
 
 
