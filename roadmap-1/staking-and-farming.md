@@ -1,3 +1,7 @@
+---
+description: 'September 20, 2021 - Purposed new language for consideration.'
+---
+
 # Staking and Farming
 
 ![](../.gitbook/assets/reddit_profile_banner_template_8.jpg)

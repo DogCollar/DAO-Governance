@@ -5,7 +5,7 @@ description: >-
   authority to enact changes.
 ---
 
-# COLLAR Goverance
+# COLLAR Governance 101
 
 ![](../../.gitbook/assets/reddit_profile_banner_template_8.jpg)
 
