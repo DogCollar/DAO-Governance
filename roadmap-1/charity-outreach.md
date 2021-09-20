@@ -22,11 +22,11 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
           href="../community/community-engagment/multi-signature-donation-wallet.md"><code>multi-signature donation wallet</code>
             </a>&lt;code&gt;&lt;/code&gt;</p>
         <p>&lt;code&gt;&lt;/code&gt;</p>
-        <p><code>The COLLAR DAO will direct what is funded, but a few possilbe charitable actions could direct fund from the monthly COLLAR DAO vote to:</code>
+        <p><code>The COLLAR DAO will direct how the funds will be utilized, but a few possilbe charitable actions could be:</code>
         </p>
         <p><code>    * Animals clinics for operations.</code>
         </p>
-        <p><code>    * purchasing of cows for nomads in africa.</code>
+        <p><code>    * purchasing of cows for the Masai Mara people in Africa.</code>
         </p>
         <p><code>    * Animal resuce shelters</code>
         </p>
