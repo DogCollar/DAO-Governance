@@ -19,9 +19,9 @@
 
 ## Roadmap <a id="roadmap-1"></a>
 
+* [Roadmap Work](roadmap-1/roadmap-work.md)
 * [Charity Outreach](roadmap-1/charity-outreach.md)
 * [Community Committees](roadmap-1/community-committees.md)
-* [Roadmap Work](roadmap-1/roadmap-work.md)
 * [Staking and Farming](roadmap-1/staking-and-farming.md)
 
 ---

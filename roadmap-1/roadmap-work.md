@@ -8,8 +8,10 @@ Once COLLAR CP 1.0 is adopted, then the work of identifying what the communities
 * Identifying charities
 * Identifying utility
 * Grow community
-* Identifying tokenomics
+* Identifying Tokenomics
 * Identifying partnerships
 * Multiple exchange listings
 * Continual self-improvement
+
+
 
