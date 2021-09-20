@@ -10,6 +10,7 @@
 * [Multi-signature Donation Wallet](multi-signature-donation-wallet.md)
 * [Project Funding](project-funding.md)
 * [Community Committees](community-committees.md)
+* [Staking and Farming](staking-and-farming.md)
 * [Charity Outreach](charity-outreach.md)
 * [Dog Collar Offical Social Links](dog-collar-offical-social-links.md)
 * [Roadmap](roadmap.md)
