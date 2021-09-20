@@ -2,7 +2,7 @@
 description: The power of the DAO is the Dog Collar Community.
 ---
 
-# DOG COLLAR DAO
+# Goverance DAO
 
 What Is a Decentralized Autonomous Organization \(DAO\)?
 
