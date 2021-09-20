@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Dog Collar Governance](README.md)
+* [DOG COLLAR DAO](dog-collar-dao.md)
+* [How Voting Works](how-voting-works.md)
 
