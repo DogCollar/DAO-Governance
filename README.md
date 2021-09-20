@@ -1,26 +1,19 @@
 ---
 description: >-
-  Dog Collar DAO is a decentralized governance community that enables the Dog
-  Collar Community to self-govern. The Dog Collar Community HODL has the sole
-  authority to enact changes.
+  Dog Collar (COLLAR) is a stand-alone project and a fully community-organized
+  token experience.
 ---
 
-# Dog Collar Governance
+# Dog Collar Introduction
 
 ![Join the \#CollarCrew](.gitbook/assets/image.png)
 
-## **Get Started With Governance**
+  
+Dog Collar \(COLLAR\) is a stand-alone project and a fully community-organized token experience.‌
 
-Dog Collar \(COLLAR\) DAO governance describes the way rules, norms, and actions are structured, sustained, regulated, and upheld.
+The fundamentals of COLLAR are, and always have been, the community itself. The community infuses purpose, utility, and direction to COLLAR. The community holds the intrinsic value, not the token. Tokens are simply an object to focus the power, talent, and tremendous ability of the community.‌
 
-**Our founding beliefs include:**
+To that end, there will be no hidden roadmap, secret plans, or other opportunities for “insiders” to buy. All future developments, roadmaps, and opportunities will be planned in the open with input from all who wish to contribute. To our future -- together.‌
 
-* Connecting people who believe that decisions are made through a fair and open dialog process. Where we hold COLLAR DAO Proposals votes and support the outcome of the community DAO voting process, even if it is not the outcome the person would have wanted it to be. ****
-* We, the COLLAR DAO of Self-Governance, challenge ourselves to promote, advance, and advocate the vision of Self-Governance with dignity, integrity, and respect for the \#collarcrew members we serve.
-
-Read our guide on [How to Participate](./#get-started-with-governance).
-
-Learn more about [How Voting Works](how-voting-works.md)
-
-
+**Morpheus**
 

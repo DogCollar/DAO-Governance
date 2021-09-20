@@ -11,13 +11,35 @@ description: >-
 
 Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with greater than 100,000,000,000 \(100 Billion\) Tokens can participate in all DAO Proposal votes.
 
-An electoral threshold is defined as a COLLAR DAO Proposal garnering greater than 20% of the circulating supply of COLLAR at the time of a COLLAR DAO Proposal meeting the posting requirements.
 
-The basic requirement for adoption of a motion by its members, with a quorum, is a Majority Vote. A majority is more than half of the votes cast by persons entitled to vote, after taking blank votes and abstentions into account. The majority does not mean 51%. Example: In a situation with 1000 votes, the majority = 501 votes \(not 51% which = 510 votes\).
 
-A supermajority voting provision, an amendment to the COLLAR founding charter, is a provision that states that certain DAO Proposal actions require much more than a mere majority – typically 67%-90% – approval from the COLLAR HODL to pass. In other words, a supermajority voting provision requires greater than a majority of COLLAR HODL approval for certain actions to be approved.  Example: Voting rights, COLLAR DAO \(minimum HODL, anti-whale, token burn requests\)
-
-The following rules have been set up in the interest of providing meaningful community oversight. Future voting rule changes will be from the outcome of public votes under the following conditions.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">September 20, 2021 - A purposed new language for consideration.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><em><code>An electoral threshold is defined as a COLLAR DAO Proposal garnering greater than 20% of the circulating supply of COLLAR at the time of a COLLAR DAO Proposal meeting the posting requirements.</code></em>
+        </p>
+        <p><em>&lt;code&gt;&lt;/code&gt;</em>
+        </p>
+        <p><em><code>The basic requirement for adoption of a motion by its members, with a quorum, is a Majority Vote. A majority is more than half of the votes cast by persons entitled to vote, after taking blank votes and abstentions into account. The majority does not mean 51%. Example: In a situation with 1000 votes, the majority = 501 votes (not 51% which = 510 votes).</code></em>
+        </p>
+        <p><em>&lt;code&gt;&lt;/code&gt;</em>
+        </p>
+        <p><em><code>A supermajority voting provision, an amendment to the COLLAR founding charter, is a provision that states that certain DAO Proposal actions require much more than a mere majority &#x2013; typically 67%-90% &#x2013; approval from the COLLAR HODL to pass. In other words, a supermajority voting provision requires greater than a majority of COLLAR HODL approval for certain actions to be approved.  Example: Voting rights, COLLAR DAO (minimum HODL, anti-whale, token burn requests)</code></em>
+        </p>
+        <p><em>&lt;code&gt;&lt;/code&gt;</em>
+        </p>
+        <p><em><code>The following rules have been set up in the interest of providing meaningful community oversight. Future voting rule changes will be from the outcome of public votes under the following conditions.</code></em>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 * Member Voting: Any COLLAR HODL with greater than 100,000,000,000 \(100 Billion\) in ONE wallet will be able to cast votes.  
 
