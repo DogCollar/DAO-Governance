@@ -1,8 +1,5 @@
 ---
-description: >-
-  Decentralized Autonomous Organization (DAO), Dog Collar (COLLAR) HODL with
-  greater than 100,000,000,000 (100 Billion) Tokens can participate in all DAO
-  Proposal votes.
+description: The power of the DAO is the Dog Collar Community.
 ---
 
 # DOG COLLAR DAO
