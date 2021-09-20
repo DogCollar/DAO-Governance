@@ -30,7 +30,7 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
         </p>
         <p><code>    * Animal resuce shelters</code>
         </p>
-        <p><code>    * Other #collarcrew recomdations</code>
+        <p><code>    * Other #collarcrew recomedations</code>
         </p>
       </td>
     </tr>
