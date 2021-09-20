@@ -11,7 +11,7 @@ description: >-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">September 20, 2021 - A purposed new language for consideration.</th>
+      <th style="text-align:left">September 20, 2021 - Purposed new language for consideration.</th>
     </tr>
   </thead>
   <tbody>
