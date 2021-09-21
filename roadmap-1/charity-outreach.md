@@ -30,7 +30,7 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
         </p>
         <p><code>    * Gifting of chickens to help others around the World.</code>
         </p>
-        <p><code>    * Gifting of goats to help others around the World.</code>
+        <p><code>    * Gifting of goats to help others around the World. </code>
         </p>
         <p><code>    * Animal resuce shelters</code>
         </p>
