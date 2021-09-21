@@ -4,7 +4,7 @@ description: 'Legal Considerations, Risks, and Disclaimer'
 
 # Do Your Own Research \(DYOR\)
 
-![](.gitbook/assets/reddit_profile_banner_template_8.jpg)
+![](.gitbook/assets/reddit_profile_banner_template_5%20%281%29.png)
 
 ## Legal Considerations, Risks, and Disclaimer
 

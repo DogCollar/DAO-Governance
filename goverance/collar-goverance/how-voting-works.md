@@ -7,7 +7,7 @@ description: >-
 
 # How Voting Works
 
-![The power of the \#CollarCrew is in the hands of us all.](../../.gitbook/assets/reddit_profile_banner_template_8.jpg)
+![](../../.gitbook/assets/reddit_profile_banner_template_5%20%281%29.png)
 
 Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with greater than 100,000,000,000 \(100 Billion\) Tokens can participate in all DAO Proposal votes.
 

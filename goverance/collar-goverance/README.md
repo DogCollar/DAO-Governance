@@ -7,7 +7,7 @@ description: >-
 
 # COLLAR Governance 101
 
-![](../../.gitbook/assets/reddit_profile_banner_template_8.jpg)
+![](../../.gitbook/assets/reddit_profile_banner_template_5.png)
 
 ## **Get Started With Governance**
 
