@@ -7,7 +7,7 @@ description: >-
 
 # How Voting Works
 
-![](../../.gitbook/assets/reddit_profile_banner_template_5%20%281%29.png)
+![](../../.gitbook/assets/1080x360.jpg)
 
 Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with greater than 100,000,000,000 \(100 Billion\) Tokens can participate in all DAO Proposal votes.
 

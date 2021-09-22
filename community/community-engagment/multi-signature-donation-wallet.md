@@ -4,7 +4,7 @@ description: Multi-signature Donation Wallet Oversight
 
 # Multi-signature Donation Wallet
 
-![](../../.gitbook/assets/reddit_profile_banner_template_5.png)
+![](../../.gitbook/assets/1080x360.jpg)
 
 The \#collarcrew selected five \(5\) community members to provide an extra layer of protection of our donated funds located at 0x23Aa05DDF32F6D20AD0d3FcFBb7F5E05a4445AF8
 

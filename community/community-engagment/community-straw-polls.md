@@ -6,7 +6,7 @@ description: >-
 
 # Community Straw Polls
 
-![](../../.gitbook/assets/reddit_profile_banner_template_5.png)
+![](../../.gitbook/assets/1080x360.jpg)
 
 Dog Collar \(COLLAR\) Community straw polls are quick polls that may happen on Discord or Telegram from time to time.  While polls are not official Governance DAO Proposals votes, we utilize the polls to ask an essential question to assist the overall community to bring forward better questions to an official DAO vote.
 

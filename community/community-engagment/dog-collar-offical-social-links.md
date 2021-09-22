@@ -1,6 +1,6 @@
 # Offical Social Links
 
-![](../../.gitbook/assets/reddit_profile_banner_template_5.png)
+![](../../.gitbook/assets/1080x360.jpg)
 
 We have an ever-growing social _**FAN**_ presence online. The following are our official supported sites for the \#collarcrew to stay current.
 

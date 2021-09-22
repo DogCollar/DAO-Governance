@@ -4,7 +4,7 @@ description: The power of the DAO is the Dog Collar Community.
 
 # COLLAR DAO
 
-![](../../.gitbook/assets/reddit_profile_banner_template_5%20%281%29.png)
+![](../../.gitbook/assets/1080x360.jpg)
 
 What Is a Decentralized Autonomous Organization \(DAO\)?
 

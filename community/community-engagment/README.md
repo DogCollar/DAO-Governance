@@ -6,7 +6,7 @@ description: >-
 
 # Community Engagment
 
-![](../../.gitbook/assets/reddit_profile_banner_template_5.png)
+![](../../.gitbook/assets/1080x360.jpg)
 
 Dog Collar \(COLLAR\) is a stand-alone project and a fully community-organized token experience.
 
