@@ -26,14 +26,9 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
         </p>
         <p><code>    * Animals clinics for operations.</code>
         </p>
-        <p><code>    * Gifting of cows for the Masai Mara people in Africa.</code>
-        </p>
-        <p><code>    * Gifting of chickens to help others around the World.</code>
-        </p>
-        <p><code>    * Gifting of goats to help others around the World. </code>
-        </p>
-        <p><code>    * Animal resuce shelters</code>
-        </p>
+        <p><code>    * Gifting restricted funds to</code><a href="https://www.theunderdog.org/"><code>Underdog International</code></a>&lt;code&gt;&lt;/code&gt;</p>
+        <p><code>    * Gifting of chickens, goats, cows, etc to </code><a href="https://www.heifer.org/gift-catalog/animals/index.html?msource=KIK1E21BS0001&amp;gclid=CjwKCAjw7rWKBhAtEiwAJ3CWLJE9fI4Z0VHn51DxQgTlKQgo7rs_6xPU-kRjoLig8QhG6Q2518Bi_BoCDyoQAvD_BwE"><code>Heifer Intetnational</code></a>&lt;code&gt;&lt;/code&gt;</p>
+        <p><code>    * Gifting restricted funds to </code><a href="https://www.internationalanimalrescue.org/"><code>International Animal Rescue</code></a>&lt;code&gt;&lt;/code&gt;</p>
         <p><code>    * Other #collarcrew recomedations</code>
         </p>
       </td>
