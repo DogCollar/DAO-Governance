@@ -9,6 +9,9 @@
   * [Multi-signature Donation Wallet](community/community-engagment/multi-signature-donation-wallet.md)
   * [Community Straw Polls](community/community-engagment/community-straw-polls.md)
   * [Offical Social Links](community/community-engagment/dog-collar-offical-social-links.md)
+  * [Media](community/community-engagment/media/README.md)
+    * [Strategic Partnership](community/community-engagment/media/strategic-partnership.md)
+    * [COLLAR Leadership](community/community-engagment/media/collar-leadership.md)
 
 ## Goverance
 
