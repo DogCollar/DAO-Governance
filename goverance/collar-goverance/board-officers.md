@@ -18,13 +18,19 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 
 `The Board chair will:`
 
-1. `In consultation with the vice chair, establish the meeting agendas;`
-2. `Call special meetings when required;`
-3. `Preside at all meetings of the Board and enforce the rules of order;`
-4. `Sign official documents that require the signature of the chair;`
-5. `Represent the COLLAR Community and the Board at official functions, unless this duty is delegated by the chair or the Board to another member of the Board;`
-6. `Appoint all committees and make all liaison appointments unless otherwise ordered by the Board;`
-7. `Have the right to discuss issues and vote.`
+`1. In consultation with the vice chair, establish the meeting agendas;`
+
+`2. Call special meetings when required;`
+
+`3. Preside at all meetings of the Board and enforce the rules of order;`
+
+`4. Sign official documents that require the signature of the chair;`
+
+`5. Represent the COLLAR Community and the Board at official functions, unless this duty is delegated by the chair or the Board to another member of the Board;`
+
+`6. Appoint all committees and make all liaison appointments unless otherwise ordered by the Board;`
+
+`7. Have the right to discuss issues and vote.`
 
 ## `Board Vice Chair`
 
