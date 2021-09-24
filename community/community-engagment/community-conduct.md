@@ -24,7 +24,7 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 
 > `2a) Point out the actions that violate the Community Conduct on COLLAR Forums and that the continued behavior(s) may lead to being muted or banned.`
 >
-> `2b) The first muting of the individual(s) shall be a minimum of 24 hours.  This time allows the leadership to review the circumstances and determining the appropriate consequences.` 
+> `2b) The first muting of the individual(s) shall be a minimum of 24 hours.  This time allows the leadership to review the circumstances and determine the appropriate consequences.` 
 >
 > `2c) A second muting will occur if an individual(s) continues or repeats the same or similar behavior. The second muting will stay in effect pending the outcome of the COLLAR DAO vote to accept or reject the leadership recommendation, including up to be banned with the reasoning of the username being prohibited from the COLLAR Community.`
 
