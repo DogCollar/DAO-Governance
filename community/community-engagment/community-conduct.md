@@ -26,7 +26,7 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 >
 > `2b) Mute the individual(s) for a period deemed appropriate.`
 >
-> `2c) Inform the individual(s) that we will utilize the COLLAR DAO to inform our community of a person that leadership requests support in banning from the venue. While we do not wish to take such actions; We will maintain a public record of the username(s). Samples of what was said and the suggested correction/remedies before being banned. As transparency is one of our modeled views for COLLAR, the individual(s) must submit a request for reconsideration. The suggestion from such individual shall fallow why the COLLAR DAO should reinstate the access to the excluded individual(s) username.`
+> `2c) Inform the individual(s) that we will utilize the COLLAR DAO to inform our community of a person that leadership requests support in banning from the venue. While we do not wish to take such actions; We will maintain a public record of the username(s). Samples of what was said and the suggested correction/remedies before being banned. As transparency is one of our modeled views for COLLAR, the individual(s) must submit a request for reconsideration. The request from such individual(s) shall incuded how they have changed and why the COLLAR DAO should reinstate access to the excluded individual(s) username(s).`
 
 `The banned individual(s) username, along with the supporting documentation, shall remain publicly available till such time that the COLLAR community votes via the COLLAR DAO to reinstate or remove the entry from the public record.`
 
