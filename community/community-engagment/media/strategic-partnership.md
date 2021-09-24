@@ -2,6 +2,8 @@
 
 ## Goji Crypto \(GOJ\) and Dog Collar \(COLLAR\) Form Strategic Partnership
 
+September 23, 2021, for immediate release.
+
 Atlanta, Georgia — Goji Crypto \(GOJ\) and Dog Collar \(COLLAR\) are pleased to announce a strategic partnership to include COLLAR Token as part of the growing list of robust cryptocurrencies supported by Goji's services.
 
 Goji is excited to welcome the ERC-20 token COLLAR to the Goji platform. This partnership will enable COLLAR to utilize the Goji platform in the Staking and Farming of the COLLAR token and the soon-to-be-released COLLAR governance token, that will be an additional reward given to COLLAR holders that elect to Stake or Farm on the GOJI platform.
@@ -29,4 +31,12 @@ Learn more about Dog Collar token at: [https://www.collartoken.com](https://www.
 Goji Crypto is Blockchain for business, simplified. Goji Crypto \("Goji"\) is a Software as a Service \(SaaS\) platform that aims to allow projects to leverage the power of the blockchain with ease. With a single, easy-to-use dashboard, the Goji platform will provide ease for businesses to receive online payments \(consumer to business\) and send and receive funds to other companies or institutions \(business to business\). In one of many possible use cases, the Goji platform would allow businesses to conduct transactions in fiat currencies across the existing Ethereum blockchain without the need for developing or maintaining their infrastructure. This user-friendly, single-pane dashboard will enable customers to execute trades in a simple interface while all exchanges and blockchain transactions happen on the SaaS back end. This functionality helps mitigate the need for the end-user to be familiar with blockchain technology or smart contracts.
 
 Learn more about Goji Crypto at: [https://www.gojicrypto.com](https://www.gojicrypto.com/)
+
+
+
+Press Release \(PR\) Picked up on:
+
+> [Benziga](https://www.benzinga.com/markets/cryptocurrency/21/09/23061133/goji-crypto-goj-and-dog-collar-collar-form-strategic-partnership)
+>
+> [Yahoo Finance](https://finance.yahoo.com/news/goji-crypto-goj-dog-collar-120503951.html?.tsrc=fin-srch)
 
