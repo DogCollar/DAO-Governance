@@ -12,15 +12,11 @@ The COLLAR community held nominations for leadership positions in early Septembe
 
 The nominated and elected leaders are Jared Dunn, Mr. Johnny Five, Nemo LShtivi, and Morpheus.
 
-> _Jared Dunn,_ "Being a part of a real project that helps bring trust and transparency to the world is an interest of mine."
->
-> _Mr. Johnny Five,_ "My friends kindly asked me to accept the nomination as they have seen me be trustworthy, a good listener, and a good-hearted person."
->
-> _Nemo,_ "I was drawn to this role because I'd provide an additional layer of security to our community. I also feel my 18 years experience in GRC will benefit our project designed targets."
->
-> _LShtivi_ "I love the transparent process of this community, and I am honored to serve."
->
-> _Morpheus_, "One of my skillsets is building consensus on complex and challenging topics. I have a proven track record in providing a safe environment for all stakeholders to be heard and to identify the best possible outcome."
+* _Jared Dunn,_ "Being a part of a real project that helps bring trust and transparency to the world is an interest of mine." 
+* _Mr. Johnny Five,_ "My friends kindly asked me to accept the nomination as they have seen me be trustworthy, a good listener, and a good-hearted person." 
+* _Nemo,_ "I was drawn to this role because I'd provide an additional layer of security to our community. I also feel my 18 years experience in GRC will benefit our project designed targets." 
+* _LShtivi_, "I love the transparent process of this community, and I am honored to serve." 
+* _Morpheus_, "One of my skillsets is building consensus on complex and challenging topics. I have a proven track record in providing a safe environment for all stakeholders to be heard and to identify the best possible outcome."
 
 The COLLAR Community voted to installed these members to staggered terms to ensure continuity in the oversight of the Dog Collar token and the multi-signature donation wallet.
 
