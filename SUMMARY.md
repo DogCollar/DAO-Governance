@@ -16,6 +16,7 @@
 ## Goverance
 
 * [COLLAR Governance 101](goverance/collar-goverance/README.md)
+  * [Board Conduct](goverance/collar-goverance/board-conduct.md)
   * [Board Officers](goverance/collar-goverance/board-officers.md)
   * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
   * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
