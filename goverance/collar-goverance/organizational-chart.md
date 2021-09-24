@@ -18,7 +18,7 @@ September 20, 2021 - Purposed new language for consideration.
 
 `Position terms. These positions are for two (2) year terms. With the best practice of not having 100% oversight turnover, we have created a staggered process to provide the best protection to our community. Position #1 and #3 will be up for election by December 31, 2022, position #2, #4 and #5 will be up for election by December 31, 2023.`
 
-![Organizational Chart Foundting Members ](../../.gitbook/assets/collar-org-diagram.png)
+![Foundting COLLAR Organizational Chart ](../../.gitbook/assets/collar-org-diagram.png)
 
 `If adopted by the #collarcrew community, each committee chair will work with other members to build the working committee. The committee chair's role is to help facilitate the committee's process and provide assistance where needed.`
 
