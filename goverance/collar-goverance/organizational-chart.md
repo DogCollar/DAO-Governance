@@ -1,18 +1,18 @@
 ---
-description: 'September 24, 2021 - Purposed new language for consideration.'
+description: 'September 24, 2021 - Proposed new language for consideration.'
 ---
 
 # Organizational Chart
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MjzrYtMLu_7_U_MQrEH%2F-Mk9bE_08u90mzH_YbWA%2F-MkAHzTIubQbcLDfuW3r%2F1080x360.jpg?alt=media&token=f3ff6257-8bfe-45da-93d3-89f6cca4d8a0)
 
-September 20, 2021 - Purposed new language for consideration.
+September 20, 2021 - Proposed language for consideration.
 
 ## `Dog Collar (COLLAR) Organizational Chart`
 
-`The COLLAR Organizational Chart is our way of showing the current elected people that the COLLAR community has voted to assist in the growth of the #collarcrew community.`
+`The COLLAR Organizational Chart is our way of showing that the current elected individulas; COLLAR as a community has voted to assist in the growth of the #collarcrew future.`
 
-`This document is to help new #collarcrew members to understand better than before they joined the #collarcrew that the community elected these people to help COLLAR.`
+`This document is to help new #collarcrew members to understand the positions acquired but to always keep in mind we are all Collar Crew. All individuals elected joined the #collarcrew and helped COLLAR evolve into what we are today. You too may grow into what you desire as we are all part of this community together.`
 
 `On September 3, 2021, the following people were installed as our founding multi-signature wallet signers are; Position #1 Morpheus, position #2 Jared Dunn, position #3 Mr. Johnny Five, position #4 Nemo, position #5 LShtivi. The multi-signature wallet signers are NOT granted additional authority over the Dog Collar (COLLAR) project.`
 

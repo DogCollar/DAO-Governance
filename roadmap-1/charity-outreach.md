@@ -1,5 +1,5 @@
 ---
-description: 'September 20, 2021 - Purposed new language for consideration.'
+description: 'September 20, 2021 - Proposed language for consideration.'
 ---
 
 # Charity Outreach
@@ -9,7 +9,7 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">September 20, 2021 - Purposed new language for consideration.</th>
+      <th style="text-align:left">September 20, 2021 - Proposed language for consideration.</th>
     </tr>
   </thead>
   <tbody>
