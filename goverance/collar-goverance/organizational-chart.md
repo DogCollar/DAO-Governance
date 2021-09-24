@@ -6,7 +6,7 @@ description: 'September 24, 2021 - Proposed new language for consideration.'
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MjzrYtMLu_7_U_MQrEH%2F-Mk9bE_08u90mzH_YbWA%2F-MkAHzTIubQbcLDfuW3r%2F1080x360.jpg?alt=media&token=f3ff6257-8bfe-45da-93d3-89f6cca4d8a0)
 
-September 20, 2021 - Proposed language for consideration.
+September 24, 2021 - Proposed language for consideration.
 
 ## `Dog Collar (COLLAR) Organizational Chart`
 

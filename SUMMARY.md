@@ -16,9 +16,10 @@
 ## Goverance
 
 * [COLLAR Governance 101](goverance/collar-goverance/README.md)
-  * [COLLAR Token](goverance/collar-goverance/collar-token.md)
-  * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
+  * [Board Officers](goverance/collar-goverance/board-officers.md)
   * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
+  * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
+  * [COLLAR Token](goverance/collar-goverance/collar-token.md)
   * [COLLAR DAO](goverance/collar-goverance/dog-collar-dao.md)
   * [How Voting Works](goverance/collar-goverance/how-voting-works.md)
   * [Vacancies](goverance/collar-goverance/vacancies.md)
