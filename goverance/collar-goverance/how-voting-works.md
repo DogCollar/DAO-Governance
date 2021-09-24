@@ -39,6 +39,10 @@ Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with g
   </tbody>
 </table>
 
+| September 24, 2021 - Purposed new language for consideration. |
+| :--- |
+| `COLLAR DAO was created with the founding vision to allow anyone wallet holder with greater than 5,000,000,000,000 COLLAR may submit a new DAO Proposal. We encourage #collarcrew members to work inside the framework of bringing forward ideas to the appropriate committee for public discussion. Please see the COLLAR Organization chart for the standing committee to identify the correct committee that matches your interest.` |
+
 * Member Voting: Any COLLAR HODL with greater than 100,000,000,000 \(100 Billion\) in ONE wallet will be able to cast votes.  
 
   * An anti-whale voting feature has been added to the DAO and will be adjusted and reported over time.

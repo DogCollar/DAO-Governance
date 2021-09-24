@@ -18,6 +18,7 @@
 * [COLLAR Governance 101](goverance/collar-goverance/README.md)
   * [COLLAR Token](goverance/collar-goverance/collar-token.md)
   * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
+  * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
   * [COLLAR DAO](goverance/collar-goverance/dog-collar-dao.md)
   * [How Voting Works](goverance/collar-goverance/how-voting-works.md)
 
