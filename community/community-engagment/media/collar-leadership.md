@@ -2,7 +2,7 @@
 
 ## Dog Collar Elects Leadership
 
-September 23, 2021, for immediate release.
+September 3, 2021, for immediate release.
 
 **Dog Collar Token \(COLLAR\)**, although still in its infancy, is stepping up and maturing into the first genuinely community-run Defi available to crypto enthusiasts around the world. Found abandoned and left wallowing in obscurity, community leader Morpheus revived this fledging token and brought it back to life as a token run by the \#CollarCrew community with a multi-pronged purpose. First minted in early August of 2021, by an unknown developer, in what was possibly an experiment in simplicity, Dog COLLAR is an ERC-20 token originally associated with Shiba Inu. After minting 1 \(one\) quadrillion tokens, the original mystery dev burnt half the total to Shib. The remaining 500 trillion COLLAR tokens, minus a small amount kept by the dev, are available to build the COLLAR community. 
 
