@@ -21,6 +21,7 @@
   * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
   * [COLLAR DAO](goverance/collar-goverance/dog-collar-dao.md)
   * [How Voting Works](goverance/collar-goverance/how-voting-works.md)
+  * [Vacancies](goverance/collar-goverance/vacancies.md)
 
 ## Roadmap <a id="roadmap-1"></a>
 
