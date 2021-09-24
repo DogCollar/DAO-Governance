@@ -24,3 +24,15 @@ September 20, 2021 - Proposed language for consideration.
 
 `Committee chairs may bring forward a committee recommendation to the COLLAR leadership for review and to confirm the proposal follows our founding vision before that recommendation moving forward for public debate`
 
+`At the first regular meeting after January 1 and also before January 31 in an election year, the Board will meet to organize for the year.`
+
+`The organizational meeting will consist of, but not be limited to, the following:`
+
+1. `Election of officers;`
+2. `Provision for a time and place for its regular meetings.`
+3. `Such other actions and appointments as are necessary and appropriate.`
+
+`The incumbent chair of the Board will preside until a successor is elected, whereupon the successor will assume the chair. In the event no incumbent chair or vice chair remains on the Board, or neither is able to continue to serve as an officer, a temporary chair will be selected to conduct the election.`
+
+`The chair will appoint Board members to the various liaison assignments as needed.`
+
