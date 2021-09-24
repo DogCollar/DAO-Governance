@@ -33,17 +33,6 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
         </p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
-
-\`\`
 
