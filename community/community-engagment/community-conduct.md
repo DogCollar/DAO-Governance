@@ -22,11 +22,13 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 
 `2) When leadership becomes aware of such bad actors, they, at the sole discretion, may utilize any of the following:`
 
-> `2a) Point out the actions that violate the Community Conduct on COLLAR Forums and that the continued behaviors may lead to being muted or banned.`
+> `2a) Point out the actions that violate the Community Conduct on COLLAR Forums and that the continued behavior(s) may lead to being muted or banned.`
 >
-> `2b) Mute the individual(s) for a period deemed appropriate.`
+> `2b) The first muting of the individual(s) shall be a minimum of 24 hours.  This time allows the leadership to review the circumstances and determining the appropriate consequences.` 
 >
-> `2c) Inform the individual(s) that we will utilize the COLLAR DAO to inform our community of a person that leadership requests support in banning from the venue. While we do not wish to take such actions; We will maintain a public record of the username(s). Samples of what was said and the suggested correction/remedies before being banned. As transparency is one of our modeled views for COLLAR, the individual(s) must submit a request for reconsideration. The request from such individual(s) shall incuded how they have changed and why the COLLAR DAO should reinstate access to the excluded individual(s) username(s).`
+> `2c) A second muting will occur if an individual(s) continues or repeats the same or similar behavior. The second muting will stay in effect pending the outcome of the COLLAR DAO vote to accept or reject the leadership recommendation, including up to be banned with the reasoning of the username being prohibited from the COLLAR Community.`
+
+> `2d) We will maintain a public posting of the username(s), screenshots. and a summary of the incident. The individual(s) may seek an appeal of the determination. Transparency and access are some of our core values. If the individual(s) seeks to be reinstated after 30 days, we may reconsider removing the ban provided the individual(s) submit the request from such individual(s) shall include how they have changed and why the COLLAR DAO should reinstate access to the excluded individual(s) username(s).`
 
 `The banned individual(s) username, along with the supporting documentation, shall remain publicly available till such time that the COLLAR community votes via the COLLAR DAO to reinstate or remove the entry from the public record.`
 
