@@ -34,7 +34,7 @@ Learn more about Goji Crypto at: [https://www.gojicrypto.com](https://www.gojicr
 
 
 
-Press Release \(PR\) Picked up on:
+Press Release \(PR\) Picked up by:
 
 > [Benziga](https://www.benzinga.com/markets/cryptocurrency/21/09/23061133/goji-crypto-goj-and-dog-collar-collar-form-strategic-partnership)
 >
