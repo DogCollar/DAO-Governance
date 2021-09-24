@@ -12,7 +12,7 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 
 ## `Community Conduct on COLLAR Forums`
 
-`The COLLAR community supports a welcoming and opening forum for all to ask questions, offer opinions and learn from each other. The following guidelines are to assist the COLLAR community in interacting with each other.`
+`The COLLAR community supports a welcoming forum for all to ask questions, offer opinions and learn from each other. The following guidelines are to assist the COLLAR community in interacting with each other.`
 
 `1) No person utilizing COLLAR forms shall:`
 
