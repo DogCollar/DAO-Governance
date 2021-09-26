@@ -2,7 +2,7 @@
 description: 'September 24, 2021 - Proposed language for consideration.'
 ---
 
-# Vacancies
+# Board Vacancies
 
 ![](../../.gitbook/assets/1080x360.jpg)
 

@@ -13,7 +13,7 @@
   * [COLLAR Token](goverance/collar-goverance/collar-token.md)
   * [COLLAR DAO](goverance/collar-goverance/dog-collar-dao.md)
   * [How Voting Works](goverance/collar-goverance/how-voting-works.md)
-  * [Vacancies](goverance/collar-goverance/vacancies.md)
+  * [Board Vacancies](goverance/collar-goverance/vacancies.md)
 
 ## Community
 
