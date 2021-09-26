@@ -17,7 +17,7 @@
 
 ## Community
 
-* [Community Engagment](community/community-engagment/README.md)
+* [Community Engagement](community/community-engagment/README.md)
   * [Community Conduct](community/community-engagment/community-conduct.md)
   * [Project Funding](community/community-engagment/project-funding-1.md)
   * [Multi-signature Donation Wallet](community/community-engagment/multi-signature-donation-wallet.md)

@@ -4,7 +4,7 @@ description: >-
   object to focus the power, talent, and tremendous ability of the community.
 ---
 
-# Community Engagment
+# Community Engagement
 
 ![](../../.gitbook/assets/1080x360.jpg)
 

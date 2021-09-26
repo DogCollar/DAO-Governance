@@ -14,7 +14,7 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 
 `The COLLAR community supports a welcoming forum for all to ask questions, offer opinions and learn from each other. The following guidelines are to assist the COLLAR community in interacting with each other.`
 
-`1) No person utilizing COLLAR official fourms shall:`
+`1) No person utilizing COLLAR official forums shall:`
 
 > `1a) Haze, harass, intimidate, bully, cyberbully or menace another, or engage in behavior deemed by the community to endanger the safety or well being of directors, staff, self, or others;` 
 >

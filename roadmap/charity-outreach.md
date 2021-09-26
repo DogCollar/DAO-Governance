@@ -22,7 +22,7 @@ description: 'September 20, 2021 - Proposed language for consideration.'
           href="../community/community-engagment/multi-signature-donation-wallet.md"><code>multi-signature donation wallet</code>
             </a>&lt;code&gt;&lt;/code&gt;</p>
         <p>&lt;code&gt;&lt;/code&gt;</p>
-        <p><code>The COLLAR DAO will direct how the funds will be utilized, but a few possilbe charitable actions could be:</code>
+        <p><code>The COLLAR DAO will direct how the funds will be utilized, but a few possible charitable actions could be:</code>
         </p>
         <p><code>    * Animals clinics for operations.</code>
         </p>
@@ -30,7 +30,7 @@ description: 'September 20, 2021 - Proposed language for consideration.'
         </p>
         <p><code>    * Gifting of chickens, goats, cows, etc to at International Agency</code>
         </p>
-        <p><code>    * Other #collarcrew recomedations</code>
+        <p><code>    * Other #collarcrew recommendations</code>
         </p>
       </td>
     </tr>
