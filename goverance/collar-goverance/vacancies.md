@@ -14,8 +14,9 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 
 `Board elections are held every year which for the purposes of this policy are termed “election” years. The appointee:`
 
-1. `Will serve until December 31 following the next “election,” at which time the individual elected in that year will fill the remaining portion of an unexpired term or serve a full two-year term; or`
-2. `Will serve until December 31 of a subsequent “election” year if the vacancy occurs after the filing date in an “election” year.`
+`1) Will serve until December 31 following the next “election,” at which time the individual elected in that year will fill the remaining portion of an unexpired term or serve a full two-year term; or`
+
+`2) Will serve until December 31 of a subsequent “election” year if the vacancy occurs after the filing date in an “election” year.`
 
 `A Board member so elected will serve the remaining years of the term of office of the Board member being replaced`
 

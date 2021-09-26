@@ -15,7 +15,7 @@ One of the major features of digital currencies is that they are decentralized. 
 DeFi inspired the foundation of the COLLAR DAO not to have a single person or institution that has more control. Our focus and attention to detail empower the \#collarcrew to have meaningful oversight of the COLLAR governance.  
 
 
-We invite and encourage the current and future \#collarcrew to join the COLLAR DAO at: [https://snapshot.org/\#/dogcollar.eth](https://governance.collartoken.com/#/) and connect with other members via our official Discord server [https://discord.gg/collarcrew](https://discord.gg/collarcrew).
+We invite and encourage the current and future \#collarcrew to join the COLLAR DAO at: [https://governance.collartoken.com/\#/](https://governance.collartoken.com/#/) and connect with other members via our official Discord server [https://discord.gg/collarcrew](https://discord.gg/collarcrew).
 
 
 
