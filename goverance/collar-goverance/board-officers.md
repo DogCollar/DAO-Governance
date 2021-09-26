@@ -12,6 +12,8 @@ description: 'September 24, 2021 - Proposed language for consideration.'
 | :--- |
 
 
+## Board Officers
+
 `At its first scheduled meeting in January, the Board will elect one of its members to serve as chair and one to serve as vice chair. No member of the Board may serve as chair more than two years in succession. If the Board member is unable to continue to serve as an officer, a replacement will be elected immediately. The replacement officer will serve the remainder of the officer’s term until the following July. The replacement term for chair does not count against the two consecutive years of service for that office.`
 
 ## `Board Chair`
