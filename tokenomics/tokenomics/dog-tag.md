@@ -35,5 +35,5 @@ description: 'September 27, 2021 - Proposed language for consideration.'
 
 ![Figure A2 \(SUBJECT TO CHANGE\)](../../.gitbook/assets/image%20%284%29.png)
 
-`See the` [**`etherscan.io`**](http://Staking%20and%20Farming%20%20Dog%20Collar%20T) `information on` [**`TAG`**](http://Staking%20and%20Farming%20%20Dog%20Collar%20T)`, additional information will be released in the future.`
+`See the` [**`etherscan.io`**](https://etherscan.io/token/0x7797c85b46f548eacc07c229f6cd207d6370442f) `information on` [**`TAG`**](https://etherscan.io/token/0x7797c85b46f548eacc07c229f6cd207d6370442f)`, additional information will be released in the future.`
 
