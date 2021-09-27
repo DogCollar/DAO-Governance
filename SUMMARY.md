@@ -29,8 +29,9 @@
 
 ## Tokenomics
 
-* [Dog Collar \(COLLAR\)](tokenomics/dog-collar-collar.md)
-* [Dog Tag \(TAG\)](tokenomics/dog-tag.md)
+* [Tokenomics](tokenomics/tokenomics/README.md)
+  * [Dog Collar \(COLLAR\)](tokenomics/tokenomics/dog-collar-collar.md)
+  * [Dog Tag \(TAG\)](tokenomics/tokenomics/dog-tag.md)
 
 ---
 
