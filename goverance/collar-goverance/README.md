@@ -20,5 +20,5 @@ Dog Collar \(COLLAR\) DAO governance describes the way rules, norms, and actions
 
 Read our guide on [How to Participate.](dog-collar-dao.md)
 
-Learn more about [How Voting Works](how-voting-works.md)
+Learn more about [How Voting Works](../../community/community-engagment/how-voting-works.md)
 
