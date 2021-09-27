@@ -42,7 +42,7 @@
 ---
 
 * [Media](media/README.md)
-  * [Strategic Partnership](media/strategic-partnership.md)
   * [COLLAR Leadership](media/collar-leadership.md)
+  * [Strategic Partnership](media/strategic-partnership.md)
 * [Do Your Own Research \(DYOR\)](do-your-own-research-dyor.md)
 
