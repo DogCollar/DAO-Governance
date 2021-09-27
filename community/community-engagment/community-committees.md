@@ -32,7 +32,9 @@ description: 'September 20, 2021 - Purposed new language for consideration.'
           </li>
           <li><code>Partnerships</code>
           </li>
-          <li><code>Social presence</code>
+          <li><code>Social Media</code>
+          </li>
+          <li><code>Charity</code>
           </li>
         </ul>
       </td>
