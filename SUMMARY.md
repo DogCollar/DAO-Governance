@@ -14,6 +14,10 @@
   * [Community Straw Polls](community/community-engagment/community-straw-polls.md)
   * [Offical Social Links](community/community-engagment/dog-collar-offical-social-links.md)
 
+## Community Paper \(CP\)
+
+* [Community Paper \(CP\)](community-paper-cp/community-paper-cp.md)
+
 ## Goverance
 
 * [COLLAR Governance 101](goverance/collar-goverance/README.md)
