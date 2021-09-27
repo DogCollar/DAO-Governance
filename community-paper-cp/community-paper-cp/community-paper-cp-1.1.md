@@ -12,7 +12,5 @@ September 27, 2021 - Proposed language for consideration.
 
 The Dog Collar Community Paper 1.1 candidate was released for the first read by the \#CollarCrew community on September 27, 2021.
 
-{% file src="../../.gitbook/assets/dog\_collar\_cp\_1-1 \(2\).pdf" caption="Dog Collar Community Paper \(CP 1.1" %}
-
-
+{% file src="../../.gitbook/assets/dog\_collar\_cp\_1-1 \(3\).pdf" caption="Dog Collar Community Paper \(CP 1.1" %}
 
