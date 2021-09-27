@@ -16,7 +16,9 @@
 
 ## Community Paper \(CP\)
 
-* [Community Paper \(CP\)](community-paper-cp/community-paper-cp.md)
+* [Community Paper \(CP\)](community-paper-cp/community-paper-cp/README.md)
+  * [Community Paper \(CP\) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0.md)
+  * [Community Paper \(CP\) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1.md)
 
 ## Goverance
 
