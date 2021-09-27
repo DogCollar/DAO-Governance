@@ -10,15 +10,7 @@
   * [Community Conduct](community/community-engagment/community-conduct.md)
   * [Community Straw Polls](community/community-engagment/community-straw-polls.md)
   * [How Voting Works](community/community-engagment/how-voting-works.md)
-  * [Multi-signature Wallet](community/community-engagment/multi-signature-donation-wallet.md)
   * [Offical Social Links](community/community-engagment/dog-collar-offical-social-links.md)
-  * [Project Funding](community/community-engagment/project-funding-1.md)
-
-## Community Paper \(CP\)
-
-* [Community Paper \(CP\)](community-paper-cp/community-paper-cp/README.md)
-  * [Community Paper \(CP\) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0.md)
-  * [Community Paper \(CP\) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1.md)
 
 ## Goverance
 
@@ -32,6 +24,18 @@
   * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
   * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
   * [Roadmap Work](goverance/collar-goverance/roadmap-work.md)
+
+## Community Paper \(CP\)
+
+* [Community Paper \(CP\)](community-paper-cp/community-paper-cp/README.md)
+  * [Community Paper \(CP\) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0.md)
+  * [Community Paper \(CP\) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1.md)
+
+## Financial Oversight
+
+* [Financial Oversight](financial-oversight/financial-oversight/README.md)
+  * [Project Funding](financial-oversight/financial-oversight/project-funding-1.md)
+  * [Multi-signature Wallet](financial-oversight/financial-oversight/multi-signature-donation-wallet.md)
 
 ## Tokenomics
 

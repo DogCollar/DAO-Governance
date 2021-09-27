@@ -16,8 +16,8 @@ To that end, there will be no hidden roadmap, secret plans, or other opportuniti
 
 Learn more about:
 
-* [Project Funding](project-funding-1.md)
-* [COLLAR Multi-Signature Donation Wallet](multi-signature-donation-wallet.md)
+* [Project Funding](../../financial-oversight/financial-oversight/project-funding-1.md)
+* [COLLAR Multi-Signature Donation Wallet](../../financial-oversight/financial-oversight/multi-signature-donation-wallet.md)
 * [Community Straw Polls](community-straw-polls.md)
 * [Official Social links](dog-collar-offical-social-links.md)
 
