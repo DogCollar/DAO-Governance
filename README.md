@@ -25,5 +25,5 @@ _​_[_Inspect the Dog Collar Code._](https://etherscan.io/address/0x9783b81438c
 
 To our future -- together.‌
 
-**Morpheus \#CollarCrew**
+### _**Morpheus**_
 
