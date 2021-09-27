@@ -11,25 +11,23 @@ description: 'September 27, 2021 - Proposed language for consideration.'
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"><code>September 27, 2021 - Proposed language for consideration.</code>
-      </th>
+      <th style="text-align:left">September 20, 2021 - Proposed language for consideration.</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p><code><br />Dog Tag (TAG) is key to our long-term future of COLLAR.  TAG offers a method of ongoing funding to our COLLAR organization by providing the funding needed to operate our growing operations, direction will be provided via our DAO voting.</code>
+        <p><code>Dog Collar Token (COLLAR) will be listed on the Goji Crypto platform. This gives our token the capability to leverage the &quot;as a Service&quot; functionalities that GOJ offers; Goji Lock, Goji Farming, Goji Staking, Goji Dao and GojiSwap these services are distributed by a decentralized application that interfaces a smart contract within the Ethereum and Polygon networks, other chains are slated in 2022. These centralized applications gives COLLAR the benefit to scale rapidly and are accessible across the globe with security in mind.</code>
         </p>
         <p>&lt;code&gt;&lt;/code&gt;</p>
-        <p><code>Figure A1 visualizes the ONE TIME distributions of the governance token called TAG.  TAG will become the COLLAR oversight governance token via our COLLAR DAO.  TAG will not go into effect as the governance token of COLLAR until 30 days post-deployment on the GOJ platform as a Service.</code>
-        </p>
-        <p>&lt;code&gt;&lt;/code&gt;</p>
-        <p><code>We have analyzed many different best practice business models and the information contained in Figure A1 provides a method of fiscal responsibility, treasury, reserves, and incentives to achieve our lofty goals in bringing COLLAR to the forefront as the Gold Standard in self-governance.</code>
+        <p><code>Through the GOJ platorm of services, allows COLLAR to impliment the new Goverance Token called Dog Tag (TAG).  TAG will become the COLLAR DAO token used to govern COLLAR.</code>
         </p>
       </td>
     </tr>
   </tbody>
 </table>
+
+
 
 ![Figure A1 \(SUBJECT TO CHANGE\)](../../.gitbook/assets/image%20%283%29.png)
 
