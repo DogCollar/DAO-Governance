@@ -1,12 +1,6 @@
----
-description: 'September 27, 2021 - Proposed language for consideration.'
----
-
 # Community Paper \(CP\) 1.1
 
 ![](../../../.gitbook/assets/1080x360.jpg)
-
-September 27, 2021 - Proposed language for consideration.
 
 ## Dog Collar Community Paper \(CP\) 1.1 Candidate
 
