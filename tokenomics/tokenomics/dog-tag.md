@@ -6,28 +6,11 @@ description: 'September 27, 2021 - Proposed language for consideration.'
 
 ![](../../.gitbook/assets/1080x360.jpg)
 
-## **`Dog Tag (TAG) Reward and Governance Token to COLLAR`**
+## **Dog Tag \(TAG\) Reward and Governance Token to COLLAR**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">September 20, 2021 - Proposed language for consideration.</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p><code>Dog Collar Token (COLLAR) will be listed on the Goji Crypto platform. This gives our token the capability to leverage the &quot;as a Service&quot; functionalities that GOJ offers; Goji Lock, Goji Farming, Goji Staking, Goji Dao and GojiSwap these services are distributed by a decentralized application that interfaces a smart contract within the Ethereum and Polygon networks, other chains are slated in 2022. These centralized applications gives COLLAR the benefit to scale rapidly and are accessible across the globe with security in mind.</code>
-        </p>
-        <p>&lt;code&gt;&lt;/code&gt;</p>
-        <p><code>Through the GOJ platorm of services, allows COLLAR to impliment the new Goverance Token called Dog Tag (TAG).  TAG will become the COLLAR DAO token used to govern COLLAR.</code>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+Dog Collar Token \(COLLAR\) will be listed on the Goji Crypto platform. This gives our token the capability to leverage the "as a Service" functionalities that GOJ offers; Goji Lock, Goji Farming, Goji Staking, Goji Dao**,** and GojiSwap these services are distributed by a decentralized application that interfaces a smart contract within the Ethereum and Polygon networks, other chains are slated in 2022. These centralized applications give COLLAR the benefit to scale rapidly and are accessible across the globe with security in mind.
 
-
+Through the GOJ platform of services, allows COLLAR to implement the new Governance Token called Dog Tag \(TAG\). TAG will become the COLLAR DAO token used to govern COLLAR.
 
 ![Figure A1 \(SUBJECT TO CHANGE\)](../../.gitbook/assets/image%20%283%29.png)
 
