@@ -35,7 +35,7 @@ Figure A2 visualizes the ONGOING distributions of the governance token called TA
 
 The 375 Million TAG Tokens will be released at the time COLLAR is deployed on the GOJ platform.
 
-![Figure A2 \(SUBJECT TO CHANGE\)](../../.gitbook/assets/image%20%284%29.png)
+![Figure A2 \(SUBJECT TO CHANGE\)](../../.gitbook/assets/image%20%285%29%20%281%29.png)
 
 See the [**etherscan.io**](https://etherscan.io/token/0x7797c85b46f548eacc07c229f6cd207d6370442f) information on [**TAG**](https://etherscan.io/token/0x7797c85b46f548eacc07c229f6cd207d6370442f), additional information will be released in the future.
 
