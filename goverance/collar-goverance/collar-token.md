@@ -12,7 +12,7 @@ COLLAR is the governance token and recapitalization founding token of the COLLAR
 
 ## COLLAR as a governance token
 
-As a governance token, COLLAR is used by its holders to vote on a number of different things. Voting is used to execute changes to parameters inside of the COLLAR governance like token objectives, charity goals, and many others. Voting is also used to make decisions on the non-technical aspects of for the community like asset priority lists, governance processes, role mandates, and even electing individuals to fill specific roles. To learn more about governance of COLLAR visit [COLLAR Governance 101](./).
+As a governance token, COLLAR is used by its holders to vote on a number of different things. Voting is used to execute changes to parameters inside of the COLLAR governance like token objectives, charity goals, and many others. Voting is also used to make decisions on the non-technical aspects of for the community like asset priority lists, governance processes, role mandates, and even electing individuals to fill specific roles. To learn more about the governance of COLLAR visit [COLLAR Governance 101](./).
 
 ## What responsibilities do COLLAR holders have? 
 
