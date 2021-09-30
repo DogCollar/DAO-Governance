@@ -1,7 +1,3 @@
----
-description: 'September 20, 2021 - Purposed new language for consideration.'
----
-
 # Community Committees
 
 ![](../../.gitbook/assets/1080x360.jpg)

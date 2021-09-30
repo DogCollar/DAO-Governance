@@ -1,14 +1,10 @@
----
-description: Dog Collar (COLLAR) is an ERC-20 token.
----
-
 # COLLAR Token
 
 ![](../../.gitbook/assets/1080x360.jpg)
 
 ## What is the COLLAR token used for?
 
-COLLAR is the governance token and recapitalization founding token of the COLLAR Tokenomics.
+Dog Collar \(COLLAR\) is an ERC-20 token. COLLAR is the governance token and recapitalization founding token of the COLLAR Tokenomics.
 
 ## COLLAR as a governance token
 

@@ -1,15 +1,10 @@
----
-description: >-
-  Dog Collar DAO is a decentralized governance community that enables the Dog
-  Collar Community to self-govern. The Dog Collar Community HODL has the sole
-  authority to enact changes.
----
-
 # COLLAR Governance 101
 
 ![](../../.gitbook/assets/1080x360.jpg)
 
 ## **Get Started With Governance**
+
+Dog Collar DAO is a decentralized governance community that enables the Dog Collar Community to self-govern. The Dog Collar Community HODL has the sole authority to enact changes.
 
 Dog Collar \(COLLAR\) DAO governance describes the way rules, norms, and actions are structured, sustained, regulated, and upheld.
 

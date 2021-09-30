@@ -1,7 +1,3 @@
----
-description: 'September 20, 2021 - Proposed language for consideration.'
----
-
 # Charity Outreach
 
 ![](../../.gitbook/assets/1080x360.jpg)

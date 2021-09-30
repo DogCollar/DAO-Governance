@@ -1,10 +1,3 @@
----
-description: >-
-  This guide describes the Voting responsible for facilitating off-chain voting
-  in the form of Governance Proposals and or Executive Votes conducted to
-  maintain the Dog Collar DAO.
----
-
 # How Voting Works
 
 ![](../../.gitbook/assets/1080x360.jpg)

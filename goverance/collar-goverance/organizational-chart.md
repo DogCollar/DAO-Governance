@@ -2,7 +2,7 @@
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MjzrYtMLu_7_U_MQrEH%2F-Mk9bE_08u90mzH_YbWA%2F-MkAHzTIubQbcLDfuW3r%2F1080x360.jpg?alt=media&token=f3ff6257-8bfe-45da-93d3-89f6cca4d8a0)
 
-## `Dog Collar (COLLAR) Organizational Chart`
+## Dog Collar \(COLLAR\) Organizational Chart
 
 The COLLAR Organizational Chart is our way of showing that the current elected individulas; COLLAR as a community has voted to assist in the growth of the \#collarcrew future.
 
@@ -14,7 +14,7 @@ Position terms. These positions are for two \(2\) year terms. With the best prac
 
 ![Founding COLLAR Organizational Chart ](../../.gitbook/assets/collar-org-diagram.png)
 
-The \#collarcrew community, each committee chair will work with other members to build the working committee. The committee chair's role is to help facilitate the committee's process and provide assistance where needed.
+In the \#collarcrew community, each committee chair will work with other members to build the working committee. The committee chair's role is to help facilitate the committee's process and provide assistance where needed.
 
 Committee chairs may bring forward a committee recommendation to the COLLAR leadership for review and to confirm the proposal follows our founding vision before that recommendation moving forward for public debate
 

@@ -1,7 +1,3 @@
----
-description: The power of the DAO is the Dog Collar Community.
----
-
 # COLLAR DAO
 
 ![](../../.gitbook/assets/1080x360.jpg)

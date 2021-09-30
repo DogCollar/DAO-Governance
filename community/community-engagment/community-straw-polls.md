@@ -1,9 +1,3 @@
----
-description: >-
-  Dog Collar (COLLAR) Community straw polls are quick polls that may happen on
-  Discord or Telegram from time to time.
----
-
 # Community Straw Polls
 
 ![](../../.gitbook/assets/1080x360.jpg)
