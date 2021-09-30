@@ -2,7 +2,9 @@
 
 ![](../../.gitbook/assets/1080x360.jpg)
 
-Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with greater than 100,000,000,000 \(100 Billion\) Tokens can participate in all DAO Proposal votes.
+## Dog Collar \(COLLAR\) DAO
+
+Decentralized Autonomous Organization \(DAO\), Dog Collar \(COLLAR\) HODL with greater than 100,000,000,000 \(100 Billion\) COLLAR Tokens can participate in all DAO Proposal votes.  On September 29, 2021, a COLLAR DAO vote approved adopting CP 1.1, with the direction to transition the COLLAR DAO governance from Dog Collar \(COLLAR\) token to the governance token Dog Tag \(TAG\) 30 days after COLLAR is deployed on the GOJ platform.
 
 An electoral threshold is defined as a COLLAR DAO Proposal garnering greater than 20% of the circulating supply of COLLAR at the time of a COLLAR DAO Proposal meeting the posting requirements.
 

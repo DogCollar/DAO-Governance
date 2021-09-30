@@ -1,8 +1,8 @@
-# COLLAR DAO
+# Dog Collar DAO
 
 ![](../../.gitbook/assets/1080x360.jpg)
 
-What Is a Decentralized Autonomous Organization \(DAO\)?
+## What Is a Decentralized Autonomous Organization \(DAO\)?
 
 One of the major features of digital currencies is that they are decentralized. This means they are not controlled by a single institution like a government or central bank, but instead are divided among a variety of computers, networks, and nodes. In many cases, virtual currencies make use of this decentralized status to attain levels of privacy and security that are typically unavailable to standard currencies and their transactions.
 

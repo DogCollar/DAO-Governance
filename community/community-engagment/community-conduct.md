@@ -9,9 +9,7 @@ The COLLAR community supports a welcoming forum for all to ask questions, offer 
 1\) No person utilizing COLLAR official forums shall:
 
 1. Haze, harass, intimidate, bully, cyberbully or menace another, or engage in behavior deemed by the community to endanger the safety or well being of directors, staff, self, or others; 
-2. Initiate or circulate information one knows to be false concerning alleged tactics used by trolls that the community deems to divide members from the community's goodwill.
-
-
+2. Initiate or circulate information one knows to be false concerning alleged tactics used by trolls that the community deems to divide members from the community's goodwill. 
 
 2\) When leadership becomes aware of such bad actors, they, at the sole discretion, may utilize any of the following:
 

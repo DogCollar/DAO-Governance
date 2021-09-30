@@ -8,5 +8,5 @@ Figure A2 visualizes the ONGOING distributions of the governance token called TA
 
 ![Figure A2 \(SUBJECT TO CHANGE\)](../../.gitbook/assets/image%20%285%29.png)
 
-The Dog Collar Community Paper \(CP\) 1.2 will expand the Staking and Farming of both COLLAR and TAG.  CP version 1.2 will describe the incentives ratio of staking and farming of both COLLAR and TAG.
+The Dog Collar Community Paper \(CP\) 1.2 \(NOT RELEASED\) will expand the Staking and Farming of both COLLAR and TAG.  The CP version 1.2 will also describe the incentives ratio of staking and farming of both COLLAR and TAG.
 
