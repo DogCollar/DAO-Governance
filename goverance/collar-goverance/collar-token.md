@@ -4,7 +4,7 @@
 
 ## What is the COLLAR token used for?
 
-Dog Collar \(COLLAR\) is an ERC-20 token. COLLAR is the governance token and recapitalization founding token of the COLLAR Tokenomics.
+Dog Collar (COLLAR) is an ERC-20 token. COLLAR is the governance token and recapitalization founding token of the COLLAR Tokenomics.
 
 ## COLLAR as a governance token
 
@@ -20,6 +20,4 @@ COLLAR HODL have the ability to enact technical changes to the COLLAR DAO itself
 
 ## How much **COLLAR** is there?
 
-There were a total of 1,000,000,000,000,000 COLLAR at the inception, of which 1/2 \(500 Trillion\) have been verified to be burned. COLLAR currently has 500 Trillion available, see the [COLLAR Token Contract on Etherscan.](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#balances)  
-
-
+There were a total of 1,000,000,000,000,000 COLLAR at the inception, of which 1/2 (500 Trillion) have been verified to be burned. COLLAR currently has 500 Trillion available, see the [COLLAR Token Contract on Etherscan.](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#balances)\

@@ -25,13 +25,14 @@
   * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
   * [Roadmap Work](goverance/collar-goverance/roadmap-work.md)
 
-## Community Paper \(CP\)
+## Community Paper (CP)
 
-* [Community Paper \(CP\)](community-paper-cp/community-paper-cp/README.md)
-  * [Community Paper \(CP\) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0/README.md)
+* [Community Paper (CP)](community-paper-cp/community-paper-cp/README.md)
+  * [Community Paper (CP) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0/README.md)
     * [CP 1.0 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.0/cp-1.0-dao-results.md)
-  * [Community Paper \(CP\) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1/README.md)
+  * [Community Paper (CP) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1/README.md)
     * [CP 1.1 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.1/cp-1.1-dao-results.md)
+  * [CP 1.2 Candidate](community-paper-cp/community-paper-cp/cp-1.2-candidate.md)
 
 ## Financial Oversight
 
@@ -42,13 +43,12 @@
 ## Tokenomics
 
 * [Tokenomics](tokenomics/tokenomics/README.md)
-  * [Dog Collar \(COLLAR\)](tokenomics/tokenomics/dog-collar-collar.md)
-  * [Dog Tag \(TAG\)](tokenomics/tokenomics/dog-tag.md)
+  * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
+  * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
 
----
+***
 
 * [Media](media/README.md)
   * [COLLAR Leadership](media/collar-leadership.md)
   * [Strategic Partnership](media/strategic-partnership.md)
-* [Do Your Own Research \(DYOR\)](do-your-own-research-dyor.md)
-
+* [Do Your Own Research (DYOR)](do-your-own-research-dyor.md)
