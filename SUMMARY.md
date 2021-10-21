@@ -37,23 +37,21 @@
 
 ## Collarquest
 
-* [CollarQuest](collarquest/collarquest.md)
-* [Gameplay](collarquest/gameplay/README.md)
-  * [Battling](collarquest/gameplay/battling/README.md)
-    * [Tournaments](collarquest/gameplay/battling/tournaments.md)
-
-***
-
-* [Breeding](breeding.md)
-* [SPARC-E Population](sparc-e-population.md)
-* [Land](land/README.md)
-  * [Ariomont SDK](land/ariomont-sdk.md)
-* [Dog Tag (TAG) - $TAG](dog-tag-tag-usdtag/README.md)
-  * [Allocation & Unlocking](dog-tag-tag-usdtag/allocation-and-unlocking.md)
-  * [Play to Earn](dog-tag-tag-usdtag/play-to-earn.md)
-  * [Staking and Staking Rewards](dog-tag-tag-usdtag/staking-and-staking-rewards.md)
-  * [Ecosystem Fund](dog-tag-tag-usdtag/ecosystem-fund.md)
-  * [Third-party development](dog-tag-tag-usdtag/third-party-development.md)
+* [CollarQuest](collarquest/collarquest/README.md)
+  * [Gameplay](collarquest/collarquest/gameplay/README.md)
+    * [Adventure](collarquest/collarquest/gameplay/adventure.md)
+    * [Battling](collarquest/collarquest/gameplay/battling/README.md)
+      * [Tournaments](collarquest/collarquest/gameplay/battling/tournaments.md)
+    * [Land](collarquest/collarquest/gameplay/land/README.md)
+      * [Ariomont SDK](collarquest/collarquest/gameplay/land/ariomont-sdk.md)
+  * [Breeding](collarquest/collarquest/breeding.md)
+  * [SPARC-E Population](collarquest/collarquest/sparc-e-population.md)
+  * [Dog Tag (TAG) - $TAG](collarquest/collarquest/dog-tag-tag-usdtag/README.md)
+    * [Allocation & Unlocking](collarquest/collarquest/dog-tag-tag-usdtag/allocation-and-unlocking.md)
+    * [Play to Earn](collarquest/collarquest/dog-tag-tag-usdtag/play-to-earn.md)
+    * [Staking and Staking Rewards](collarquest/collarquest/dog-tag-tag-usdtag/staking-and-staking-rewards.md)
+    * [Ecosystem Fund](collarquest/collarquest/dog-tag-tag-usdtag/ecosystem-fund.md)
+    * [Third-party development](collarquest/collarquest/dog-tag-tag-usdtag/third-party-development.md)
 
 ## Financial Oversight
 

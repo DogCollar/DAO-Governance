@@ -4,7 +4,7 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # CollarQuest
 
-![](../.gitbook/assets/CollarQuest.png)
+![](../../.gitbook/assets/CollarQuest.png)
 
 The Dog Collar Metaverse game project under development has been dubbed **CollarQuest**. CollarQuest will be a fun and engaging game which can be played on any desktop, laptop, or device. While the story is still being crafted, its core gameplay will focus on the adventures of robot dog-types called "Sentient Programmable Assault & Reconnaissance Canine - Entity", or SPARC-E for short. SPARC-Es will be created as NFTs with random characteristics, abilities, and various skills, which may battle against computer-controlled opponents or other real-life players.
 
