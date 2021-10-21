@@ -32,7 +32,28 @@
     * [CP 1.0 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.0/cp-1.0-dao-results.md)
   * [Community Paper (CP) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1/README.md)
     * [CP 1.1 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.1/cp-1.1-dao-results.md)
-  * [CP 1.2 Candidate](community-paper-cp/community-paper-cp/cp-1.2-candidate.md)
+  * [Community Paper (CP) 1.2](community-paper-cp/community-paper-cp/community-paper-cp-1.2/README.md)
+    * [CP 1.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.2/cp-1.2-dao-results.md)
+
+## Collarquest
+
+* [CollarQuest](collarquest/collarquest.md)
+* [Gameplay](collarquest/gameplay/README.md)
+  * [Battling](collarquest/gameplay/battling/README.md)
+    * [Tournaments](collarquest/gameplay/battling/tournaments.md)
+
+***
+
+* [Breeding](breeding.md)
+* [SPARC-E Population](sparc-e-population.md)
+* [Land](land/README.md)
+  * [Ariomont SDK](land/ariomont-sdk.md)
+* [Dog Tag (TAG) - $TAG](dog-tag-tag-usdtag/README.md)
+  * [Allocation & Unlocking](dog-tag-tag-usdtag/allocation-and-unlocking.md)
+  * [Play to Earn](dog-tag-tag-usdtag/play-to-earn.md)
+  * [Staking and Staking Rewards](dog-tag-tag-usdtag/staking-and-staking-rewards.md)
+  * [Ecosystem Fund](dog-tag-tag-usdtag/ecosystem-fund.md)
+  * [Third-party development](dog-tag-tag-usdtag/third-party-development.md)
 
 ## Financial Oversight
 
