@@ -68,7 +68,7 @@
 ***
 
 * [Media](media/README.md)
-  * [COLLAR Podcast](media/collar-podcast.md)
   * [COLLAR Leadership](media/collar-leadership.md)
   * [Strategic Partnership](media/strategic-partnership.md)
+  * [COLLAR Podcast](media/collar-podcast.md)
 * [Do Your Own Research (DYOR)](do-your-own-research-dyor.md)
