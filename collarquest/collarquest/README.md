@@ -16,7 +16,7 @@ All art assets and CollarQuest genetic data can be easily accessed by 3rd partie
 
 While CollarQuest will be a fun game, it's also taken on characteristics of a social network and jobs platform due to the forecasted strong community and play to earn opportunities.
 
-The key difference between CollarQuest and a traditional game is that Blockchain economic design is used to reward our players for their contributions to the ecosystem. This new model of gaming has been dubbed "play to earn".  CollarQuest will attract thousands of players from developing countries in the pursuit of a new income stream.
+The key difference between CollarQuest and a traditional game is that Blockchain economic design is used to reward our players for their contributions to the ecosystem. This new model of gaming has been dubbed "play to earn".  CollarQuest will attract thousands of players from all countries in the pursuit of a new income stream.
 
 Players can earn by:
 
