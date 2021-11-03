@@ -22,7 +22,7 @@ Rules vary from CollarQuest Academy cadet to cadet. Some of the rules you may ne
 
 1\. Multi-Accounting or Botting is strictly forbidden. As a cadet, you will only play on the account provided to you during your CollarQuest Academy tenure. Please never share your account password or QR code with anyone. You can NOT play more than ONE account. You cannot share a device with another player in your household to play SPARC-E. 1 account per device!
 
-2\. If you are banned for any reason, (botting, multi-account earning, violating CollarQuest Academy Terms of service, etc) all (not release info) will be lost.
+2\. If you are banned for any reason, (botting, multi-account earning, violating CollarQuest Academy Terms of service, etc) all  (NOT TELLING YET)  will be lost.
 
 3\. You must understand the CollarQuest Academy terms of use https://www.collarquest.com/terms/ and agree to follow them.
 
@@ -33,11 +33,11 @@ Rules vary from CollarQuest Academy cadet to cadet. Some of the rules you may ne
 #### **Other things you should watch out for are:**
 
 * Track record and who is behind the CollarQuest Academy. Are they well-known or anonymous?
-* What is the (not released info) payout – Ie, is it 70 to you and 30 to the manager? Make sure you get a good payout!
-* What is the (not released yet) minimum – High (not released yet) minimums may be impossible to get to and will be stressful!
+* What is the (NOT TELLING YET) payout – Ie, is it 70 to you and 30 to the manager? Make sure you get a good payout!
+* What is the (NOT TELLING YET) minimum – High (NOT TELLING YET) minimums may be impossible to get to and will be stressful!
 * What sort of SPARC-Es are you getting (floor SPARC-E are tough to grind anything on)
 * How active are the managers and what is their reputation?
 
 ### **Do you have SPARC-Es for CollarQuest Academy?**
 
-Visit this page often for additional information.
+Visit this page often as we are building this content.
