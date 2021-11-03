@@ -52,6 +52,7 @@
     * [Staking and Staking Rewards](collarquest/collarquest/dog-tag-tag-usdtag/staking-and-staking-rewards.md)
     * [Ecosystem Fund](collarquest/collarquest/dog-tag-tag-usdtag/ecosystem-fund.md)
     * [Third-party development](collarquest/collarquest/dog-tag-tag-usdtag/third-party-development.md)
+  * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
 
 ## Financial Oversight
 
