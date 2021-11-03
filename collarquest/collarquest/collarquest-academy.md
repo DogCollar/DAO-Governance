@@ -1,6 +1,6 @@
 # CollarQuest Academy
 
-###
+![](<../../.gitbook/assets/image (4).png>)
 
 ### What is CollarQuest Academy?
 
@@ -15,3 +15,29 @@ Becoming a CollarQuest Academy Cadet involves a lot of trust because all of the 
 There are several ways to get a SPARC-Es via the CollarQuest Academy but the most effective way is still personally knowing a SPARC-Es manager and asking to be their cadet. Because of the saturation of players wanting to play without being able to afford their own teams, there is an unlimited supply of potential cadets. Most of which come from 3rd world countries such as the Philippines.
 
 In fact, there is so much demand for a SPARC-Es CollarQuest Academy that people who want one will be willing to write resumes and are constantly posting in SPARC-Es Manager groups with why they should be chosen. If you are looking for a SPARC-Es CollarQuest Academy, I suggest that you start in the COLLAR discord server
+
+### **What to look for as a Cadet?**
+
+Rules vary from CollarQuest Academy cadet to cadet. Some of the rules you may need to follow might look like this.
+
+1\. Multi-Accounting or Botting is strictly forbidden. As a cadet, you will only play on the account provided to you during your CollarQuest Academy tenure. Please never share your account password or QR code with anyone. You can NOT play more than ONE account. You cannot share a device with another player in your household to play SPARC-E. 1 account per device!
+
+2\. If you are banned for any reason, (botting, multi-account earning, violating CollarQuest Academy Terms of service, etc) all (not release info) will be lost.
+
+3\. You must understand the CollarQuest Academy terms of use https://www.collarquest.com/terms/ and agree to follow them.
+
+4\. Be respectful when you post on the Official CollarQuest discord server. No wen this, wen that. Fix this, nerf that. Use the Ask-A-Manager channel if you have any questions first.
+
+5\. If you would like to search for another CollarQuest Academy relationship while a cadet here, you must inform a manager first. Do not apply if you already are a cadet.
+
+#### **Other things you should watch out for are:**
+
+* Track record and who is behind the CollarQuest Academy. Are they well-known or anonymous?
+* What is the (not released info) payout – Ie, is it 70 to you and 30 to the manager? Make sure you get a good payout!
+* What is the (not released yet) minimum – High (not released yet) minimums may be impossible to get to and will be stressful!
+* What sort of SPARC-Es are you getting (floor SPARC-E are tough to grind anything on)
+* How active are the managers and what is their reputation?
+
+### **Do you have SPARC-Es for CollarQuest Academy?**
+
+Visit this page often for additional information.
