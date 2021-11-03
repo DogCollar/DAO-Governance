@@ -1,6 +1,6 @@
 # CollarQuest Academy
 
-![](<../../.gitbook/assets/image (4).png>)
+![](../../.gitbook/assets/CollarQuest.png)
 
 ### What is CollarQuest Academy?
 
