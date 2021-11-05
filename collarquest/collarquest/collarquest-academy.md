@@ -4,9 +4,9 @@
 
 ### What is CollarQuest Academy?
 
-A CollarQuest Academy manager is when (a player who has more than enough SPARC-E) gets a cadet (a player who can’t afford their own SPARC-E team) to play the game for them using their SPARC-E. The (NOT TELLING YET) earned by the cadet will then be split between the manager and the cadet depending on their agreement. It can be 50-50, 60-40, or however their conversation will go.
+A CollarQuest Academy manager is when (a player who has more than enough SPARC-E) gets a cadet (a player who can’t afford their own SPARC-E team) to play the game for them using their SPARC-E. The Genesis Mechanism (GeM) earned by the cadet will then be split between the manager and the cadet depending on their agreement. It can be 50-50, 60-40, or however their conversation will go.
 
-Cadets do not have access to the (NOT TELLING YET) that they earned in-game. It will be the manager that will process the withdrawal of the (NOT TELLING YET). The cadet can opt to receive either hard cash of their chosen currency (USD, (NOT TELLING YET), etc.) or cryptocurrency (TAG, ETH, etc.). Payment schemes should be discussed beforehand given that withdrawals can only be done once every 2 weeks. Both cadet and manager should also consider the timing of withdrawals because of the fluctuating nature of (NOT TELLING YET) and crypto in general, what is $100 in (NOT TELLING YET) today, may be worth $150 tomorrow or less, etc.
+Cadets do not have access to the GeM token that they earned in-game. It will be the manager that will process the withdrawal of the GeM token. The cadet can opt to receive either hard cash of their chosen currency (USD, GeM token, etc.) or cryptocurrency (TAG, ETH, etc.). Payment schemes should be discussed beforehand given that withdrawals can only be done once every 2 weeks. Both cadet and manager should also consider the timing of withdrawals because of the fluctuating nature of GeM token and crypto in general, what is $100 in GeM token today, may be worth $150 tomorrow or less, etc.
 
 ### **How do I become a **CollarQuest Academy **Cadet?**
 
@@ -22,7 +22,7 @@ Rules vary from CollarQuest Academy cadet to cadet. Some of the rules you may ne
 
 1\. Multi-Accounting or Botting is strictly forbidden. As a cadet, you will only play on the account provided to you during your CollarQuest Academy tenure. Please never share your account password or QR code with anyone. You can NOT play more than ONE account. You cannot share a device with another player in your household to play SPARC-E. 1 account per device!
 
-2\. If you are banned for any reason, (botting, multi-account earning, violating CollarQuest Academy Terms of service, etc) all  (NOT TELLING YET)  will be lost.
+2\. If you are banned for any reason, (botting, multi-account earning, violating CollarQuest Academy Terms of service, etc) all GeM token will be lost.
 
 3\. You must understand the CollarQuest Academy terms of use https://www.collarquest.com/terms/ and agree to follow them.
 
@@ -33,8 +33,8 @@ Rules vary from CollarQuest Academy cadet to cadet. Some of the rules you may ne
 #### **Other things you should watch out for are:**
 
 * Track record and who is behind the CollarQuest Academy. Are they well-known or anonymous?
-* What is the (NOT TELLING YET) payout – Ie, is it 70 to you and 30 to the manager? Make sure you get a good payout!
-* What is the (NOT TELLING YET) minimum – High (NOT TELLING YET) minimums may be impossible to get to and will be stressful!
+* What is the GeM token payout – Ie, is it 70 to you and 30 to the manager? Make sure you get a good payout!
+* What is theGeM token minimum – High GeM token minimums may be impossible to get to and will be stressful!
 * What sort of SPARC-Es are you getting (floor SPARC-E are tough to grind anything on)
 * How active are the managers and what is their reputation?
 
