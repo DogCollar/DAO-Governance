@@ -1,6 +1,6 @@
 # Community Paper (CP) 1.2
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 ## Dog Collar Community Paper (CP) 1.2 Adopted
 

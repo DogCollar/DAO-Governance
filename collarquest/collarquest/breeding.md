@@ -6,12 +6,12 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 Like real-world pets, SPARC-E can be bred to create new offspring. To avoid hyperinflation of SPARC-E there is a maximum amount of times a SPARC-E can be bred before it is sterile.
 
-Breeding a SPARC-E costs TAG and some Seed Life Program (SLP) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
+Breeding a SPARC-E costs TAG and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
 
-* CollarQuest does not sell $SLP to players directly
-* CollarQuest does not provide liquidity for $SLP
+* CollarQuest does not sell $GeMto players directly
+* CollarQuest does not provide liquidity for $GeM
 
-| **Breed Count** | **Breed Number** | **Total SLP Cost** |
+| **Breed Count** | **Breed Number** | **Total GeM Cost** |
 | --------------- | ---------------- | ------------------ |
 | **(0/7)**       | **1**            | **600**            |
 | **(1/7)**       | **2**            | **900**            |

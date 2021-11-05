@@ -1,0 +1,16 @@
+# Genesis Mechanism (GeM)
+
+## Genesis Mechanism (GeM)** CollarQuest Reward**
+
+Like real-world pets, SPARC-Es can be bred to create new offspring. To avoid hyperinflation of SPARC-Es there is a maximum amount of times a SPARC-Es can be bred before it is sterile.
+
+Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
+
+* CollarQuest does not sell $GeM players directly
+* CollarQuest does not provide liquidity for $GeM
+
+![Figure A1 (SUBJECT TO CHANGE)](<../../.gitbook/assets/image (1).png>)
+
+The 2.5 BIllion GeM Tokens will be available over time in CollarQuest.
+
+See the [**etherscan.io**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f) information on [**G**eM](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f), additional information will be released in the future.

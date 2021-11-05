@@ -65,6 +65,7 @@
 * [Tokenomics](tokenomics/tokenomics/README.md)
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
+  * [Genesis Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md)
 
 ***
 
