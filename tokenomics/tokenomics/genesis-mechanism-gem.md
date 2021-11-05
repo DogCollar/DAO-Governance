@@ -13,4 +13,4 @@ Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) dependin
 
 The 2.5 BIllion GeM Tokens will be available over time in CollarQuest.
 
-See the [**etherscan.io**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f) information on [**G**eM](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f), additional information will be released in the future.
+See the [**etherscan.io**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f) information on [**GeM**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f), additional information will be released in the future.
