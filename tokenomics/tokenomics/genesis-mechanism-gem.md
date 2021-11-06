@@ -1,3 +1,7 @@
+---
+description: Pending COLLAR DAO vote
+---
+
 # Genesis Mechanism (GeM)
 
 ## Genesis Mechanism (GeM)** CollarQuest Reward**
