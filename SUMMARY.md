@@ -34,6 +34,7 @@
     * [CP 1.1 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.1/cp-1.1-dao-results.md)
   * [Community Paper (CP) 1.2](community-paper-cp/community-paper-cp/community-paper-cp-1.2/README.md)
     * [CP 1.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.2/cp-1.2-dao-results.md)
+  * [Community Paper (CP) 1.3](community-paper-cp/community-paper-cp/community-paper-cp-1.3.md)
 
 ## Collarquest
 
@@ -53,6 +54,7 @@
     * [Ecosystem Fund](collarquest/collarquest/dog-tag-tag-usdtag/ecosystem-fund.md)
     * [Third-party development](collarquest/collarquest/dog-tag-tag-usdtag/third-party-development.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
+  * [CollarQuest Tokenomics](collarquest/collarquest/collarquest-tokenomics.md)
 
 ## Financial Oversight
 
@@ -66,6 +68,7 @@
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
   * [Genesis Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md)
+  * [CollarQuest Tokenomics](tokenomics/tokenomics/collarquest-tokenomics.md)
 
 ***
 

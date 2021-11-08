@@ -13,8 +13,12 @@ Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) dependin
 * CollarQuest does not sell $GeM players directly
 * CollarQuest does not provide liquidity for $GeM
 
-![Figure A1 (SUBJECT TO CHANGE)](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/Screen Shot 2021-11-07 at 9.57.00 AM.png>)
 
 The 2.5 BIllion GeM Tokens will be available over time in CollarQuest.
 
 See the [**etherscan.io**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f) information on [**GeM**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f), additional information will be released in the future.
+
+Minting provider CERTIK code audit for Genesis Mechanism (GeM)
+
+{% file src="../../.gitbook/assets/GeM AuditReport.pdf" %}
