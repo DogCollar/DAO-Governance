@@ -12,4 +12,4 @@ For example, the Treasury wallet is overseen by the board that represents the pe
 
 All native tokens used for purchasing/upgrading/breeding SPARC-Es shall follow this same tokenomics.
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-07 at 9.57.45 AM.png>)
+![](<../../.gitbook/assets/Screen Shot 2021-11-08 at 8.12.00 AM.png>)
