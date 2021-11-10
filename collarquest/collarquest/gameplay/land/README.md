@@ -29,7 +29,7 @@ Ariomont consists of 90,601 plots of Land. These Land plots are represented as N
 | Birklands                          | 0            | 22025        |
 | Tundra                             | 0            | 16537        |
 | Argos                              | 0            | 8264         |
-| Genesis                            | 0            | 220          |
+| Inception                          | 0            | 220          |
 | Village Green (Center)             | 0            | 3501         |
 | Map (water, roads, resource nodes) | 0            | 18012        |
 | **Total land**                     | **0**        | **90601**    |
