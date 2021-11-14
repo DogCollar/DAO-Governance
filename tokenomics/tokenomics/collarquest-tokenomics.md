@@ -6,7 +6,7 @@ description: Pending COLLAR DAO vote
 
 ## CollarQuest Tokenomics
 
-Keep in mind that the HODL of our COLLAR project tokens is the ones that benefit from our work and growth. When reading about our CollarQuest Tokenomics, think in the framework of when people want to play CollarQuest, they need to buy 3 SPARC-E to play CollarQuest. When they buy the SPARC-Es, these NFTs they pay in will be routed to the following wallets.
+Keep in mind that the HODL of our COLLAR project tokens is the ones that benefit from our work and growth. When reading about our CollarQuest Tokenomics, think in the framework of when people want to play CollarQuest, they need to buy 3 SPARC-E to play CollarQuest. When players buy SPARC-Es via the CollarQuest Marketplace, the payment will be routed using the [following tokenomics](https://docs.collartoken.com/tokenomics/tokenomics/collarquest-tokenomics).
 
 For example, the Treasury wallet is overseen by the Board representing the people who voted for them to be seated as Board members. Once our tokenomics start, our Board will hold Board meetings. When the Treasury wallet exceeds a Board directed %, the Board shall take action that could require funds to new games to be added to our metaverse or add additional reward tokens into the gameplay for players to earn additional tokens.
 
