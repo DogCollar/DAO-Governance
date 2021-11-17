@@ -1,31 +1,21 @@
-# Board Officers
+# Multi-signature Officers
 
 ![](../../.gitbook/assets/1080x360.jpg)
 
-## Board Officers
+## Multi-signature Officers
 
-At its first scheduled meeting in January, the Board will elect one of its members to serve as Chair and one to serve as Vice-Chair. No member of the Board may serve as Chair for more than two years in succession. If the Board member is unable to continue to serve as an officer, a replacement will be elected immediately. The replacement officer will serve the remainder of the officer’s term until the following July. The replacement term for the Chair does not count against the two consecutive years of service for that office.
+At its first scheduled meeting in January, the COLLAR DAO will elect one member to serve in the ceremonial title of CEO. No member of the Multi-signature may serve as CEO for more than two years in succession. If the CEO member is unable to continue to serve, a replacement will be elected immediately from a COLLAR DOA vote. The replacement CEO will serve the remainder of the term until the following January. The replacement term for the CEO does not count against the two consecutive years of service.
 
-## Board Chair
+## CEO
 
-The Board Chair will:
+The CEO will:
 
-1. In consultation with the Vice-Chair, establish the meeting agendas;\
+1. Bring froward for a COLLAR DAO vote committee proposals;\
 
-2. Call special meetings when required;\
+2. Sign official documents that require the signature of the CEO;\
 
-3. Preside at all meetings of the Board and enforce the rules of order;\
+3. Represent the COLLAR Community at official functions, unless this duty is delegated by the COLLAR DAO to another member of the community;\
 
-4. Sign official documents that require the signature of the Chair;\
+4. Propose all committees and make all liaison appointments for a COLLAR DAO vote;\
 
-5. Represent the COLLAR Community and the Board at official functions, unless this duty is delegated by the Chair or the Board to another member of the Board;\
-
-6. Appoint all committees and make all liaison appointments unless otherwise ordered by the Board;\
-
-7. Have the right to discuss issues and vote.
-
-## Board Vice-Chair
-
-In the absence, incapacitation, or death of the Chair, the Vice-Chair will perform the duties of the Chair and, when so acting, will have the powers of the Chair. The Vice-Chair will perform such other functions as designated by the Board. If both are absent, the person with the longest period of service on the Board will conduct the meeting.
-
-The Vice-Chair will participate with the Chair in agenda planning.
+5. Have the right to discuss issues and vote.

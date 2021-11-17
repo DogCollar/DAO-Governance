@@ -15,10 +15,10 @@
 ## Goverance
 
 * [COLLAR Governance 101](goverance/collar-goverance/README.md)
-  * [Board Conduct](goverance/collar-goverance/board-conduct.md)
-  * [Board Member’s Authority](goverance/collar-goverance/board-members-authority.md)
-  * [Board Officers](goverance/collar-goverance/board-officers.md)
-  * [Board Vacancies](goverance/collar-goverance/vacancies.md)
+  * [Multi-Signature Conduct](goverance/collar-goverance/board-conduct.md)
+  * [Multi-signature Authority](goverance/collar-goverance/board-members-authority.md)
+  * [Multi-signature Officers](goverance/collar-goverance/board-officers.md)
+  * [Multi-signature Vacancies](goverance/collar-goverance/vacancies.md)
   * [Dog Collar DAO](goverance/collar-goverance/dog-collar-dao.md)
   * [COLLAR Token](goverance/collar-goverance/collar-token.md)
   * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
