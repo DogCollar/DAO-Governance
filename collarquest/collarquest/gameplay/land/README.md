@@ -4,6 +4,8 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Land
 
+![Ariomont Land](../../../../.gitbook/assets/CollarQuest-LAND.png)
+
 Ariomont,  the SPARC-E homeland,  is divided into tokenized plots of land which act as homes and bases of operation for their SPARC-E . Plots can be upgraded over time using a variety of resources and crafting ingredients that can be found when playing the game.&#x20;
 
 In addition, land-owners might find TAG tokens on their land plots, or use the SPARC-E  that occupy the land plot to explore resource nodes on the map. When interacting with resources nodes SPARC-E  can find TAG and potentially other resources.&#x20;

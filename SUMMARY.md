@@ -70,7 +70,7 @@
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
   * [Genesis Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md)
   * [CollarQuest SPARC-E](tokenomics/tokenomics/collarquest-sparc-e.md)
-  * [CollarQuest LAND](tokenomics/tokenomics/collarquest-land.md)
+  * [CollarQuest Land](tokenomics/tokenomics/collarquest-land.md)
   * [CollarQuest Tokenomics](tokenomics/tokenomics/collarquest-tokenomics.md)
 
 ***

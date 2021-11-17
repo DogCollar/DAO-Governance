@@ -2,7 +2,7 @@
 description: Proposed Community Paper (CP) 1.4 language
 ---
 
-# CollarQuest LAND
+# CollarQuest Land
 
 ![](../../.gitbook/assets/CollarQuest-SM.png)
 
@@ -24,7 +24,7 @@ All Land purchased in the same transaction will be placed next to each other wit
 
 Example: If you purchase 50 Birklands Chests in the same transaction, you will get 50 connected plots of Land in the Birklands Region.
 
-![](../../.gitbook/assets/LAND.png)
+![Ariomont Land](../../.gitbook/assets/CollarQuest-LAND.png)
 
 ### **What is the advantage of having Land plots connected each the other?** <a href="83fc" id="83fc"></a>
 
