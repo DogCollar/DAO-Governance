@@ -4,6 +4,8 @@ description: Pending COLLAR DAO vote
 
 # CollarQuest Tokenomics
 
+![](../../.gitbook/assets/CollarQuest-SM.png)
+
 ## CollarQuest Tokenomics
 
 When reading about our CollarQuest Tokenomics, think in the framework of when people want to play CollarQuest, they need to buy 3 SPARC-E to play CollarQuest. When players purchase SPARC-Es via the CollarQuest Marketplace, the payment will be routed using the tokenomics shown in Figure I.
