@@ -14,5 +14,7 @@ The Dog Collar Community Paper (CP) is a living document that is debated online 
 
 [Read the Dog Collar Community Paper (CP) 1.3 adopted ](community-paper-cp-1.3.md)
 
+[Read the Dog Collar Community Paper (CP) 1.4 candidate](community-paper-cp-1.4.md)
+
 
 

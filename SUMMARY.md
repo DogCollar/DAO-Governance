@@ -36,6 +36,7 @@
     * [CP 1.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.2/cp-1.2-dao-results.md)
   * [Community Paper (CP) 1.3](community-paper-cp/community-paper-cp/community-paper-cp-1.3.md)
     * [CP 1.3 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.3/cp-1.3-dao-results.md)
+  * [Community Paper (CP) 1.4](community-paper-cp/community-paper-cp/community-paper-cp-1.4.md)
 
 ## Collarquest
 
