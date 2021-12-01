@@ -4,6 +4,10 @@
 
 ## Dog Collar (COLLAR) Community Paper (CP)
 
+[`Review the latest CollarQuest Community Paper (CP) here.`](community-paper-cp-1.4.md)``
+
+``
+
 The Dog Collar Community Paper (CP) is a living document that is debated online via our Discord server, then put out for consideration on the COLLAR DAO.
 
 [Read the Dog Collar Community Paper (CP) 1.0 adopted](community-paper-cp-1.0/)
@@ -18,3 +22,4 @@ The Dog Collar Community Paper (CP) is a living document that is debated online 
 
 
 
+``
