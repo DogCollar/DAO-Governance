@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dog Collar Introduction](README.md)
+* [CollarQuest the Metaverse](README.md)
 
 ## Community
 

@@ -1,17 +1,16 @@
 ---
 description: >-
-  Dog Collar (COLLAR) is a stand-alone project and a fully community-organized
-  token experience.
+  CollarQuest Metaverse is a stand-alone project and a fully community-organized
+  NFT gaming experience under the direction of TAG DAO LLC.
 ---
 
-# Dog Collar Introduction
+# CollarQuest the Metaverse
 
-![Join the #CollarCrew](.gitbook/assets/image.png)
+![Join the #CollarCrew](<.gitbook/assets/CollarQuest (1).png>)
 
-\
-Dog Collar (COLLAR) is a stand-alone project and a fully community-organized token experience.‌
+CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md), Genesis [Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md), [SPARC-Es](tokenomics/tokenomics/collarquest-sparc-e.md), [Land](tokenomics/tokenomics/collarquest-land.md) and the [CollarQuest Tokenomics](collarquest/collarquest/collarquest-tokenomics.md) to returns the benefits back to the HODL of our CollarQuest ecosystem.
 
-The fundamentals of COLLAR are, and always have been, the community itself. The community infuses purpose, utility, and direction to COLLAR. The community holds the intrinsic value, not the token. Tokens are simply an object to focus the power, talent, and tremendous ability of the community.‌
+CollarQuest journey started with Dog Collar (COLLAR), with the fundamentals of COLLAR being, and always have been, the community itself. The community infuses purpose, utility, and direction to COLLAR. The community holds the intrinsic value, not the token. Tokens are simply an object to focus the power, talent, and tremendous ability of the community.‌
 
 To that end, there will be no hidden roadmap, secret plans, or other opportunities for “insiders” to buy. All future developments, roadmaps, and opportunities will be planned in the open with input from all who wish to contribute. \
 \
