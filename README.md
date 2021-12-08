@@ -4,9 +4,9 @@ description: >-
   NFT gaming experience under the direction of TAG DAO LLC.
 ---
 
-# CollarQuest the Metaverse
+# CollarQuest Metaverse
 
-![Join the #CollarCrew](<.gitbook/assets/CollarQuest (1).png>)
+![CollarQuest a Metaverse Play2Earn ecosystem](.gitbook/assets/CollarQuest-SM.png)
 
 CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md), Genesis [Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md), [SPARC-Es](tokenomics/tokenomics/collarquest-sparc-e.md), [Land](tokenomics/tokenomics/collarquest-land.md) and the [CollarQuest Tokenomics](collarquest/collarquest/collarquest-tokenomics.md) to returns the benefits back to the HODL of our CollarQuest ecosystem.
 
