@@ -4,7 +4,7 @@
 
 ## **Dog Tag (TAG) Reward and Governance Token to COLLAR**
 
-TAG will be unlocked in a pre-determined schedule which lasts for 84 months from the public STAKING/FARMING released on the Goji Crypto platform.  275,000,000 Dog Tag (TAG) Tokens will be released over an 84-month term for STAKING/FARMING.  100,000,000 Dog Tag (TAG) Tokens will be released on CollarQuest.
+TAG will be unlocked in a pre-determined schedule which lasts for 84 months from the public STAKING/FARMING released on the Goji Crypto platform.  275,000,000 Dog Tag (TAG) Tokens will be released over an 84-month term for STAKING/FARMING.  100,000,000 Dog Tag (TAG) Tokens will be released on CollarQuest over an 48-month term from gameplay.
 
 ![](../../../.gitbook/assets/TAG-Reward-Term.png)
 

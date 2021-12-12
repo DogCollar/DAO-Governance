@@ -1,11 +1,11 @@
-# Play to Earn
+# Play to Earn (TAG)
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
 
-|              |                   |                             |
-| ------------ | ----------------- | --------------------------- |
-| Token Amount | % of total supply | Unlock Schedule             |
-| 100,000,000  | 20%               | Gradual unlock over 4 years |
+|              |                   |                               |
+| ------------ | ----------------- | ----------------------------- |
+| Token Amount | % of total supply | Unlock Schedule               |
+| 100,000,000  | 20%               | Gradual unlock over 48-months |
 
 The play to earn issuance represents 20% of the total TAG supply. The goal of the play to earn tokens is to attract a wide range of players to the CollarQuest ecosystem in the hunt for token rewards and to give ownership and stake to the most active community members.&#x20;
 
