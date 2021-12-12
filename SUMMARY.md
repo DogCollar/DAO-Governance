@@ -62,7 +62,9 @@
 
 * [Tokenomics](tokenomics/tokenomics/README.md)
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
-  * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
+  * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag/README.md)
+    * [Allocations/Unlock Schedule](tokenomics/tokenomics/dog-tag/allocations-unlock-schedule.md)
+    * [Play to Earn](tokenomics/tokenomics/dog-tag/play-to-earn.md)
   * [Genesis Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md)
   * [CollarQuest SPARC-E](tokenomics/tokenomics/collarquest-sparc-e.md)
   * [CollarQuest Land](tokenomics/tokenomics/collarquest-land.md)
