@@ -4,15 +4,15 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Land
 
-![Ariomont Land](../../../../.gitbook/assets/CollarQuest-LAND.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CollarQuest-LAND.png)
 
-Ariomont,  the SPARC-E homeland,  is divided into tokenized plots of land which act as homes and bases of operation for their SPARC-E . Plots can be upgraded over time using a variety of resources and crafting ingredients that can be found when playing the game.&#x20;
+Ariomont,  the SPARC-E homeland,  is divided into tokenized plots of land which act as homes and bases of operation for their SPARC-E. Plots can be upgraded over time using a variety of resources and crafting ingredients that can be found when playing the game.&#x20;
 
-In addition, land-owners might find TAG tokens on their land plots, or use the SPARC-E  that occupy the land plot to explore resource nodes on the map. When interacting with resources nodes SPARC-E  can find TAG and potentially other resources.&#x20;
+In addition, land-owners might find TAG tokens on their land plots, or use the SPARC-E  that occupies the land plot to explore resource nodes on the map. When interacting with resources nodes SPARC-E  can find TAG and potentially other resources.&#x20;
 
 **Resource Gathering and Crafting**
 
-* Resources will spawn in nodes across Ariomont and be used to upgrade both land and SPARC-E.
+* Resources will spawn in nodes across Ariomont and be used to upgrade both land and SPARC-E's.
 * Landholders will have first rights to any resources that spawn on their land.
 
 **Real-Time PvE Battles**

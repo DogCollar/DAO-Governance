@@ -1,10 +1,10 @@
 # Financial Oversight
 
-![](../../.gitbook/assets/1080x360.jpg)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
 ## Financial Oversight
 
-Dog Collar \(COLLAR\) leadership is proactively implementing effective financial control policies thorough analysis of the existing policies and future outlook for COLLAR. In addition, it is important to ensure the following four processes are completed before implementing financial control for the COLLAR governance:
+CollarQuest is proactively implementing effective financial control policies thorough analysis of the existing policies and future outlook for CollarQuest. In addition, it is important to ensure the following four processes are completed before implementing financial control for the CollarQuest DAO governance:
 
 **1. Detecting overlaps and anomalies**
 
@@ -38,9 +38,8 @@ An effective financial control mechanism ensures overall operational efficiency 
 
 **4. Profitability**
 
-Ensuring an organization’s overall operational efficiency leads to the smooth functioning of every organizational department. It, in turn, increases productivity. which comes with a direct, positive relationship with profitability. Hence, establishing effective financial control measures ensures the improved profitability of COLLAR.
+Ensuring an organization’s overall operational efficiency leads to the smooth functioning of every organizational department. It, in turn, increases productivity. which comes with a direct, positive relationship with profitability. Hence, establishing effective financial control measures ensures the improved profitability of CollarQuest DAO.
 
 **5. Fraud prevention**
 
 Financial control serves as a preventative measure against fraudulent activities in an organization. It can help prevent any undesirable activities such as employee fraud, online theft, and many others by monitoring the inflow and outflow of financial resources.
-

@@ -8,7 +8,7 @@ With the adoption of our COLLAR CP 1.0, now the work of identifying what the com
 * Identifying charities
 * [Utility](../../collarquest/collarquest/)
 * Grow community
-* [Tokenomics](../../collarquest/collarquest/collarquest-tokenomics.md)
+* [Tokenomics](broken-reference)
 * Identifying partnerships
 * Multiple exchange listings
 * Continual self-improvement

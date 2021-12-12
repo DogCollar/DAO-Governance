@@ -49,14 +49,7 @@
       * [Ariomont SDK](collarquest/collarquest/gameplay/land/ariomont-sdk.md)
   * [Breeding](collarquest/collarquest/breeding.md)
   * [SPARC-E Population](collarquest/collarquest/sparc-e-population.md)
-  * [Dog Tag (TAG) - $TAG](collarquest/collarquest/dog-tag-tag-usdtag/README.md)
-    * [Allocation & Unlocking](collarquest/collarquest/dog-tag-tag-usdtag/allocation-and-unlocking.md)
-    * [Play to Earn](collarquest/collarquest/dog-tag-tag-usdtag/play-to-earn.md)
-    * [Staking and Staking Rewards](collarquest/collarquest/dog-tag-tag-usdtag/staking-and-staking-rewards.md)
-    * [Ecosystem Fund](collarquest/collarquest/dog-tag-tag-usdtag/ecosystem-fund.md)
-    * [Third-party development](collarquest/collarquest/dog-tag-tag-usdtag/third-party-development.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
-  * [CollarQuest Tokenomics](collarquest/collarquest/collarquest-tokenomics.md)
 
 ## Financial Oversight
 
@@ -67,6 +60,12 @@
 ## Tokenomics
 
 * [Tokenomics](tokenomics/tokenomics/README.md)
+  * [Dog Tag (TAG) - $TAG](tokenomics/tokenomics/dog-tag-tag-usdtag/README.md)
+    * [Allocation & Unlocking](tokenomics/tokenomics/dog-tag-tag-usdtag/allocation-and-unlocking.md)
+    * [Play to Earn](tokenomics/tokenomics/dog-tag-tag-usdtag/play-to-earn.md)
+    * [Staking and Staking Rewards](tokenomics/tokenomics/dog-tag-tag-usdtag/staking-and-staking-rewards.md)
+    * [Ecosystem Fund](tokenomics/tokenomics/dog-tag-tag-usdtag/ecosystem-fund.md)
+    * [Third-party development](tokenomics/tokenomics/dog-tag-tag-usdtag/third-party-development.md)
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
   * [COLLAR Token](tokenomics/tokenomics/collar-token.md)
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)

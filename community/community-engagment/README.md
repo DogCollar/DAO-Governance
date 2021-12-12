@@ -8,7 +8,7 @@ description: >-
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
-CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](../../tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](../../tokenomics/tokenomics/dog-tag.md), Genesis [Mechanism (GeM)](../../tokenomics/tokenomics/genesis-mechanism-gem.md), [SPARC-Es](../../tokenomics/tokenomics/collarquest-sparc-e.md), [Land](../../tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](../../collarquest/collarquest/collarquest-tokenomics.md) to return the benefits back to the HODL of our CollarQuest ecosystem.  The CollarQuest is under the direction of the COLAR voters of TAG DAO LLC.
+CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](../../tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](../../tokenomics/tokenomics/dog-tag.md), Genesis [Mechanism (GeM)](../../tokenomics/tokenomics/genesis-mechanism-gem.md), [SPARC-Es](../../tokenomics/tokenomics/collarquest-sparc-e.md), [Land](../../tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](broken-reference) to return the benefits back to the HODL of our CollarQuest ecosystem.  The CollarQuest is under the direction of the COLAR voters of TAG DAO LLC.
 
 The fundamentals of COLLAR are, and always have been, the community itself. The community infuses purpose, utility, and direction to COLLAR. The community holds the intrinsic value, not the token. Tokens are simply an object to focus the power, talent, and tremendous ability of the community.
 

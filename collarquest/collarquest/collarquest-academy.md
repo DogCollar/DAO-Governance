@@ -1,6 +1,10 @@
+---
+description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
+---
+
 # CollarQuest Academy
 
-![](../../.gitbook/assets/CollarQuest.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest.png)
 
 ### What is CollarQuest Academy?
 

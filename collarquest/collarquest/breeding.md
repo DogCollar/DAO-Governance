@@ -4,12 +4,14 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Breeding
 
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+
 Like real-world pets, SPARC-E can be bred to create new offspring. To avoid hyperinflation of SPARC-E there is a maximum amount of times a SPARC-E can be bred before it is sterile.
 
-Breeding a SPARC-E costs TAG and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
+Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
 
-* CollarQuest does not sell $GeMto players directly
-* CollarQuest does not provide liquidity for $GeM
+* CollarQuest DAO will not sell $GeM to players directly
+* CollarQuest DAO will not provide liquidity for $GeM
 
 | **Breed Count** | **Breed Number** | **Total GeM Cost** |
 | --------------- | ---------------- | ------------------ |
@@ -21,7 +23,7 @@ Breeding a SPARC-E costs TAG and some Genesis Mechanism (GeM) depending on how m
 | **(5/7)**       | **6**            | **6300**           |
 | **(6/7)**       | **7**            | **10200**          |
 
-_**Seed Life Program can be earned by playing the game in PvE Adventure mode as well as the PvP Arena.**_
+**Genesis Mechanism **_**can be earned by playing the game in PvE Adventure mode as well as the PvP Arena.**_
 
 ### **Genetics**
 

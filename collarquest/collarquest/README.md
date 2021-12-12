@@ -4,7 +4,7 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # CollarQuest
 
-![](../../.gitbook/assets/CollarQuest.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
 The Dog Collar Metaverse game project under development has been dubbed **CollarQuest**. CollarQuest will be a fun and engaging game which can be played on any desktop, laptop, or device. While the story is still being crafted, its core gameplay will focus on the adventures of robot dog-types called "Sentient Programmable Assault & Reconnaissance Canine - Entity", or SPARC-E for short. SPARC-Es will be created as NFTs with random characteristics, abilities, and various skills, which may battle against computer-controlled opponents or other real-life players.
 
@@ -24,11 +24,11 @@ Players can earn by:
 * Breeding SPARC-E and selling them on the marketplace.
 * Collecting and speculating on rare SPARC-E.
 * Farming for the Seed Live Program (SLP) that is needed to breed SPARC-E. These will be able to be sold on exchanges such as GojiSwap.
-* When CollarQuest launch, players will be able to earn a governance token, TAG, which represents governance rights. Since players can earn this token by playing, a Ready Player one type quest emerges where players can play to earn and have voting rights. However, these quests are not winner takes all and rewards each player based on their effort and skill.
+* When CollarQuest launches, players will be able to earn a governance token, TAG, which represents governance rights. Since players can earn this token by playing, a Ready Player one type quest emerges where players can play to earn and have voting rights. However, these quests are not winner takes all and rewards each player based on their effort and skill.
 
 **SPARC-E's Mission**
 
-CollarQuest was built as a fun and educational way to introduce the world to blockchain technology.
+CollarQuest is being built as a fun and educational way to introduce the world to blockchain technology.
 
 **The Vision**
 
