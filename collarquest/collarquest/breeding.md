@@ -31,7 +31,7 @@ The dominant components are what determines the body part that is physically pre
 
 **Dominant (D):** 37.5% chance to pass this component to offspring.
 
-**Recessive (R1): **9.375% chance to pass this component to offspring.
+**Recessive (R1):** 9.375% chance to pass this component to offspring.
 
 **Minor Recessive (R2):** 3.125% chance to pass this component to offspring.
 

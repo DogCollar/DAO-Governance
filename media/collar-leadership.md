@@ -4,19 +4,19 @@
 
 September 3, 2021, for immediate release.
 
-**Dog Collar Token (COLLAR)**, although still in its infancy, is stepping up and maturing into the first genuinely community-run Defi available to crypto enthusiasts around the world. Found abandoned and left wallowing in obscurity, community leader Morpheus revived this fledging token and brought it back to life as a token run by the #CollarCrew community with a multi-pronged purpose. First minted in early August of 2021, by an unknown developer, in what was possibly an experiment in simplicity, Dog COLLAR is an ERC-20 token originally associated with Shiba Inu. After minting 1 (one) quadrillion tokens, the original mystery dev burnt half the total to Shib. The remaining 500 trillion COLLAR tokens, minus a small amount kept by the dev, are available to build the COLLAR community. 
+**Dog Collar Token (COLLAR)**, although still in its infancy, is stepping up and maturing into the first genuinely community-run Defi available to crypto enthusiasts around the world. Found abandoned and left wallowing in obscurity, community leader Morpheus revived this fledging token and brought it back to life as a token run by the #CollarCrew community with a multi-pronged purpose. First minted in early August of 2021, by an unknown developer, in what was possibly an experiment in simplicity, Dog COLLAR is an ERC-20 token originally associated with Shiba Inu. After minting 1 (one) quadrillion tokens, the original mystery dev burnt half the total to Shib. The remaining 500 trillion COLLAR tokens, minus a small amount kept by the dev, are available to build the COLLAR community.&#x20;
 
-After experiencing several** **other projects that claimed to be community-based but turned out to be for the glory and enrichment of a select few, Morpheus and a few others sought to take DGT COLLAR forward as a truly community-managed project.
+After experiencing several **** other projects that claimed to be community-based but turned out to be for the glory and enrichment of a select few, Morpheus and a few others sought to take DGT COLLAR forward as a truly community-managed project.
 
 The COLLAR community held nominations for leadership positions in early September. Five candidates accepted the nomination, and each answered why they were interested in serving the Collar Crew community and ecosystem.
 
 The nominated and elected leaders are Jared Dunn, Mr. Johnny Five, Nemo LShtivi, and Morpheus.
 
-* _Jared Dunn, _"Being a part of a real project that helps bring trust and transparency to the world is an interest of mine."\
+* _Jared Dunn,_ "Being a part of a real project that helps bring trust and transparency to the world is an interest of mine."\
 
-* _Mr. Johnny Five, _"My friends kindly asked me to accept the nomination as they have seen me be trustworthy, a good listener, and a good-hearted person."\
+* _Mr. Johnny Five,_ "My friends kindly asked me to accept the nomination as they have seen me be trustworthy, a good listener, and a good-hearted person."\
 
-* _Nemo, _"I was drawn to this role because I'd provide an additional layer of security to our community. I also feel my 18 years experience in GRC will benefit our project designed targets."\
+* _Nemo,_ "I was drawn to this role because I'd provide an additional layer of security to our community. I also feel my 18 years experience in GRC will benefit our project designed targets."\
 
 * _LShtivi_, "I love the transparent process of this community, and I am honored to serve."\
 
@@ -24,7 +24,7 @@ The nominated and elected leaders are Jared Dunn, Mr. Johnny Five, Nemo LShtivi,
 
 The COLLAR Community voted to installed these members to staggered terms to ensure continuity in the oversight of the Dog Collar token and the multi-signature donation wallet.
 
-**"**I am proud to be a part of a growing community of individuals who wake each day to support each other,** **and by extension, a willingness to contribute to our open-source governance documents, Decentralized Autonomous Organization (DAO), charity development, and seek to find others like-minded people who wish to work hard and remember that none of us got to be where we are solely from our hard work, but because others have helped us along the way." said Morpheus - Dog Collar Chair.
+**"**I am proud to be a part of a growing community of individuals who wake each day to support each other, **** and by extension, a willingness to contribute to our open-source governance documents, Decentralized Autonomous Organization (DAO), charity development, and seek to find others like-minded people who wish to work hard and remember that none of us got to be where we are solely from our hard work, but because others have helped us along the way." said Morpheus - Dog Collar Chair.
 
 **About Dog Collar Token**
 

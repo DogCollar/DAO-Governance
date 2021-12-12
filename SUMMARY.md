@@ -6,7 +6,8 @@
 
 * [Community Engagement](community/community-engagment/README.md)
   * [Charity Outreach](community/community-engagment/charity-outreach.md)
-  * [Community Committees](community/community-engagment/community-committees.md)
+  * [Community Committees](community/community-engagment/community-committees/README.md)
+    * [Committee Org Chart](community/community-engagment/community-committees/organizational-chart.md)
   * [Community Conduct](community/community-engagment/community-conduct.md)
   * [Community Straw Polls](community/community-engagment/community-straw-polls.md)
   * [How Voting Works](community/community-engagment/how-voting-works.md)
@@ -14,20 +15,18 @@
 
 ## Goverance
 
-* [COLLAR Governance 101](goverance/collar-goverance/README.md)
+* [CollarQuest Governance 101](goverance/collar-goverance/README.md)
   * [Multi-Signature Conduct](goverance/collar-goverance/board-conduct.md)
   * [Multi-signature Authority](goverance/collar-goverance/board-members-authority.md)
   * [Multi-signature Officers](goverance/collar-goverance/board-officers.md)
   * [Multi-signature Vacancies](goverance/collar-goverance/vacancies.md)
-  * [Dog Collar DAO](goverance/collar-goverance/dog-collar-dao.md)
-  * [COLLAR Token](goverance/collar-goverance/collar-token.md)
-  * [Organizational Chart](goverance/collar-goverance/organizational-chart.md)
+  * [TAG DAO LLC](goverance/collar-goverance/dog-collar-dao.md)
   * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
   * [Roadmap Work](goverance/collar-goverance/roadmap-work.md)
 
 ## Community Paper (CP)
 
-* [Community Paper (CP)](community-paper-cp/community-paper-cp/README.md)
+* [Community Papers (CP)](community-paper-cp/community-paper-cp/README.md)
   * [Community Paper (CP) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0/README.md)
     * [CP 1.0 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.0/cp-1.0-dao-results.md)
   * [Community Paper (CP) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1/README.md)
@@ -69,6 +68,7 @@
 
 * [Tokenomics](tokenomics/tokenomics/README.md)
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
+  * [COLLAR Token](tokenomics/tokenomics/collar-token.md)
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
   * [Genesis Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md)
   * [CollarQuest SPARC-E](tokenomics/tokenomics/collarquest-sparc-e.md)

@@ -1,8 +1,8 @@
 # How Voting Works
 
-![](../../.gitbook/assets/1080x360.jpg)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
-## Dog Collar (COLLAR) DAO
+## CollarQuest DAO
 
 Decentralized Autonomous Organization (DAO), Dog Collar (COLLAR) HODL with greater than 100,000,000,000 (100 Billion) COLLAR Tokens can participate in all DAO Proposal votes.  On September 29, 2021, a COLLAR DAO vote approved adopting CP 1.1, with the direction to transition the COLLAR DAO governance from Dog Collar (COLLAR) token to the governance token Dog Tag (TAG) 60 days after COLLAR is deployed on the GOJ platform.
 
@@ -14,11 +14,10 @@ A supermajority voting provision, an amendment to the COLLAR founding charter, i
 
 The following rules have been set up in the interest of providing meaningful community oversight. Future voting rule changes will be from the outcome of public votes under the following conditions.
 
-COLLAR DAO was created with the founding vision to allow anyone wallet holder with greater than 5,000,000,000,000 COLLAR may submit a new DAO Proposal. CollarCrew members are encourage to work inside the framework of bringing forward ideas to the appropriate committee for public discussion. Please see the COLLAR Organization chart for the standing committee to identify the correct committee that matches your interest.
+COLLAR DAO was created with the founding vision to allow anyone wallet holder with greater than 5,000,000,000,000 COLLAR may submit a new DAO Proposal. CollarCrew members are encouraged to work inside the framework of bringing forward ideas to the appropriate committee for public discussion. Please see the Organization chart for the standing committee to identify the correct committee that matches your interest.
 
 *   Member Voting: Any COLLAR HODL with greater than 100,000,000,000 (100 Billion) in ONE wallet will be able to cast votes. &#x20;
 
-    * An anti-whale voting feature has been added to the DAO and will be adjusted and reported over time.
     * A #collarcrew member wallet will lose voting rights if it is found that the member acts in bad faith.
 
 

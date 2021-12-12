@@ -1,14 +1,14 @@
-# Community Paper (CP)
+# Community Papers (CP)
 
-![](../../.gitbook/assets/1080x360.jpg)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
-## Dog Collar (COLLAR) Community Paper (CP)
+## CollarQuest Community Paper (CP)
 
-[`Review the latest CollarQuest Community Paper (CP) here.`](community-paper-cp-1.4.md)``
+[Review the latest CollarQuest Community Paper (CP) here.](community-paper-cp-1.4.md)
 
-``
 
-The Dog Collar Community Paper (CP) is a living document that is debated online via our Discord server, then put out for consideration on the COLLAR DAO.
+
+The CollarQuest Community Paper (CP) is a living document that is debated online via our Discord server, then put out for consideration on the CollarQuest DAO.
 
 [Read the Dog Collar Community Paper (CP) 1.0 adopted](community-paper-cp-1.0/)
 
