@@ -4,7 +4,7 @@
 
 ## **Get Started With Governance**
 
-CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](../../tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](../../tokenomics/tokenomics/dog-tag/), Genesis [Mechanism (GeM)](../../tokenomics/tokenomics/genesis-mechanism-gem.md), [SPARC-Es](../../tokenomics/tokenomics/collarquest-sparc-e.md), [Land](../../tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](broken-reference) to return the benefits back to the HODL of our CollarQuest ecosystem.  The CollarQuest is under the direction of the COLAR voters of TAG DAO LLC.
+CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](../../tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](../../tokenomics/tokenomics/dog-tag/), Genesis [Mechanism (GeM)](../../tokenomics/tokenomics/genesis-mechanism-gem/), [SPARC-Es](../../tokenomics/tokenomics/collarquest-sparc-e.md), [Land](../../tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](broken-reference) to return the benefits back to the HODL of our CollarQuest ecosystem.  The CollarQuest is under the direction of the COLAR voters of TAG DAO LLC.
 
 CollarQuest Decentralized Autonomous Organization (DAO) is a decentralized governance community that enables the CollarQuest Community to self-govern.  CollarQuest Community HODL has the sole authority to enact changes.
 

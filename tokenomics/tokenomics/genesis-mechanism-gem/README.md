@@ -4,7 +4,7 @@ description: Pending COLLAR DAO vote
 
 # Genesis Mechanism (GeM)
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
 
 ## Genesis Mechanism (GeM) **CollarQuest Reward**
 
@@ -15,7 +15,7 @@ Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) dependin
 * CollarQuest does not sell $GeM players directly
 * CollarQuest does not provide liquidity for $GeM
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-07 at 9.57.00 AM.png>)
+![](<../../../.gitbook/assets/Screen Shot 2021-11-07 at 9.57.00 AM.png>)
 
 The 2.5 BIllion GeM Tokens will be available over time in CollarQuest.
 
@@ -23,4 +23,4 @@ See the [**etherscan.io**](https://etherscan.io/token/0xebc27d9bd8ac268934784dcd
 
 Minting provider CERTIK code audit for Genesis Mechanism (GeM)
 
-{% file src="../../.gitbook/assets/GeM AuditReport.pdf" %}
+{% file src="../../../.gitbook/assets/GeM AuditReport.pdf" %}
