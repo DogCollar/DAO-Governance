@@ -4,7 +4,7 @@ description: Proposed Community Paper (CP) 1.4 language
 
 # CollarQuest Land
 
-![](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
 ### **What is CollarQuest Land Sales, and Step Phases?** <a href="#4edc" id="4edc"></a>
 

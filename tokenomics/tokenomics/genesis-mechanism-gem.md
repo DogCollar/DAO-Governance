@@ -4,6 +4,8 @@ description: Pending COLLAR DAO vote
 
 # Genesis Mechanism (GeM)
 
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+
 ## Genesis Mechanism (GeM) **CollarQuest Reward**
 
 Like real-world pets, SPARC-Es can be bred to create new offspring. To avoid hyperinflation of SPARC-Es there is a maximum amount of times a SPARC-Es can be bred before it is sterile.

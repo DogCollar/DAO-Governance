@@ -47,6 +47,7 @@
       * [Tournaments](collarquest/collarquest/gameplay/battling/tournaments.md)
     * [Land](collarquest/collarquest/gameplay/land/README.md)
       * [Ariomont SDK](collarquest/collarquest/gameplay/land/ariomont-sdk.md)
+  * [Staking and Staking Rewards](collarquest/collarquest/staking-and-staking-rewards.md)
   * [Breeding](collarquest/collarquest/breeding.md)
   * [SPARC-E Population](collarquest/collarquest/sparc-e-population.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
@@ -60,24 +61,17 @@
 ## Tokenomics
 
 * [Tokenomics](tokenomics/tokenomics/README.md)
-  * [Dog Tag (TAG) - $TAG](tokenomics/tokenomics/dog-tag-tag-usdtag/README.md)
-    * [Allocation & Unlocking](tokenomics/tokenomics/dog-tag-tag-usdtag/allocation-and-unlocking.md)
-    * [Play to Earn](tokenomics/tokenomics/dog-tag-tag-usdtag/play-to-earn.md)
-    * [Staking and Staking Rewards](tokenomics/tokenomics/dog-tag-tag-usdtag/staking-and-staking-rewards.md)
-    * [Ecosystem Fund](tokenomics/tokenomics/dog-tag-tag-usdtag/ecosystem-fund.md)
-    * [Third-party development](tokenomics/tokenomics/dog-tag-tag-usdtag/third-party-development.md)
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
-  * [COLLAR Token](tokenomics/tokenomics/collar-token.md)
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag.md)
   * [Genesis Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem.md)
   * [CollarQuest SPARC-E](tokenomics/tokenomics/collarquest-sparc-e.md)
   * [CollarQuest Land](tokenomics/tokenomics/collarquest-land.md)
+  * [NFT Royalties](tokenomics/tokenomics/nft-royalties.md)
   * [CollarQuest Tokenomics](tokenomics/tokenomics/collarquest-tokenomics.md)
 
 ***
 
-* [Media](media/README.md)
-  * [COLLAR Leadership](media/collar-leadership.md)
+* [CollarQuest Media](media/README.md)
   * [Strategic Partnership](media/strategic-partnership.md)
   * [COLLAR Podcast](media/collar-podcast.md)
 * [Do Your Own Research (DYOR)](do-your-own-research-dyor.md)

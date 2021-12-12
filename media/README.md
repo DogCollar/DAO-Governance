@@ -2,9 +2,9 @@
 description: We will post more important PR and News information about Dog Collar token.
 ---
 
-# Media
+# CollarQuest Media
 
-### [Goji Crypto \(GOJ\) and Dog Collar \(COLLAR\) Form Strategic Partnership](strategic-partnership.md)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../.gitbook/assets/CollarQuest-SM.png)
 
-### [Dog Collar Elects Leadership](collar-leadership.md)
+### [Goji Crypto (GOJ) and Dog Collar (COLLAR) Form Strategic Partnership](strategic-partnership.md)
 

@@ -4,7 +4,7 @@ description: Proposed Community Paper (CP) 1.4 language
 
 # CollarQuest SPARC-E
 
-![](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
 Sentient Programmable Assault & Reconnaissance Canine - Entity (SPARC-E). SPARC-Es will be created as NFTs with random characteristics, abilities, and various skills, which may battle against computer-controlled opponents or other real-life players.
 
@@ -32,6 +32,6 @@ So, if you can save up a bit before purchasing your first team, we highly recomm
 
 Regardless, as long as you can find SPARC-Es that give you the best value, even budget starter teams should be enough to get you started.
 
-Figure J shows the four (4) Step releases that we also call phases 1-4. Phase 1 will release 12,000 SPARC-Es priced in three (3) different levels (4,000 Bronze, 4,000 Silver, and 4,000 Gold). The odds of receiving special abilities or power-ups increase from purchasing Silver over Bronze or Gold over Bronze and Silver level SPARC-Es.
+Figure J shows the four (4) Step releases that we also call phases 1-4. Phase 1 will release 12,500 SPARC-Es priced in three (3) different levels (4,166 Bronze, 4,167Silver, and 4,167 Gold). The odds of receiving special abilities or power-ups increase from purchasing Silver over Bronze or Gold over Bronze and Silver level SPARC-Es.
 
 ![Figure J (Subject to change)](<../../.gitbook/assets/SPARC-E Minting.png>)
