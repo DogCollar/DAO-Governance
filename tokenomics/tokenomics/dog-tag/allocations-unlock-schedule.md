@@ -2,7 +2,7 @@
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
 
-TAG will be unlocked in a pre-determined schedule which lasts for 72 months from the public STAKING/FARMING released on the Goji Crypto platform.  275,000,000 Dog Tag (TAG) Tokens will be released over an 72-month term for STAKING/FARMING.  100,000,000 Dog Tag (TAG) Tokens will be released from gameplay in CollarQuest.
+TAG will be unlocked in a pre-determined schedule which lasts for 84 months from the public STAKING/FARMING released on the Goji Crypto platform.  275,000,000 Dog Tag (TAG) Tokens will be released over an 84-month term for STAKING/FARMING.  100,000,000 Dog Tag (TAG) Tokens will be released from gameplay in CollarQuest.
 
 | Token amount         | Total Supply    | %        |                                       |
 | -------------------- | --------------- | -------- | ------------------------------------- |
