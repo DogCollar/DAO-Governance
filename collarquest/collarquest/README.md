@@ -36,4 +36,4 @@ We believe in a future where work and play become one.
 
 We believe in empowering our players and giving them economic opportunities.
 
-Most of all, we have a dream that battling and collecting SPARC-E.
+Most of all, we have a dream that battling and collecting SPARC-E will be rewarding enough to bring all players a smile.
