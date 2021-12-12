@@ -75,3 +75,4 @@
   * [Strategic Partnership](media/strategic-partnership.md)
   * [COLLAR Podcast](media/collar-podcast.md)
 * [Do Your Own Research (DYOR)](do-your-own-research-dyor.md)
+* [Infographic](infographic.md)
