@@ -22,6 +22,7 @@
   * [Multi-signature Vacancies](goverance/collar-goverance/vacancies.md)
   * [TAG DAO LLC](goverance/collar-goverance/dog-collar-dao.md)
   * [Robert’s Rules of Order](goverance/collar-goverance/roberts-rules-of-order.md)
+  * [Contracts and Wallets](goverance/collar-goverance/contracts-and-wallets.md)
   * [Roadmap Work](goverance/collar-goverance/roadmap-work.md)
 
 ## Community Paper (CP)
