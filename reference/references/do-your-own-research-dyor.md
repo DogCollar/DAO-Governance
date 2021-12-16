@@ -4,7 +4,7 @@ description: Legal Considerations, Risks, and Disclaimer
 
 # Do Your Own Research (DYOR)
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
 ## Legal Considerations, Risks, and Disclaimer
 

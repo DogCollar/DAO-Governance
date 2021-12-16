@@ -76,9 +76,14 @@
 
 ## Reference
 
-* [Glossary](reference/glossary.md)
-* [Infographic](infographic.md)
-* [CollarQuest Media](media/README.md)
-  * [Strategic Partnership](media/strategic-partnership.md)
-  * [COLLAR Podcast](media/collar-podcast.md)
-* [Do Your Own Research (DYOR)](do-your-own-research-dyor.md)
+* [References](reference/references/README.md)
+  * [Glossary](reference/references/glossary.md)
+  * [Infographic](reference/references/infographic.md)
+  * [CollarQuest Media](reference/references/media/README.md)
+    * [Strategic Partnership](reference/references/media/strategic-partnership.md)
+    * [COLLAR Podcast](reference/references/media/collar-podcast.md)
+  * [Do Your Own Research (DYOR)](reference/references/do-your-own-research-dyor.md)
+
+## Partnerships
+
+* [Partnerships](partnerships/partnerships.md)
