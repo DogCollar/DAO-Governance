@@ -4,7 +4,7 @@ description: We will post more important PR and News information about Dog Colla
 
 # CollarQuest Media
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
 
 ### [Strategic Partnership](strategic-partnership.md)
 

@@ -74,10 +74,11 @@
   * [NFT Royalties](tokenomics/tokenomics/nft-royalties.md)
   * [CollarQuest Tokenomics](tokenomics/tokenomics/collarquest-tokenomics.md)
 
-***
+## Reference
 
-* [CollarQuest Media](media/README.md)
-  * [Strategic Partnership](media/strategic-partnership.md)
-  * [COLLAR Podcast](media/collar-podcast.md)
-* [Do Your Own Research (DYOR)](do-your-own-research-dyor.md)
-* [Infographic](infographic.md)
+* [Glossary](reference/glossary.md)
+* [Infographic](reference/infographic.md)
+* [CollarQuest Media](reference/media/README.md)
+  * [Strategic Partnership](reference/media/strategic-partnership.md)
+  * [COLLAR Podcast](reference/media/collar-podcast.md)
+* [Do Your Own Research (DYOR)](reference/do-your-own-research-dyor.md)
