@@ -1,6 +1,6 @@
 # Strategic Partnership
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../.gitbook/assets/CollarQuest-SM.png)
 
 ## Goji Crypto (GOJ) and Dog Collar (COLLAR) Form Strategic Partnership
 
