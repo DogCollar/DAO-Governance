@@ -78,7 +78,7 @@
 
 * [References](reference/references/README.md)
   * [Glossary](reference/references/glossary.md)
-  * [Infographic](reference/references/infographic.md)
+  * [CollarQuest Infographic](reference/references/collarquest-infographic.md)
   * [CollarQuest Media](reference/references/media/README.md)
     * [Strategic Partnership](reference/references/media/strategic-partnership.md)
     * [COLLAR Podcast](reference/references/media/collar-podcast.md)
