@@ -80,10 +80,9 @@
   * [Glossary](reference/references/glossary.md)
   * [CollarQuest Infographic](reference/references/collarquest-infographic.md)
   * [CollarQuest Media](reference/references/media/README.md)
-    * [Strategic Partnership](reference/references/media/strategic-partnership.md)
     * [COLLAR Podcast](reference/references/media/collar-podcast.md)
   * [Do Your Own Research (DYOR)](reference/references/do-your-own-research-dyor.md)
 
 ## Partnerships
 
-* [Partnerships](partnerships/partnerships.md)
+* [Goji Crypto](partnerships/strategic-partnership.md)
