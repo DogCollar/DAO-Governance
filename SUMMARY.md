@@ -74,15 +74,16 @@
   * [NFT Royalties](tokenomics/tokenomics/nft-royalties.md)
   * [CollarQuest Tokenomics](tokenomics/tokenomics/collarquest-tokenomics.md)
 
+## Partnerships
+
+* [Goji Crypto](partnerships/strategic-partnership.md)
+
 ## Reference
 
 * [References](reference/references/README.md)
-  * [Glossary](reference/references/glossary.md)
+  * [Crypto News](reference/references/crypto-news.md)
   * [CollarQuest Infographic](reference/references/collarquest-infographic.md)
   * [CollarQuest Media](reference/references/media/README.md)
     * [COLLAR Podcast](reference/references/media/collar-podcast.md)
   * [Do Your Own Research (DYOR)](reference/references/do-your-own-research-dyor.md)
-
-## Partnerships
-
-* [Goji Crypto](partnerships/strategic-partnership.md)
+  * [Glossary](reference/references/glossary.md)
