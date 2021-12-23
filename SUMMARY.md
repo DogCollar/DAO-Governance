@@ -83,7 +83,8 @@
 
 * [References](reference/references/README.md)
   * [Crypto News](reference/references/crypto-news.md)
-  * [CollarQuest Infographic](reference/references/collarquest-infographic.md)
+  * [CollarQuest Staking Farming Infographic](reference/references/collarquest-staking-farming-infographic.md)
+  * [CollarQuest Utility Infographic](reference/references/collarquest-utility-infographic.md)
   * [CollarQuest Media](reference/references/media/README.md)
     * [COLLAR Podcast](reference/references/media/collar-podcast.md)
   * [Do Your Own Research (DYOR)](reference/references/do-your-own-research-dyor.md)
