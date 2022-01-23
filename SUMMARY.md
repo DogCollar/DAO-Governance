@@ -50,8 +50,9 @@
     * [Land](collarquest/collarquest/gameplay/land/README.md)
       * [Ariomont SDK](collarquest/collarquest/gameplay/land/ariomont-sdk.md)
   * [Staking and Staking Rewards](collarquest/collarquest/staking-and-staking-rewards.md)
-  * [Breeding](collarquest/collarquest/breeding.md)
-  * [SPARC-E Population](collarquest/collarquest/sparc-e-population.md)
+  * [SPARC-E](collarquest/collarquest/sparc-e/README.md)
+    * [Breeding](collarquest/collarquest/sparc-e/breeding.md)
+    * [SPARC-E Population](collarquest/collarquest/sparc-e/sparc-e-population.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
 
 ## Financial Oversight

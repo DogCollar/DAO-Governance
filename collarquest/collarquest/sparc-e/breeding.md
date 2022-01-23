@@ -4,7 +4,7 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Breeding
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
 
 Like real-world pets, SPARC-E can be bred to create new offspring. To avoid hyperinflation of SPARC-E there is a maximum amount of times a SPARC-E can be bred before it is sterile.
 
