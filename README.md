@@ -12,6 +12,15 @@ TAG DAO LLC a Wyoming USA Limited Liability Company Sub Type Decentralized Auton
 
 CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag/), Genesis [Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem/), [SPARC-Es](tokenomics/tokenomics/collarquest-sparc-e.md), [Land](tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](broken-reference) to return the benefits back to the HODL of our CollarQuest ecosystem.  The CollarQuest is under the direction of the CollarQuest DAO voters of TAG DAO LLC.
 
+CollarQuest that consists of:
+
+• CollarQuest Play to Earn Metaverse www.collarquest.com\
+• CollarQuest NFT Marketplace www.collarquest.com\
+• CollarSwap www.collarswap.io\
+• CollarQuest native tokens, Dog Collar (COLLAR), Dog Tag (TAG), Genesis Mechanism (GeM) \
+• CollarQuest Sentient Programmable Assault & Reconnaissance Canine - Entity (SPARC-E)\
+• CollarQuest Land (Ariomont), the SPARC-E homeland
+
 CollarQuest's journey started with Dog Collar (COLLAR), with the fundamentals of COLLAR being, and always have been, the community itself. The community infuses purpose, utility, and direction to COLLAR. The community holds the intrinsic value, not the token. Tokens are simply an object to focus the power, talent, and tremendous ability of the community.‌
 
 To that end, there will be no hidden roadmap, secret plans, or other opportunities for “insiders” to buy. All future developments, roadmaps, and opportunities will be planned in the open with input from all who wish to contribute.&#x20;
@@ -22,6 +31,6 @@ _​_[_Verify the 50% of Supply Locked as Liquidity on ShibaSwap._](https://ethe
 
 _​_[_Inspect the Dog Collar Code._](https://etherscan.io/address/0x9783b81438c24848f85848f8df31845097341771#code)
 
-CollarQuest Play2Earn Metaverse is ours.
+To our future -- together.
 
 ### _**Morpheus**_
