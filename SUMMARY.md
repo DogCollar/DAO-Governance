@@ -28,17 +28,18 @@
 ## Community Paper (CP)
 
 * [Community Papers (CP)](community-paper-cp/community-paper-cp/README.md)
-  * [Community Paper (CP) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0/README.md)
-    * [CP 1.0 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.0/cp-1.0-dao-results.md)
-  * [Community Paper (CP) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1/README.md)
-    * [CP 1.1 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.1/cp-1.1-dao-results.md)
-  * [Community Paper (CP) 1.2](community-paper-cp/community-paper-cp/community-paper-cp-1.2/README.md)
-    * [CP 1.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.2/cp-1.2-dao-results.md)
-  * [Community Paper (CP) 1.3](community-paper-cp/community-paper-cp/community-paper-cp-1.3.md)
-    * [CP 1.3 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.3/cp-1.3-dao-results.md)
+  * [Community Paper (CP) 1.5](community-paper-cp/community-paper-cp/community-paper-cp-1.5/README.md)
+    * [CP 1.5.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.5/cp-1.5.2-dao-results.md)
   * [Community Paper (CP) 1.4](community-paper-cp/community-paper-cp/community-paper-cp-1.4.md)
     * [CP 1.4 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.4/cp-1.4-dao-results.md)
-  * [Community Paper (CP) 1.5](community-paper-cp/community-paper-cp/community-paper-cp-1.5.md)
+  * [Community Paper (CP) 1.3](community-paper-cp/community-paper-cp/community-paper-cp-1.3.md)
+    * [CP 1.3 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.3/cp-1.3-dao-results.md)
+  * [Community Paper (CP) 1.2](community-paper-cp/community-paper-cp/community-paper-cp-1.2/README.md)
+    * [CP 1.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.2/cp-1.2-dao-results.md)
+  * [Community Paper (CP) 1.1](community-paper-cp/community-paper-cp/community-paper-cp-1.1/README.md)
+    * [CP 1.1 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.1/cp-1.1-dao-results.md)
+  * [Community Paper (CP) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0/README.md)
+    * [CP 1.0 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.0/cp-1.0-dao-results.md)
 
 ## Collarquest
 
