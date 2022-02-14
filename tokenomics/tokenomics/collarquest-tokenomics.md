@@ -14,8 +14,6 @@ All native tokens used for purchasing/upgrading/breeding SPARC-Es, including Col
 
 ![Figure I (Subject to Change)](<../../.gitbook/assets/Screen Shot 2021-11-08 at 8.12.00 AM.png>)
 
-## `CP 1.5 Draft language below.`
-
 ### CollarQuest Ecosystem Fund
 
 | All tokens | 5% |
