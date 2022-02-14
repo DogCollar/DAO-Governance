@@ -24,4 +24,24 @@ _**Weaknesses:** poor eye sight, must turn head to find target._
 
 _----_
 
-_More to come_
+**Razor Wraith:** Razor Wraith dangerous with electric swords that are attached to arms.  Razor moves fluidly… this villain will slice and dice you while gliding like a dancer.  you will die quickly you must outthink him jump and shoot.
+
+_**Power Level 3**_\
+_**Strengths:** Razor **** moves like poetry in motion, stings like a villain with deadly electric swords_\
+_**Weaknesses:**  lite armor, weak knees._
+
+_----_
+
+**Synth Crypt:**  Synth **is** a beast to take on.  Watch out for Synth’s mallet, it can shoot out far beyond your stance and if you get hit by it you will take damage.&#x20;
+
+_**Power level 4**_\
+_**Strengths:** Very thick armor, requires multiple hits to the same area to damage Synth._\
+_**Weaknesses:**  slow_
+
+\----
+
+**Gnash Bloodworth:**  the most formidable monster in CollarQuest.  You will need to use all of your skills - strength, speed, strategy, power, luck to defeat the behemoth that is Gnash.  &#x20;
+
+_**Power Level 5**_\
+_**Stengths:**  multiple weapons packages_\
+_**Weaknesses:**_&#x20;
