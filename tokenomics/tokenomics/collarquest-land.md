@@ -1,7 +1,3 @@
----
-description: Proposed Community Paper (CP) 1.4 language
----
-
 # CollarQuest Land
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)

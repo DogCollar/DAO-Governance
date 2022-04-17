@@ -80,8 +80,7 @@
 
 ## Partnerships
 
-* [CollarQuest Partnerships](partnerships/collarquest-partnerships/README.md)
-  * [Goji Crypto](partnerships/collarquest-partnerships/strategic-partnership.md)
+* [CollarQuest Partnerships](partnerships/collarquest-partnerships.md)
 
 ## Reference
 

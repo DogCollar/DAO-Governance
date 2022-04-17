@@ -1,7 +1,3 @@
----
-description: September 27, 2021 - Proposed language for consideration.
----
-
 # Tokenomics
 
 

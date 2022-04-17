@@ -1,7 +1,3 @@
----
-description: Proposed Community Paper (CP) 1.4 language
----
-
 # CollarQuest SPARC-E
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)

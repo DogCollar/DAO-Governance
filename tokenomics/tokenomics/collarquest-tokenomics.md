@@ -1,7 +1,3 @@
----
-description: Pending COLLAR DAO vote
----
-
 # CollarQuest Tokenomics
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)

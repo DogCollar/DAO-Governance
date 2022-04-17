@@ -1,7 +1,3 @@
----
-description: Multi-signature Donation Wallet Oversight
----
-
 # Multi-signature Wallet
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)

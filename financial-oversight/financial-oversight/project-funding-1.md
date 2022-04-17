@@ -1,7 +1,3 @@
----
-description: Dog Collar (COLLAR) Project Funding
----
-
 # Project Funding
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
