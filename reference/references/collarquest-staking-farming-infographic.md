@@ -4,4 +4,4 @@
 
 CollarQuest Infographics are graphic visual representations that include information, data, or knowledge to present the information quickly and clearly from our Community Papers.
 
-![](../../.gitbook/assets/CollarToken\_Inforgraphic\_D12.jpeg)
+![](<../../.gitbook/assets/CollarToken\_Inforgraphic\_D14Updated 5.18.22.jpg>)
