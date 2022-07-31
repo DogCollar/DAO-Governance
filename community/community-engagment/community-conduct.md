@@ -1,6 +1,6 @@
 # Community Conduct
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
 ## Community Conduct on CollarQuest Forums
 
