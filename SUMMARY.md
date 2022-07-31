@@ -26,6 +26,8 @@
 ## Community Paper (CP)
 
 * [Community Papers (CP)](community-paper-cp/community-paper-cp/README.md)
+  * [Community Paper (CP) 1.6](community-paper-cp/community-paper-cp/community-paper-cp-1.6/README.md)
+    * [CP 1.6 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.6/cp-1.6-dao-results.md)
   * [Community Paper (CP) 1.5](community-paper-cp/community-paper-cp/community-paper-cp-1.5/README.md)
     * [CP 1.5.2 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.5/cp-1.5.2-dao-results.md)
   * [Community Paper (CP) 1.4](community-paper-cp/community-paper-cp/community-paper-cp-1.4.md)

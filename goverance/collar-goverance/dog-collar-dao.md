@@ -1,6 +1,6 @@
 # TAG DAO LLC
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
 ## What Is TAG DAO LLC?
 

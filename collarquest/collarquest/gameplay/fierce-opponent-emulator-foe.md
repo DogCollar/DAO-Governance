@@ -1,6 +1,6 @@
 # Fierce Opponent Emulator (FOE)
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](<../../../.gitbook/assets/image (1).png>)
+![CollarQuest a Metaverse Play2Earn Ecosystem](<../../../.gitbook/assets/image (1) (2).png>)
 
 Self-bred evil SPARC-Es called Fierce Opponent Emulator (FOE) are terrorizing Ariomont. Players will be able to take on FOEs in real-time battles, either alone or in groups. FOEs will drop an assortment of resources, items, and blueprints used to upgrade Land and individual SPARC-Es.
 
