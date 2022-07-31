@@ -1,14 +1,12 @@
 # Multi-signature Officers
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
-## Multi-signature Officers
 
-At its first scheduled meeting in January, the COLLAR DAO will elect one member to serve in the ceremonial title of CEO. No member of the Multi-signature may serve as CEO for more than two years in succession. If the CEO member is unable to continue to serve, a replacement will be elected immediately from a COLLAR DOA vote. The replacement CEO will serve the remainder of the term until the following January. The replacement term for the CEO does not count against the two consecutive years of service.
 
 ## Ceremonial CEO
 
-The ceremonial CEO will:
+The Ceremonial CEO will:
 
 1. Bring forward for a CollarQuest DAO vote committee proposals;\
 
