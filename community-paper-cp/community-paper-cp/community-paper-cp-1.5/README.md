@@ -4,7 +4,7 @@ description: Community Paper (CP) 1.5 CANDIDATE
 
 # Community Paper (CP) 1.5
 
-![](../../../.gitbook/assets/CollarQuest-SM.png)
+![](../../../.gitbook/assets/CQ-Title.png)
 
 The Dog Collar Community Paper 1.5.2 was released for the first read by the CollarCrew community on January 12, 2022.
 

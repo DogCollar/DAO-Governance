@@ -2,6 +2,8 @@
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CQ-Title.png)
 
+The CollarQuest Community Paper 1.6 was released for the first read by the community on July 8, 2022.  See [CP 1.6 DAO](https://governance.collartoken.com/#/proposal/0x352d12de8e5c4da982ca5b99c32a5aa222b3cd135656fb8034f706e1f7020662) for the official proposal and results.
+
 A motion to approve the below content and incorporate the application into TAG DAO LLC docs are located at: [https://docs.collartoken.com/](https://docs.collartoken.com/)
 
 SUMMARY

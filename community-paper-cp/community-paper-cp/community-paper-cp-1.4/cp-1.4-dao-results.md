@@ -1,6 +1,6 @@
 # CP 1.4 DAO Results
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CQ-Title.png)
 
 ## Dog Collar Community Paper (CP) 1.4
 
