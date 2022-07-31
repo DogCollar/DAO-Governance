@@ -6,7 +6,7 @@ description: >-
 
 # CollarQuest Metaverse
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](.gitbook/assets/CQ-Title.png)
 
 TAG DAO LLC a Wyoming USA Limited Liability Company Sub Type Decentralized Autonomous Organization (DAO) [file # 2021-001042843](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=238025085027199181157084092248068096111016081201) is the official organization that is governed by the CollarQuest DAO.  You can see a list of current or past CollarQuest DAO Proposal votes at [https://governance.collartoken.com/#/](https://governance.collartoken.com/#/)
 
