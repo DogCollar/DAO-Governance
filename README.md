@@ -1,16 +1,16 @@
 ---
 description: >-
   CollarQuest Metaverse is a stand-alone project and a fully community-organized
-  NFT gaming experience under the direction of TAG DAO LLC.
+  NFT gaming experience under the direction of TAG DAO LLC (CollarQuest or DAO).
 ---
 
 # CollarQuest Metaverse
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](.gitbook/assets/CQ-Title.png)
 
-TAG DAO LLC a Wyoming USA Limited Liability Company Sub Type Decentralized Autonomous Organization (DAO) [file # 2021-001042843](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=238025085027199181157084092248068096111016081201) is the official organization that is governed by the CollarQuest DAO.  You can see a list of current or past CollarQuest DAO Proposal votes at [https://governance.collartoken.com/#/](https://governance.collartoken.com/#/)
+TAG DAO LLC a Wyoming USA Limited Liability Company Sub Type Decentralized Autonomous Organization (DAO) [file # 2021-001042843](https://wyobiz.wyo.gov/Business/FilingDetails.aspx?eFNum=238025085027199181157084092248068096111016081201) is the official organization governed by the CollarQuest.  You can see a list of current or past CollarQuest DAO Proposal at [https://governance.collartoken.com/#/](https://governance.collartoken.com/#/)
 
-CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag/), Genesis [Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem/), [SPARC-Es](tokenomics/tokenomics/collarquest-sparc-e.md), [Land (Ariomont)](tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](broken-reference) to return the benefits back to the HODL of our CollarQuest DAO.  CollarQuest is under the direction of the CollarQuest DAO voters of TAG DAO LLC.
+CollarQuest ecosystem includes but is not limited to [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md), [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag/), Genesis [Mechanism (GeM)](tokenomics/tokenomics/genesis-mechanism-gem/), [SPARC-Es](tokenomics/tokenomics/collarquest-sparc-e.md), [Land (Ariomont)](tokenomics/tokenomics/collarquest-land.md), and the [CollarQuest Tokenomics](broken-reference) to return the benefits back to the HODL of CollarQuest DAO.  CollarQuest is under the direction of the CollarQuest DAO governance token for TAG DAO LLC.
 
 CollarQuest that consists of:
 
