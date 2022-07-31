@@ -6,8 +6,7 @@
 
 * [Community Engagement](community/community-engagment/README.md)
   * [Charity Outreach](community/community-engagment/charity-outreach.md)
-  * [Community Committees](community/community-engagment/community-committees/README.md)
-    * [Committee Org Chart](community/community-engagment/community-committees/organizational-chart.md)
+  * [Community Committees](community/community-engagment/community-committees.md)
   * [Community Conduct](community/community-engagment/community-conduct.md)
   * [Community Straw Polls](community/community-engagment/community-straw-polls.md)
   * [How Voting Works](community/community-engagment/how-voting-works.md)
