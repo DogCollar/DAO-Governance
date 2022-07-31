@@ -1,5 +1,7 @@
 # Community Paper (CP) 1.6
 
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CQ-Title.png)
+
 A motion to approve the below content and incorporate the application into TAG DAO LLC docs are located at: [https://docs.collartoken.com/](https://docs.collartoken.com/)
 
 SUMMARY
