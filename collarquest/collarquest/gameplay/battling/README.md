@@ -4,7 +4,7 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Battling
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](<../../../../.gitbook/assets/image (4).png>)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CQ-Title.png)
 
 ### Arena mode, also known as Player vs Player (PvP).
 

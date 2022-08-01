@@ -4,6 +4,10 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Land
 
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CQ-Title.png)
+
+## CollarQuest Ariomont (Land)
+
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CollarQuest-LAND.png)
 
 Ariomont,  the SPARC-E homeland,  is divided into tokenized plots of land which act as homes and bases of operation for their SPARC-E. Plots can be upgraded over time using a variety of resources and crafting ingredients that can be found when playing the game.&#x20;
@@ -27,14 +31,14 @@ Ariomont consists of 90,601 plots of Land. These Land plots are represented as N
 
 | Land Type                          | Player-owned | Total supply |
 | ---------------------------------- | ------------ | ------------ |
-| Rhode Ridge                        | 0            | 22042        |
-| Birklands                          | 0            | 22025        |
-| Tundra                             | 0            | 16537        |
-| Argos                              | 0            | 8264         |
-| Inception                          | 0            | 220          |
-| Village Green (Center)             | 0            | 3501         |
-| Map (water, roads, resource nodes) | 0            | 18012        |
-| **Total land**                     | **0**        | **90601**    |
+| Rhode Ridge                        | 0            | 30,897       |
+| Birklands                          | 0            | 30,897       |
+| Tundra                             | 0            | 23,181       |
+| Argos                              | 0            | 11,584       |
+| Inception                          | 0            | 308          |
+| Village Green (Center)             | 0            | 4,908        |
+| Map (water, roads, resource nodes) | 0            | 25,249       |
+| **Total land**                     | **0**        | **127,001**  |
 
 Land gameplay is still being actively developed and will be released in phases.
 

@@ -50,10 +50,10 @@
       * [Tournaments](collarquest/collarquest/gameplay/battling/tournaments.md)
     * [Land](collarquest/collarquest/gameplay/land/README.md)
       * [Ariomont SDK](collarquest/collarquest/gameplay/land/ariomont-sdk.md)
-    * [Fierce Opponent Emulator (FOE)](collarquest/collarquest/gameplay/fierce-opponent-emulator-foe.md)
+    * [CollarQuest FOEs](collarquest/collarquest/gameplay/collarquest-foes.md)
   * [Staking and Staking Rewards](collarquest/collarquest/staking-and-staking-rewards.md)
   * [SPARC-E](collarquest/collarquest/sparc-e/README.md)
-    * [Breeding](collarquest/collarquest/sparc-e/breeding.md)
+    * [Breeding & Royalties](collarquest/collarquest/sparc-e/breeding-and-royalties.md)
     * [SPARC-E Population](collarquest/collarquest/sparc-e/sparc-e-population.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
 

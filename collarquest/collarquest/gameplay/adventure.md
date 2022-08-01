@@ -4,7 +4,7 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Adventure
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](<../../../.gitbook/assets/image (4).png>)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CQ-Title.png)
 
 ### **Adventure Mode Introduction (PvE)**
 

@@ -4,9 +4,9 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # CollarQuest
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
-The Dog Collar Metaverse game project under development has been dubbed **CollarQuest**. CollarQuest will be a fun and engaging game which can be played on any desktop, laptop, or device. While the story is still being crafted, its core gameplay will focus on the adventures of robot dog-types called "Sentient Programmable Assault & Reconnaissance Canine - Entity", or SPARC-E for short. SPARC-Es will be created as NFTs with random characteristics, abilities, and various skills, which may battle against computer-controlled opponents or other real-life players.
+CollarQuest Play-to-Earn Metaverse game project is [under development](https://www.collarquest.com) has been dubbed **CollarQuest**. CollarQuest will be a fun and engaging game which can be played on any desktop, laptop, or device. While the story is still being crafted, its core gameplay will focus on the adventures of robot dog-types called "Sentient Programmable Assault & Reconnaissance Canine - Entity", or SPARC-E for short. SPARC-Es will be created as NFTs with random characteristics, abilities, and various skills, which may battle against computer-controlled opponents or other real-life players.
 
 The in-game SPARC-Es are NFTs, a unique digital asset exclusively owned by you! Any SPARC-E created or purchased through the game’s breeding mechanics will be an original digital asset that can be played, sold, or transferred in or out of the game! Stay tuned, more to come!
 
@@ -18,12 +18,12 @@ While CollarQuest will be a fun game, it's also taken on characteristics of a so
 
 The key difference between CollarQuest and a traditional game is that Blockchain economic design is used to reward our players for their contributions to the ecosystem. This new model of gaming has been dubbed "play to earn".  CollarQuest will attract thousands of players from all countries in the pursuit of a new income stream.
 
-Players can earn by:
+Players can get rewards by:
 
 * Competing in PVP battles to win leaderboard prizes.
 * Breeding SPARC-E and selling them on the marketplace.
 * Collecting and speculating on rare SPARC-E.
-* Farming for the Genesis Mechanism (GeM) that is needed to breed SPARC-E. These will be able to be sold on exchanges such as GojiSwap.
+* Farming for the Genesis Mechanism (GeM) that is needed to breed SPARC-E. These will be able to be sold on exchanges such as CollarSwap.
 * When CollarQuest launches, players will be able to earn a governance token, TAG, which represents governance rights. Since players can earn this token by playing, a Ready Player one type quest emerges where players can play to earn and have voting rights. However, these quests are not winner takes all and rewards each player based on their effort and skill.
 
 **SPARC-E's Mission**

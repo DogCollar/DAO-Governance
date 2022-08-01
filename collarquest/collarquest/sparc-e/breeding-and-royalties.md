@@ -2,7 +2,7 @@
 description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 ---
 
-# Breeding
+# Breeding & Royalties
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
 
@@ -46,3 +46,7 @@ Then select a SPARC-E to pair it with!
 SPARC-E takes 5 days to reach maturity.
 
 After 5 days, you can morph your offspring box into an adult SPARC-E and see the SPARC-E's components.
+
+## Breeder Royalties (SPARC-E Offspring)
+
+When members breed their SPARC-Es and then sell the offspring, the member retains a 5% royalty in perpetuity for each and every time that offspring SPARC-E is sold on an open market - after the initial sale. Example: a SPARC-E owner breeds 2 SPARC-Es, and sells the offspring to buyer number 1. The original breeder does NOT receive 5% on this sale. Buyer number 1 sells that offspring SPARC-E to buyer number 2. The original owner/breeder DOES receive 5% on the secondary and all future sales.

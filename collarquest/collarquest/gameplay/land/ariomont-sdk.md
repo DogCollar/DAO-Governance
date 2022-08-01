@@ -4,6 +4,10 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 # Ariomont SDK
 
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CQ-Title.png)
+
+## CollarQuest Ariomont (Land) SDK
+
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CollarQuest-LAND.png)
 
 The Ariomont SDK will initially be a map editor where players can use CollarQuest art assets to create games and other experiences. Once a game has been created it is saved as a Non-Fungible Token and can be traded. These NFTs can be placed on land and players will be able to click on them to enter the game inside.
