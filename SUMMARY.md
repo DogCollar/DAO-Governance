@@ -65,7 +65,7 @@
 
 ## Tokenomics
 
-* [Tokenomics](tokenomics/tokenomics/README.md)
+* [CollarQuest Tokenomics](tokenomics/tokenomics/README.md)
   * [Dog Collar (COLLAR)](tokenomics/tokenomics/dog-collar-collar.md)
   * [Dog Tag (TAG)](tokenomics/tokenomics/dog-tag/README.md)
     * [Allocations/Unlock Schedule (TAG)](tokenomics/tokenomics/dog-tag/allocations-unlock-schedule-tag.md)
