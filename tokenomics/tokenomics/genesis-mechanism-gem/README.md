@@ -8,8 +8,7 @@ Like real-world pets, SPARC-Es can be bred to create new offspring. To avoid hyp
 
 Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
 
-* CollarQuest does not sell $GeM players directly
-* CollarQuest DAO will not provide liquidity for $GeM
+* CollarQuest DAO will provide the starting liquidity for $GeM on both Ethereum and Polgon.
 
 ![](../../../.gitbook/assets/GeM-Minting.png)
 
