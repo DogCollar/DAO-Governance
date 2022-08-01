@@ -1,6 +1,6 @@
 # CollarQuest SPARC-E
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
 Sentient Programmable Assault & Reconnaissance Canine - Entity (SPARC-E). SPARC-Es will be created as NFTs with random characteristics, abilities, and various skills, which may battle against computer-controlled opponents or other real-life players.
 
@@ -14,9 +14,9 @@ Players can also trade SPARC-E peer-to-peer, meaning you can purchase directly f
 
 ![SPARC-E STATS](../../.gitbook/assets/SPARC-E.png)
 
-### Should you invest in more expensive SPARC-Es?
+### Should you buy a more expensive SPARC-Es?
 
-The cheapest SPARC-E, sometimes called “Bronze” SPARC-E, are cheap for a reason. They usually have a terrible combination of stats and body parts that do not have good synergy.
+The cheapest SPARC-E, sometimes called “Common” SPARC-E, are cheap for a reason. They usually have a terrible combination of stats and body parts that do not have good synergy.
 
 In most cases, more expensive SPARC-E than the base price tends to have better body parts, stats, and abilities.
 
@@ -24,13 +24,13 @@ Investing in a more expensive team will get you ahead of others.
 
 Having a more powerful team from the beginning means you will get to farm GeM faster in Adventure and Arena mode.
 
-So, if you can save up a bit before purchasing your first team, we highly recommend avoiding Bronze SPARC-Es for your starter team.
+So, if you can save up a bit before purchasing your first team, we highly recommend avoiding common SPARC-Es for your starter team.
 
 Regardless, as long as you can find SPARC-Es that give you the best value, even budget starter teams should be enough to get you started.
 
-Figure J shows the four (4) Step releases that we also call phases 1-4. Phase 1 will release 12,500 SPARC-Es priced in three (3) different levels (4,166 Bronze, 4,167Silver, and 4,167 Gold). The odds of receiving special abilities or power-ups increase from purchasing Silver over Bronze or Gold over Bronze and Silver level SPARC-Es.
+Figure J shows the four (4) Step releases that we also call phases 1-4. Phase 1 will release 12,500 SPARC-Es priced in three (3) different levels (50% Common, 35% Uncommon, and 15% Rare). The odds of receiving special abilities or power-ups increase from purchasing Uncommon over Common or Rare over Common and Uncommon level SPARC-Es.
 
-![Figure J (Subject to change)](<../../.gitbook/assets/SPARC-E Minting.png>)
+![Figure J (Subject to change)](../../.gitbook/assets/SPARC-E-Allocation.png)
 
 The SPARC-E sales will consist of four different phases. Phase 1 Step Release consists of 12,500 SPARC-Es that can be purchased. Phase 2–4 step release will happen prior to the game floor opening. Figure J visualizes the minting schedule for each Step Release Phase.&#x20;
 
