@@ -1,6 +1,6 @@
 # Multi-signature Wallet
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
 ## Multi-signature Donation Wallet
 

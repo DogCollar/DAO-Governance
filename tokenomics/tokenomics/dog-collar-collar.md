@@ -1,6 +1,6 @@
 # Dog Collar (COLLAR)
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
 ## **Dog Collar (Collar)**
 

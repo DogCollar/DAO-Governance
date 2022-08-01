@@ -1,15 +1,13 @@
 # Play to Earn (GeM)
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CQ-Title.png)
 
+|               |                   |                               |
+| ------------- | ----------------- | ----------------------------- |
+| Token Amount  | % of total supply | Unlock Schedule               |
+| 3,000,000,000 | 60%               | Gradual unlock over 48-months |
 
-
-|              |                   |                               |
-| ------------ | ----------------- | ----------------------------- |
-| Token Amount | % of total supply | Unlock Schedule               |
-| 100,000,000  | 50%               | Gradual unlock over 48-months |
-
-The play to earn issuance represents 50% of the total GeM supply. The goal of the play to earn tokens is to attract a wide range of players to the CollarQuest ecosystem in the hunt for token rewards and to give ownership and stake to the most active community members.&#x20;
+The play to earn issuance represents 60% of the total GeM supply. The goal of the play to earn tokens is to attract a wide range of players to the CollarQuest ecosystem in the hunt for token rewards and to give ownership and stake to the most active community members.&#x20;
 
 We envision using the play to earn portion of the issuance to reward key behaviors within our ecosystem such as:
 

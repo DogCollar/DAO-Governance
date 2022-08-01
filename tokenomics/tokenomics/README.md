@@ -1,8 +1,6 @@
 # CollarQuest Tokenomics
 
-
-
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CollarQuest-SM.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](../../.gitbook/assets/CQ-Title.png)
 
 ## Tokenomics Overview for COLLAR, TAG, and GeM
 
