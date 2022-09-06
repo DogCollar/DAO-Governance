@@ -10,7 +10,7 @@ description: >-
 
 ## CollarQuest and CollarSwap Smart Contracts
 
-## **TESTNET**
+## **ALL TESTNET Smart Contracts**
 
 SPARCECore - [https://goerli.etherscan.io/address/0x56C68978010Aa53c6a6A9FA4D102659caf7b02c3#code](https://goerli.etherscan.io/address/0x56C68978010Aa53c6a6A9FA4D102659caf7b02c3#code)&#x20;
 
@@ -32,21 +32,19 @@ InitialCoinOffering - [https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaa
 
 Stake - [https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506aec7a3c#code](https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506aec7a3c#code)
 
-
-
-## **MAINNET**
+## **CollarSwap.io MAINNET Smart Contracts**
 
 CollarSwapFactory
 
 [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
 
-CollarSwapLibrary
+WETH
 
-https://etherscan.io/address/xxxxxx
+[https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
 
 CollarSwapRouter
 
-https://etherscan.io/address/xxxxxx
+[https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
 
 CollarStake
 
