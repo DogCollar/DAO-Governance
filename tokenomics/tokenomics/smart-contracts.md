@@ -35,3 +35,6 @@ Stake - [https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506
 CollarSwapFactory
 
 [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
+
+CollarSwapLibrary
+
