@@ -10,15 +10,11 @@ description: >-
 
 ## CollarQuest and CollarSwap Smart Contracts
 
-## **ALL TESTNET Smart Contracts**
+## **Remaining TESTNET Smart Contracts to deploy Sept 7, 2022**
 
 SPARCECore - [https://goerli.etherscan.io/address/0x56C68978010Aa53c6a6A9FA4D102659caf7b02c3#code](https://goerli.etherscan.io/address/0x56C68978010Aa53c6a6A9FA4D102659caf7b02c3#code)&#x20;
 
-GeM - [https://goerli.etherscan.io/address/0x3b37bf933ed61979c76ccfe5e371e3067fb42fb3#code](https://goerli.etherscan.io/address/0x3b37bf933ed61979c76ccfe5e371e3067fb42fb3#code)&#x20;
-
 SPARCEManagerCustomizable - [https://goerli.etherscan.io/address/0xED49686f2921E465382e048BAC4C1306b7C09eE2#code](https://goerli.etherscan.io/address/0xED49686f2921E465382e048BAC4C1306b7C09eE2#code)&#x20;
-
-TAG - [https://goerli.etherscan.io/address/0x0dfba1a3f090b364b9c00d5f7ffad7e2f98a9fe3#code](https://goerli.etherscan.io/address/0x0dfba1a3f090b364b9c00d5f7ffad7e2f98a9fe3#code)&#x20;
 
 Battle - [https://goerli.etherscan.io/address/0x470f894dc027b9441BcA21E45b01Ea0996B70F08#code](https://goerli.etherscan.io/address/0x470f894dc027b9441BcA21E45b01Ea0996B70F08#code)&#x20;
 
@@ -29,8 +25,6 @@ SPARCEClockAuction - [https://goerli.etherscan.io/address/0xaffbd2fc8149d84e44c4
 MultiSigWallet - [https://goerli.etherscan.io/address/0x389690c9d4481bf4e067ed6ad07ea664c6e616ef#code](https://goerli.etherscan.io/address/0x389690c9d4481bf4e067ed6ad07ea664c6e616ef#code)&#x20;
 
 InitialCoinOffering - [https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaab698308dab8b1465f63c1#code](https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaab698308dab8b1465f63c1#code)&#x20;
-
-Stake - [https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506aec7a3c#code](https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506aec7a3c#code)
 
 ## **CollarSwap.io MAINNET Smart Contracts**
 
