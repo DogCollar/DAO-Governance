@@ -29,3 +29,9 @@ MultiSigWallet - [https://goerli.etherscan.io/address/0x389690c9d4481bf4e067ed6a
 InitialCoinOffering - [https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaab698308dab8b1465f63c1#code](https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaab698308dab8b1465f63c1#code)&#x20;
 
 Stake - [https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506aec7a3c#code](https://goerli.etherscan.io/address/0x0a06da9821d7c7d745c9a8777cb4f9506aec7a3c#code)
+
+
+
+CollarSwapFactory
+
+[https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
