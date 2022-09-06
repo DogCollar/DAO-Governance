@@ -77,6 +77,7 @@
   * [CollarQuest Land](tokenomics/tokenomics/collarquest-land.md)
   * [NFT Royalties](tokenomics/tokenomics/nft-royalties.md)
   * [CollarQuest Tokenomics](tokenomics/tokenomics/collarquest-tokenomics.md)
+  * [Smart Contracts](tokenomics/tokenomics/smart-contracts.md)
 
 ## Partnerships
 
