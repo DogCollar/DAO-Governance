@@ -38,3 +38,12 @@ CollarSwapFactory
 
 CollarSwapLibrary
 
+https
+
+CollarSwapRouter
+
+https
+
+CollarStake
+
+[https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
