@@ -10,9 +10,6 @@ Like real-world pets, SPARC-E can be bred to create new offspring. To avoid hype
 
 Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
 
-* CollarQuest DAO will not sell $GeM to players directly
-* CollarQuest DAO will not provide liquidity for $GeM
-
 | **Breed Count** | **Breed Number** | **Total GeM Cost** | **Total TAG Cost** |
 | --------------- | ---------------- | ------------------ | ------------------ |
 | **(0/7)**       | **1**            | **6000**           | **5000**           |
