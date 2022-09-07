@@ -1,30 +1,42 @@
----
-description: >-
-  September 5, 2022 @ 23:40 PT: We are placing the testnet contracts for public
-  review.  We will update URLs once mainnet deployment is completed.
----
-
 # Smart Contracts
 
 <figure><img src="../../.gitbook/assets/CQ-Title.png" alt=""><figcaption><p>CollarQuest a Metaverse Play2Earn Ecosystem</p></figcaption></figure>
 
 ## CollarQuest and CollarSwap Smart Contracts
 
-## **Remaining TESTNET Smart Contracts to deploy Sept 7, 2022**
+## **CollarQuest.com MAINNET Smart Contracts deploy Sept 7, 2022**
 
-SPARCECore - [https://goerli.etherscan.io/address/0x56C68978010Aa53c6a6A9FA4D102659caf7b02c3#code](https://goerli.etherscan.io/address/0x56C68978010Aa53c6a6A9FA4D102659caf7b02c3#code)&#x20;
+SPARC-E
 
-SPARCEManagerCustomizable - [https://goerli.etherscan.io/address/0xED49686f2921E465382e048BAC4C1306b7C09eE2#code](https://goerli.etherscan.io/address/0xED49686f2921E465382e048BAC4C1306b7C09eE2#code)&#x20;
+[https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code](https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code)
 
-Battle - [https://goerli.etherscan.io/address/0x470f894dc027b9441BcA21E45b01Ea0996B70F08#code](https://goerli.etherscan.io/address/0x470f894dc027b9441BcA21E45b01Ea0996B70F08#code)&#x20;
+SPARCEManagerCustomizable
 
-Breeding - [https://goerli.etherscan.io/address/0x13cf0f9b6f5ba5fbb8ccf82a60d7e6321cfc3278#code](https://goerli.etherscan.io/address/0x13cf0f9b6f5ba5fbb8ccf82a60d7e6321cfc3278#code)&#x20;
+[https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code](https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code)
 
-SPARCEClockAuction - [https://goerli.etherscan.io/address/0xaffbd2fc8149d84e44c44a8d6b8a1231c77e5351#code](https://goerli.etherscan.io/address/0xaffbd2fc8149d84e44c44a8d6b8a1231c77e5351#code)&#x20;
+Battle
 
-MultiSigWallet - [https://goerli.etherscan.io/address/0x389690c9d4481bf4e067ed6ad07ea664c6e616ef#code](https://goerli.etherscan.io/address/0x389690c9d4481bf4e067ed6ad07ea664c6e616ef#code)&#x20;
+[https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code](https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code)
 
-InitialCoinOffering - [https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaab698308dab8b1465f63c1#code](https://goerli.etherscan.io/address/0x516cfeb5c7bac26beaab698308dab8b1465f63c1#code)&#x20;
+Breeding
+
+[https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
+
+SPARCEClockAuction
+
+[https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code](https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code)
+
+InitialCoinOffering
+
+[https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code](https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code)
+
+Dog Tag (TAG)
+
+[https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code](https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code)
+
+Genesis Mechanism (GeM)
+
+[https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code](https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code)
 
 ## **CollarSwap.io MAINNET Smart Contracts**
 
@@ -43,7 +55,3 @@ CollarSwapRouter
 CollarStake
 
 [https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
-
-## **CollarQuest.com MAINNET Smart Contracts**
-
-****[**https://etherscan.io/token/0x674900b8fd8ee1b487d162d04c59300222d90466**](https://etherscan.io/token/0x674900b8fd8ee1b487d162d04c59300222d90466)****
