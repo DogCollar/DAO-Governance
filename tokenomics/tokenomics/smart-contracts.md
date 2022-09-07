@@ -46,4 +46,4 @@ CollarStake
 
 ## **CollarQuest.com MAINNET Smart Contracts**
 
-**Check back Sept 7, 2022**
+****[**https://etherscan.io/token/0x674900b8fd8ee1b487d162d04c59300222d90466**](https://etherscan.io/token/0x674900b8fd8ee1b487d162d04c59300222d90466)****

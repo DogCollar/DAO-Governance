@@ -13,15 +13,15 @@ Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) dependin
 * CollarQuest DAO will not sell $GeM to players directly
 * CollarQuest DAO will not provide liquidity for $GeM
 
-| **Breed Count** | **Breed Number** | **Total GeM Cost** |
-| --------------- | ---------------- | ------------------ |
-| **(0/7)**       | **1**            | **600**            |
-| **(1/7)**       | **2**            | **900**            |
-| **(2/7)**       | **3**            | **1500**           |
-| **(3/7)**       | **4**            | **2400**           |
-| **(4/7)**       | **5**            | **3900**           |
-| **(5/7)**       | **6**            | **6300**           |
-| **(6/7)**       | **7**            | **10200**          |
+| **Breed Count** | **Breed Number** | **Total GeM Cost** | **Total TAG Cost** |
+| --------------- | ---------------- | ------------------ | ------------------ |
+| **(0/7)**       | **1**            | **6000**           | **5000**           |
+| **(1/7)**       | **2**            | **9000**           | **5000**           |
+| **(2/7)**       | **3**            | **15000**          | **5000**           |
+| **(3/7)**       | **4**            | **24000**          | **5000**           |
+| **(4/7)**       | **5**            | **39000**          | **5000**           |
+| **(5/7)**       | **6**            | **63000**          | **5000**           |
+| **(6/7)**       | **7**            | **102000**         | **5000**           |
 
 **Genesis Mechanism **_**can be earned by playing the game in PvE Adventure mode as well as the PvP Arena.**_
 
