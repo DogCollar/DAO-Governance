@@ -46,13 +46,13 @@ _**CollarSwapRouter**_
 
 _**CollarStake**_
 
-[https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code)
+[https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
 
 ## _ERC-20_
 
 _**Dog Collar (COLLAR)**_
 
-_****_[https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
+[https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code)
 
 _**Dog Tag (TAG)**_
 
