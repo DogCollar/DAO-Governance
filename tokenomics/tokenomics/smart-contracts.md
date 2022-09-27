@@ -26,7 +26,7 @@ _**Battle**_
 
 _**Code:**_ [https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code](https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code)
 
-_**Audit:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/) __&#x20;
+_**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/) __&#x20;
 
 __
 
@@ -34,7 +34,7 @@ _**Breeding**_
 
 _**Code:**_ [https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
 
-_**Audit:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/)_****_
+_**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/)_****_
 
 
 
