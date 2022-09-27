@@ -10,7 +10,7 @@ _**SPARC-E**_
 
 _**Code:**_ [https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code](https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code) _****_&#x20;
 
-_**Audit:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
+_**Audit Sept 23, 2022:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
 
 _****_
 
@@ -18,7 +18,7 @@ _**SPARCEManagerCustomizable**_
 
 _**Code:**_ [https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code](https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code)
 
-_**Audit:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
+_**Audit Sept 23, 2022:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
 
 _****_
 
@@ -26,13 +26,13 @@ _**Battle**_
 
 _**Code:**_ [https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code](https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code)
 
-**Audit:** ETA, Sept 27, 2022 EOD
+_**Audit:** ETA, Sept 27, 2022 EOD_
 
 _**Breeding**_
 
 _**Code:**_ [https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
 
-**Audit:** ETA, Sept 27, 2022 EOD
+_**Audit:** ETA, Sept 27, 2022 EOD_
 
 
 
@@ -40,9 +40,15 @@ _**SPARCEClockAuction**_
 
 _**Code:**_ [https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code](https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code)
 
+_**Audit:** ETA, Sept 30, 2022 EOD_
+
+__
+
 _**InitialCoinOffering**_
 
 _**Code:**_ [https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code](https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code)
+
+_**Audit:** ETA, Sept 30, 2022 EOD_
 
 ## **CollarSwap.io**
 
