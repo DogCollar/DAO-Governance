@@ -58,7 +58,7 @@ _**CollarSwapFactory**_
 
 _**Code:**_ [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
 
-_**Audit:** TBA_
+_**Audit:** ETA, October 7, 2022 EOD_
 
 
 
@@ -66,7 +66,7 @@ _**WETH**_
 
 _**Code:**_ [https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
 
-_**Audit:** TBA_
+_**Audit:** ETA, October 7, 2022 EOD_
 
 __
 
@@ -74,7 +74,7 @@ _**CollarSwapRouter**_
 
 _**Code:**_ [https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
 
-_**Audit:** TBA_
+_**Audit:** ETA, October 7, 2022 EOD_
 
 __
 
@@ -82,7 +82,7 @@ _**CollarStake**_
 
 _**Code:**_ [https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
 
-_**Audit:** TBA_
+_**Audit:** ETA, October 7, 2022 EOD_
 
 
 
@@ -90,12 +90,22 @@ _**Audit:** TBA_
 
 _**Dog Collar (COLLAR)**_
 
-[https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code)
+_**Code:**_ [https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code](https://etherscan.io/token/0x9783b81438c24848f85848f8df31845097341771#code)
+
+_**Audit:** None, see the Burn, Lock, and Inspect the CODE under "_Token Transparency" on [https://www.tagdao.llc](https://www.tagdao.llc)&#x20;
+
+
 
 _**Dog Tag (TAG)**_
 
-_****_[https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code](https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code)
+_**Code:**_ [https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code](https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code)
+
+_**Audit:** _ [_See CollarQuest Tokenomics > Dog Tag (TAG)_](dog-tag/)__
+
+_****_
 
 _**Genesis Mechanism (GeM)**_
 
-_****_[https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code](https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code)
+_**Code:**_ [https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code](https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code)
+
+_**Audit:** _ [_See CollarQuest Tokenomics > Genesis Mechanism (GeM)_](genesis-mechanism-gem/)__
