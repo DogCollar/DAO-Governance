@@ -8,45 +8,59 @@
 
 _**SPARC-E**_
 
-_****_[https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code](https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code)
+_**Code:**_ [https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code](https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code) _****_&#x20;
+
+_**Audit:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
+
+_****_
 
 _**SPARCEManagerCustomizable**_
 
-_****_[https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code](https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code)
+_**Code:**_ [https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code](https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code)
+
+_**Audit:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
+
+_****_
 
 _**Battle**_
 
-[https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code](https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code)
+_**Code:**_ [https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code](https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code)
+
+**Audit:** ETA, Sept 27, 2022 EOD
 
 _**Breeding**_
 
-[https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
+_**Code:**_ [https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
+
+**Audit:** ETA, Sept 27, 2022 EOD
+
+
 
 _**SPARCEClockAuction**_
 
-_****_[https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code](https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code)
+_**Code:**_ [https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code](https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code)
 
 _**InitialCoinOffering**_
 
-_****_[https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code](https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code)
+_**Code:**_ [https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code](https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code)
 
 ## **CollarSwap.io**
 
 _**CollarSwapFactory**_
 
-[https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
+_**Code:**_ [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
 
 _**WETH**_
 
-[https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
+_**Code:**_ [https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
 
 _**CollarSwapRouter**_
 
-****[https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
+_**Code:**_ [https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
 
 _**CollarStake**_
 
-[https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
+_**Code:**_ [https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
 
 ## _ERC-20_
 
