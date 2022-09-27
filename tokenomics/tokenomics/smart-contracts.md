@@ -28,6 +28,8 @@ _**Code:**_ [https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd1134
 
 _**Audit:** ETA, Sept 27, 2022 EOD_
 
+__
+
 _**Breeding**_
 
 _**Code:**_ [https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
@@ -56,17 +58,33 @@ _**CollarSwapFactory**_
 
 _**Code:**_ [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
 
+_**Audit:** TBA_
+
+
+
 _**WETH**_
 
 _**Code:**_ [https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
+
+_**Audit:** TBA_
+
+__
 
 _**CollarSwapRouter**_
 
 _**Code:**_ [https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
 
+_**Audit:** TBA_
+
+__
+
 _**CollarStake**_
 
 _**Code:**_ [https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
+
+_**Audit:** TBA_
+
+
 
 ## _ERC-20_
 
