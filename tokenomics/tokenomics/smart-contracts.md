@@ -36,6 +36,12 @@ _**Code:**_ [https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a7
 
 _**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/)_****_
 
+<figure><img src="../../.gitbook/assets/Battle-Findings-1.png" alt=""><figcaption><p>Solidity Finance Breeding Finding #1 (Figure A)</p></figcaption></figure>
+
+Figure A identifies one (1) LOW risk/impact.  Our response is shown in Figure B below.
+
+<figure><img src="../../.gitbook/assets/Battle-Findings-1-Response.png" alt=""><figcaption><p>TAG DAO LLC Finding #1 (Figure B) Response</p></figcaption></figure>
+
 
 
 _**SPARCEClockAuction**_
