@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CollarQuest Metaverse](README.md)
+* [CollarQuest Play To Earn](README.md)
 
 ## Community
 

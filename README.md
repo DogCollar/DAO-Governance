@@ -1,10 +1,11 @@
 ---
 description: >-
-  CollarQuest Metaverse is a stand-alone project and a fully community-organized
-  NFT gaming experience under the direction of TAG DAO LLC (CollarQuest or DAO).
+  CollarQuest Play To Earn Metaverse is a stand-alone project and a fully
+  community-organized NFT gaming experience under the direction of TAG DAO LLC
+  (CollarQuest or DAO).
 ---
 
-# CollarQuest Metaverse
+# CollarQuest Play To Earn
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](.gitbook/assets/CQ-Title.png)
 
