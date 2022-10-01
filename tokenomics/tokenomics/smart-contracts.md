@@ -48,15 +48,23 @@ _**SPARCEClockAuction**_
 
 _**Code:**_ [https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code](https://etherscan.io/address/0xe499cee42868a0b4f8ac2152a77b012530b361e4#code)
 
-_**Audit:** ETA, Sept 30, 2022 EOD_
+Audit findings impact on launch:  At launch of CollarQuest.com, the NFT Marketplace does not utilize any auction function referenced.  Our response is shown in Figure C
 
-__
+{% file src="../../.gitbook/assets/Collar Quest Smart Contract Audit by Solidity Finance (2).pdf" %}
+Solidity Finance Breeding Finding 1, 2, and 3 (Figure C)
+{% endfile %}
+
+<figure><img src="../../.gitbook/assets/Auction-response (1).png" alt=""><figcaption><p>TAG DAO LLC Finding 1, 2, and 3 (Figure D) Response</p></figcaption></figure>
 
 _**InitialCoinOffering**_
 
 _**Code:**_ [https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code](https://etherscan.io/address/0xf02c7673735f7c5921b4530ece6790b2449d6cba#code)
 
-_**Audit:** ETA, Sept 30, 2022 EOD_
+{% file src="../../.gitbook/assets/Collar Quest Smart Contract Audit by Solidity Finance.pdf" %}
+Solidity Finance Breeding Remaining Findings (Figure E)
+{% endfile %}
+
+<figure><img src="../../.gitbook/assets/ico.png" alt=""><figcaption><p>TAG DAO LLC Remaining Finding (Figure F) Response</p></figcaption></figure>
 
 ## **CollarSwap.io**
 
