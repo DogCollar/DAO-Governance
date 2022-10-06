@@ -10,15 +10,15 @@ Like real-world pets, SPARC-E can be bred to create new offspring. To avoid hype
 
 Breeding a SPARC-E costs Dog Tag (TAG) and some Genesis Mechanism (GeM) depending on how many times the SPARC-E has been bred. The TAG portion is variable and subject to adjustment based on a myriad of economic factors.
 
-| **Breed Count** | **Breed Number** | **Total GeM Cost** | **Total TAG Cost** |
-| --------------- | ---------------- | ------------------ | ------------------ |
-| **(0/7)**       | **1**            | **6000**           | **5000**           |
-| **(1/7)**       | **2**            | **9000**           | **5000**           |
-| **(2/7)**       | **3**            | **15000**          | **5000**           |
-| **(3/7)**       | **4**            | **24000**          | **5000**           |
-| **(4/7)**       | **5**            | **39000**          | **5000**           |
-| **(5/7)**       | **6**            | **63000**          | **5000**           |
-| **(6/7)**       | **7**            | **102000**         | **5000**           |
+| **Breed Count** | **Breed Number** | **Per Parent GeM Cost** | **Total TAG Cost** |
+| --------------- | ---------------- | ----------------------- | ------------------ |
+| **(0/7)**       | **1**            | **6000**                | **5000**           |
+| **(1/7)**       | **2**            | **9000**                | **5000**           |
+| **(2/7)**       | **3**            | **15000**               | **5000**           |
+| **(3/7)**       | **4**            | **24000**               | **5000**           |
+| **(4/7)**       | **5**            | **39000**               | **5000**           |
+| **(5/7)**       | **6**            | **63000**               | **5000**           |
+| **(6/7)**       | **7**            | **102000**              | **5000**           |
 
 **Genesis Mechanism **_**can be earned by playing the game in PvE Adventure mode as well as the PvP Arena.**_
 
