@@ -1,4 +1,4 @@
-# Smart Contracts
+# Smart Contracts and Audits
 
 <figure><img src="../../.gitbook/assets/CQ-Title.png" alt=""><figcaption><p>CollarQuest a Metaverse Play2Earn Ecosystem</p></figcaption></figure>
 
@@ -72,7 +72,7 @@ _**CollarSwapFactory**_
 
 _**Code:**_ [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
 
-_**Audit:** ETA, October 7, 2022 EOD_
+_**Audit:** ETA, October 2022_
 
 
 
@@ -80,7 +80,7 @@ _**WETH**_
 
 _**Code:**_ [https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
 
-_**Audit:** ETA, October 7, 2022 EOD_
+_**Audit:** ETA, October 2022_
 
 __
 
@@ -88,7 +88,7 @@ _**CollarSwapRouter**_
 
 _**Code:**_ [https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
 
-_**Audit:** ETA, October 7, 2022 EOD_
+_**Audit:** ETA, October 2022_
 
 __
 
