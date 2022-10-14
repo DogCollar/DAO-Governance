@@ -12,13 +12,17 @@ A CollarQuest Academy manager is when (a player who has more than enough SPARC-E
 
 Cadets do not have access to the GeM token that they earned in-game. It will be the manager that will process the withdrawal of the GeM token. The cadet can opt to receive either hard cash of their chosen currency (USD, GeM token, etc.) or cryptocurrency (TAG, ETH, etc.). Payment schemes should be discussed beforehand given that withdrawals can only be done once every 2 weeks. Both cadet and manager should also consider the timing of withdrawals because of the fluctuating nature of GeM token and crypto in general, what is $100 in GeM token today, may be worth $150 tomorrow or less, etc.
 
+<figure><img src="../../.gitbook/assets/Cadet-Search.png" alt=""><figcaption><p>CollarQuest Cadet Search/Sort</p></figcaption></figure>
+
 ### **How do I become a** CollarQuest Academy **Cadet?**
 
 Becoming a CollarQuest Academy Cadet involves a lot of trust because all of the risks involved (such as getting the account banned) in a CollarQuest Academy lies mostly on the manager. It is the manager’s SPARC-Es after all. There is almost no risk in being a cadet. There are no laws protecting the manager’s assets, and most cadet-manager relationships are remote. If you are a cadet, please, do take care of your manager’s SPARC-Es.
 
-There are several ways to get a SPARC-Es via the CollarQuest Academy but the most effective way is still personally knowing a SPARC-Es manager and asking to be their cadet. Because of the saturation of players wanting to play without being able to afford their own teams, there is an unlimited supply of potential cadets. Most of which come from 3rd world countries such as the Philippines.
+There are several ways to get a SPARC-Es via the CollarQuest Academy but the most effective way is still personally knowing a SPARC-Es manager and asking to be their cadet. Because of the saturation of players wanting to play without being able to afford their own teams, there is an unlimited supply of potential cadets. Most of which come from 3rd world countries.
 
 In fact, there is so much demand for a SPARC-Es CollarQuest Academy that people who want one will be willing to write resumes and are constantly posting in SPARC-Es Manager groups with why they should be chosen. If you are looking for a SPARC-Es CollarQuest Academy, I suggest that you start in the COLLAR discord server
+
+<figure><img src="../../.gitbook/assets/Cadet-Details.png" alt=""><figcaption><p>CollarQuest Cadet Details</p></figcaption></figure>
 
 ### **What to look for as a Cadet?**
 
