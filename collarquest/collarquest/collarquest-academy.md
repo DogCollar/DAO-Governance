@@ -12,6 +12,8 @@ A CollarQuest Academy manager is when (a player who has more than enough SPARC-E
 
 Cadets do not have access to the GeM token that they earned in-game. It will be the manager that will process the withdrawal of the GeM token. The cadet can opt to receive either hard cash of their chosen currency (USD, GeM token, etc.) or cryptocurrency (TAG, ETH, etc.). Payment schemes should be discussed beforehand given that withdrawals can only be done once every 2 weeks. Both cadet and manager should also consider the timing of withdrawals because of the fluctuating nature of GeM token and crypto in general, what is $100 in GeM token today, may be worth $150 tomorrow or less, etc.
 
+Cadets can signup to be considered by a manager at: [https://collarquest.com/scholarship](https://collarquest.com/scholarship)
+
 <figure><img src="../../.gitbook/assets/Cadet-Search.png" alt=""><figcaption><p>CollarQuest Cadet Search/Sort</p></figcaption></figure>
 
 ### **How do I become a** CollarQuest Academy **Cadet?**
