@@ -12,3 +12,14 @@ On October 27, 2021, the #CollarCrew community conducted online polling of the c
 
 <figure><img src="../../../.gitbook/assets/CollarQuest-Soundtrack.png" alt=""><figcaption><p>October 27, 2021 Soundtract Poll Results</p></figcaption></figure>
 
+**Links to the winning soundtracks:**\
+****\
+**Adventure soundtrack choice:** [**https://artlist.io/song/72143/weekands**](https://artlist.io/song/72143/weekands)****\
+****\
+**Battle soundtrack choice:** [**https://artlist.io/song/76251/twilight-creatures**](https://artlist.io/song/76251/twilight-creatures)****\
+****\
+**Win soundtrack choice:** [**https://artlist.io/song/68522/dj-b-duke---no-backing-vocals**](https://artlist.io/song/68522/dj-b-duke---no-backing-vocals)****\
+****\
+**Lose soundtrack choice:** [**https://artlist.io/song/60923/agitated-swords**](https://artlist.io/song/60923/agitated-swords)****\
+****\
+**General soundtrack choice:** [**https://artlist.io/song/61848/rising-of-the-sun**](https://artlist.io/song/61848/rising-of-the-sun)****
