@@ -51,6 +51,7 @@
     * [Land](collarquest/collarquest/gameplay/land/README.md)
       * [Ariomont SDK](collarquest/collarquest/gameplay/land/ariomont-sdk.md)
     * [CollarQuest FOEs](collarquest/collarquest/gameplay/collarquest-foes.md)
+    * [SATCHEL](collarquest/collarquest/gameplay/satchel.md)
     * [Soundtrack](collarquest/collarquest/gameplay/soundtrack.md)
   * [Staking and Staking Rewards](collarquest/collarquest/staking-and-staking-rewards.md)
   * [SPARC-E](collarquest/collarquest/sparc-e/README.md)
