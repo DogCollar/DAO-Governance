@@ -41,6 +41,11 @@
   * [Community Paper (CP) 1.0](community-paper-cp/community-paper-cp/community-paper-cp-1.0/README.md)
     * [CP 1.0 DAO Results](community-paper-cp/community-paper-cp/community-paper-cp-1.0/cp-1.0-dao-results.md)
 
+## COLLARSWAP
+
+* [CollarSwap We are DeFi](collarswap/collarswap-we-are-defi.md)
+* [CollarSwap API](collarswap/collarswap-api.md)
+
 ## Collarquest
 
 * [CollarQuest](collarquest/collarquest/README.md)
