@@ -16,7 +16,9 @@ ERC-20 Genesis Mechanism (GeM) 0xebc27d9bd8ac268934784dcdf1eaa10dfaf97a9f
 
 TAG DAO LLC Multi-Signature Donation Gnosis Safe Wallet: 0x23Aa05DDF32F6D20AD0d3FcFBb7F5E05a4445AF8
 
-Additional Multi-Signature wallets will be created for: Treasury, Reserves for community protection, and to receive token drips from the tokenomic design contained in this document.&#x20;
+Additional Multi-Signature wallets will be created for: Treasury, Reserves for community protection and to receive token drips from the tokenomic design contained in this document.&#x20;
 
-Matrix Wallet is for the COLLAR/TAG/CollarQuest (SPARC-Es, land, etc) ecosystem founders who relaunched COLLAR, minted TAG, GeM, and developing CollarQuest: 0x92dEc798278B8CC25859A979568e694A0B3eAE9d The Matrix Wallet is perpetual and shall not be removed from the Community Paper tokenomics unless agreed by all parties, and by a supermajority DAO vote. The Matrix Wallet shall receive all benefits listed in the tokenomics, and 5% of any future native token minted or acquired into the ecosystem CollarQuest or it successors.
+Matrix Wallet is for the COLLAR/TAG/CollarQuest (SPARC-Es, land, etc.) ecosystem founders who relaunched COLLAR, minted TAG, GeM, and developing CollarQuest: 0x92dEc798278B8CC25859A979568e694A0B3eAE9d The Matrix Wallet is perpetual and shall not be removed from the Community Paper tokenomics unless agreed by all parties, and by a supermajority DAO vote. The Matrix Wallet shall receive all benefits listed in the tokenomics and 5% of any future native token minted or acquired into the ecosystem CollarQuest or its successors.
+
+See[ Smart Contracts and Audits](../../tokenomics/tokenomics/smart-contracts-and-audits.md) for additional information.
 
