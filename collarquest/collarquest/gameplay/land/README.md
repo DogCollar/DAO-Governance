@@ -27,7 +27,7 @@ Additional details about land will be released in time.
 
 **The World**
 
-Ariomont consists of 90,601 plots of Land. These Land plots are represented as Non-Fungible Tokens and can be freely traded by players.
+Ariomont consists of 127,001 plots of Land. These Land plots are represented as Non-Fungible Tokens and can be freely traded by players.
 
 | Land Type                          | Player-owned | Total supply |
 | ---------------------------------- | ------------ | ------------ |
