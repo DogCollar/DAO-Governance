@@ -98,13 +98,13 @@ _**Code:**_ [https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe
 
 _**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)_****_
 
-_****_
 
-_**CollarFlexStake**_
 
-_**Code:** _ [_https://goerli.etherscan.io/address/0xd303e6730931a6041eaf0b386df74830963c2fbe#code_](https://goerli.etherscan.io/address/0xd303e6730931a6041eaf0b386df74830963c2fbe#code) __&#x20;
+_**CollarFlexStake**_\
+_****_\
+_**Code:** _ [_https://goerli.etherscan.io/address/0x23b80e02e9b058b950feebb5ba8c4e38c8fdedd1#code_](https://goerli.etherscan.io/address/0x23b80e02e9b058b950feebb5ba8c4e38c8fdedd1#code)__
 
-_**Audit November 29, 2022:** _ [_https://solidity.finance/audits/CollarSwap/_](https://solidity.finance/audits/CollarSwap/)__
+_**Audit January 18, 2023:** _ [_https://solidity.finance/audits/CollarStake/_](https://solidity.finance/audits/CollarStake/)__
 
 ## _ERC-20_
 
