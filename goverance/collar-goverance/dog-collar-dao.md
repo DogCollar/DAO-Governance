@@ -16,9 +16,9 @@ TAG DAO LLC was created to aid in working with and filing when required by law i
 
 One of the major features of digital currencies is that they are decentralized. This means they are not controlled by a single institution like a government or central bank, but instead are divided among a variety of computers, networks, and nodes. In many cases, virtual currencies make use of this decentralized status to attain levels of privacy and security that are typically unavailable to standard currencies and their transactions.
 
-## Real world messenger
+## Messenger of the DAO
 
-Collar DAO has appointed Morpheus to represent the DAO in echoing the will of the DAO covered within the [DAO Community Papers](../../community-paper-cp/community-paper-cp/) in the public, but no one person nor company can stop the DAO of the people as we are turely Decentralized.
+Collar DAO has appointed Morpheus to represent the DAO in echoing the will of the DAO covered within the [DAO Community Papers](../../community-paper-cp/community-paper-cp/) in public. Still, no one person nor company can stop the DAO of the people as we are genuinely Decentralized.
 
 
 
