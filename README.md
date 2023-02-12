@@ -32,6 +32,4 @@ _​_[_Verify the 50% of Supply Locked as Liquidity on ShibaSwap._](https://ethe
 
 _​_[_Inspect the Dog Collar Code._](https://etherscan.io/address/0x9783b81438c24848f85848f8df31845097341771#code)
 
-To our future -- together.
-
-### _**Morpheus**_
+Decentralized finance (DeFi) refers to a financial system built on a blockchain network that operates in a decentralized manner, without the control of any single entity or institution. It uses smart contracts to automate financial transactions and is characterized by its trustless, transparent and secure environment. CollarSwap.io and CollarQuest.com applications are built on the foundation that no one person nor company controls the will of [TAG DAO LLC](goverance/collar-goverance/dog-collar-dao.md)
