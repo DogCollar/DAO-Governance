@@ -85,7 +85,7 @@ Initially, 3 SPARC-Es can be assigned to each plot of Land. In the future, Land 
 
 ### **What kind of structures can be built, and how large can these structures get?** <a href="#ea64" id="ea64"></a>
 
-Players will find blueprints for structures all across Ariomont when defeating APEP.
+Players will find blueprints for structures all across Ariomont when defeating FOEs.
 
 Every structure will have a base set of demands that need to be fulfilled to be functional.\
 **Time**: Bigger and more advanced structures will require a lot of time to build.
