@@ -8,7 +8,7 @@ description: DRAFT COLLARQUEST DOCS - SUBJECT TO CHANGE WITHOUT NOTICE.
 
 ## CollarQuest Ariomont (Land)
 
-![CollarQuest a Metaverse Play2Earn Ecosystem](../../../../.gitbook/assets/CollarQuest-LAND.png)
+![CollarQuest a Metaverse Play2Earn Ecosystem](<../../../../.gitbook/assets/Screen Shot 2023-02-11 at 2.22.57 PM.png>)
 
 Ariomont,  the SPARC-E homeland,  is divided into tokenized plots of land which act as homes and bases of operation for their SPARC-E. Plots can be upgraded over time using a variety of resources and crafting ingredients that can be found when playing the game.&#x20;
 
@@ -21,7 +21,7 @@ In addition, land-owners might find TAG tokens on their land plots, or use the S
 
 **Real-Time PvE Battles**
 
-Self-breed evil SPARC-E called APEP are terrorizing Ariomont. Players will be able to take on APEP in real-time battles either alone or in groups. APEP will drop an assortment of resources, items, and blueprints used to upgrade land and individual SPARC-E.
+Self-breed evil SPARC-E called Fierce Opponent Emulator (FOE) are terrorizing Ariomont. Players will be able to take on FOEs in real-time battles either alone or in groups. FOEs will drop an assortment of resources, items, and blueprints used to upgrade land and individual SPARC-E.
 
 Additional details about land will be released in time.
 
