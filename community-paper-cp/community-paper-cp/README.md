@@ -34,4 +34,3 @@ The CollarQuest Community Paper (CP) is a living document that is debated online
 
 
 
-``

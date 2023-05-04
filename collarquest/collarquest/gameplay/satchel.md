@@ -10,6 +10,8 @@ The Sparc-e Automated Transportation & Conveyance Humanoid ELement (SATCHEL) wil
 
 SATCHEL pros/cons of this humanoid robot could be that a SATCHEL travels fastest with no SPARC-Es deployed and slowest with all 3 SPARC-Es deployed; SPARC-Es can find hidden items when deployed; SPARC-Es do not need to be deployed all or none, thus providing 4 levels of options and cost/benefit of using different gameplay strategy for travel.  We will have other modes of travel to allow SATCHELs to get around the large land play for quests.
 
+<figure><img src="../../../.gitbook/assets/SATCHEL.png" alt=""><figcaption><p>SATCHEL - schematic/design development level</p></figcaption></figure>
+
 Join the conversation https://discord.gg/collarcrew  &#x20;
 
 <figure><img src="../../../.gitbook/assets/Land.png" alt=""><figcaption><p>CollarQuest Ariomont (Land)</p></figcaption></figure>

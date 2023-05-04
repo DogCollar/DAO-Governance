@@ -35,7 +35,7 @@ _**Weaknesses:** poor eye sight, slow head rotation to find targets_
 <mark style="color:red;">**Razor Wraith**</mark>**:** Razor's dangerous electric swords that extends the arms reach.  Razor moves fluidly… Razor will slice and dice you while gliding like a dancer.  you will die quickly if you are slow to out maneuver Razor.
 
 _**Power Level:** 3_\
-_**Strengths:** Razor **** moves like poetry in motion, slices with deadly electric swords_\
+_**Strengths:** Razor_ _moves like poetry in motion, slices with deadly electric swords_\
 _**Weaknesses:**  lite armor, weak knees._
 
 

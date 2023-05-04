@@ -70,7 +70,7 @@ Unlike Adventure mode, Arena mode doesn’t have a main screen. Once you click o
 
 <mark style="color:red;">**(BATTLE SCREEN IMAGE PLACEHOLDER)**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 For both Arena and Adventure mode, the mechanics and components are pretty similar. The important parts of the Arena are numbered in the image above. Here’s what each number represents:
 

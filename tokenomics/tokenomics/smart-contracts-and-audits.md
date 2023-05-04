@@ -8,33 +8,33 @@
 
 _**SPARC-E**_
 
-_**Code:**_ [https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code](https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code) _****_&#x20;
+_**Code:**_ [https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code](https://etherscan.io/address/0x674900b8fd8ee1b487d162d04c59300222d90466#code)&#x20;
 
-_**Audit Sept 23, 2022:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
+_**Audit Sept 23, 2022:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)
 
-_****_
+
 
 _**SPARCEManagerCustomizable**_
 
 _**Code:**_ [https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code](https://etherscan.io/address/0x3041680f5494e340bdba3dc982cf1d2f621dc068#code)
 
-_**Audit Sept 23, 2022:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)_****_
+_**Audit Sept 23, 2022:**_ [_**https://solidity.finance/audits/CollarQuestSPARCE/**_](https://solidity.finance/audits/CollarQuestSPARCE/)
 
-_****_
+
 
 _**Battle**_
 
 _**Code:**_ [https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code](https://etherscan.io/address/0x9c04d75924fd2e06c5d8fa986e4de1bd11342735#code)
 
-_**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/) __&#x20;
+_**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/)&#x20;
 
-__
+
 
 _**Breeding**_
 
 _**Code:**_ [https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code](https://etherscan.io/address/0xc9b47dcb7f55175e03483dc626158a37e7a73516#code)
 
-_**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/)_****_
+_**Audit Sept 27, 2022:**_ [_**https://solidity.finance/audits/CollarQuestBattleAndBreeding/**_](https://solidity.finance/audits/CollarQuestBattleAndBreeding/)
 
 <figure><img src="../../.gitbook/assets/Battle-Findings-1.png" alt=""><figcaption><p>Solidity Finance Breeding Finding #1 (Figure A)</p></figcaption></figure>
 
@@ -72,7 +72,7 @@ _**CollarSwapFactory**_
 
 _**Code:**_ [https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code](https://etherscan.io/address/0xe15b4d98af270161219d2349f160dfdee7abce40#code)
 
-_**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)_****_
+_**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)
 
 
 
@@ -80,33 +80,33 @@ _**WETH**_
 
 _**Code:**_ [https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2#code)
 
-_**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)_****_
+_**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)
 
-__
+
 
 _**CollarSwapRouter**_
 
 _**Code:**_ [https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code](https://etherscan.io/address/0xc67f50f4a93147268d45f5cd7e444ec94eb046c7#code)
 
-_**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)_****_
+_**Audit October 26,  2022:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)
 
-__
+
 
 _**CollarStake**_
 
 _**Code:**_ [https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code](https://etherscan.io/address/0x445332f0719f9e66721536323a5d6a2677fe8080#code)
 
-_**Audit October 26,  2022:**_  [_**https://solidity.finance/audits/CollarStake/**_](https://solidity.finance/audits/CollarStake/)_****_
+_**Audit October 26,  2022:**_  [_**https://solidity.finance/audits/CollarStake/**_](https://solidity.finance/audits/CollarStake/)
 
 
 
 _**CollarFlexStake**_\
-_****_\
-_**Code:** _&#x20;
+\
+_**Code:**_&#x20;
 
 [_https://etherscan.io/address/0x6030804493bf035ffaaffdb4118412737a48348e#code_](https://etherscan.io/address/0x6030804493bf035ffaaffdb4118412737a48348e#code)
 
-_**Audit January 18, 2023:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)__
+_**Audit January 18, 2023:**_ [_**https://solidity.finance/audits/CollarSwap/**_](https://solidity.finance/audits/CollarSwap/)
 
 ## _ERC-20_
 
@@ -122,12 +122,12 @@ _**Dog Tag (TAG)**_
 
 _**Code:**_ [https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code](https://etherscan.io/token/0x7797C85b46F548eAcC07C229f6Cd207d6370442f#code)
 
-_**Audit:** _ [_See CollarQuest Tokenomics > Dog Tag (TAG)_](dog-tag/)__
+_**Audit:**_ [_See CollarQuest Tokenomics > Dog Tag (TAG)_](dog-tag/)
 
-_****_
+
 
 _**Genesis Mechanism (GeM)**_
 
 _**Code:**_ [https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code](https://etherscan.io/token/0xeBC27d9Bd8AC268934784Dcdf1eaA10dFaF97A9F#code)
 
-_**Audit:** _ [_See CollarQuest Tokenomics > Genesis Mechanism (GeM)_](genesis-mechanism-gem/)__
+_**Audit:**_ [_See CollarQuest Tokenomics > Genesis Mechanism (GeM)_](genesis-mechanism-gem/)
