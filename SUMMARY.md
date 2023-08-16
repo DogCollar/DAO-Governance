@@ -44,6 +44,7 @@
 ## COLLARSWAP
 
 * [CollarSwap We are DeFi](collarswap/collarswap-we-are-defi.md)
+* [Staking and Staking Rewards](collarswap/staking-and-staking-rewards.md)
 * [CollarSwap API](collarswap/collarswap-api.md)
 
 ## Collarquest
@@ -58,11 +59,11 @@
     * [CollarQuest FOEs](collarquest/collarquest/gameplay/collarquest-foes.md)
     * [SATCHEL](collarquest/collarquest/gameplay/satchel.md)
     * [Soundtrack](collarquest/collarquest/gameplay/soundtrack.md)
-  * [Staking and Staking Rewards](collarquest/collarquest/staking-and-staking-rewards.md)
   * [SPARC-E](collarquest/collarquest/sparc-e/README.md)
     * [Breeding & Royalties](collarquest/collarquest/sparc-e/breeding-and-royalties.md)
     * [SPARC-E Population](collarquest/collarquest/sparc-e/sparc-e-population.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
+  * [NFT Marketplace](collarquest/collarquest/nft-marketplace.md)
 
 ## Financial Oversight
 

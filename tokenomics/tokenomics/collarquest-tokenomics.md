@@ -12,8 +12,7 @@ All native tokens used for purchasing/upgrading/breeding SPARC-Es, including Col
 
 ### CollarQuest Ecosystem Fund
 
-| All tokens | 5% |
-| ---------- | -- |
+<table data-header-hidden><thead><tr><th width="196.33333333333331">Tokens</th><th width="306.8664058133036">% of CollarQuest Tokenomics Treasury Wallet</th></tr></thead><tbody><tr><td>All tokens</td><td>5%</td></tr></tbody></table>
 
 The CollarQuest ecosystem fund will be managed by TAG DAO LLC Ceremonial CEO Morpheus or his delegate.  TAG DAO LLC shall as its core purpose is to grow the CollarCrew community.  TAG DAO LLC will prepare yearly statements that include a high-level overview of how the funds have been used.
 

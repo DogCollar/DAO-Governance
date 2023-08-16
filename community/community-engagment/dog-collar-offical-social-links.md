@@ -4,14 +4,4 @@
 
 We have an ever-growing social _**FAN**_ presence online. The following are our the official supported sites for the CollarQuest members to stay current.
 
-| **Official Links** |                                                                                                                              |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| Website            | [https://collartoken.com](https://collartoken.com)                                                                           |
-| Twitter            | [https://twitter.com/DogCollarToken](https://twitter.com/DogCollarToken)                                                     |
-| Discord            | [https://discord.gg/collarcrew](https://discord.gg/collarcrew)                                                               |
-| Telegram           | [https://t.me/DogCollarCrew](https://t.me/DogCollarCrew)                                                                     |
-| Reddit             | [https://www.reddit.com/r/Collartoken/](https://www.reddit.com/r/Collartoken/)                                               |
-| YouTube            | [https://www.youtube.com/c/DogCollarToken](https://www.youtube.com/c/DogCollarToken)                                         |
-| Instagram          | [https://www.instagram.com/dog\_collar\_tokenerc20/?r=nametag](https://www.instagram.com/dog\_collar\_tokenerc20/?r=nametag) |
-|                    |                                                                                                                              |
-| Medium             | [https://medium.collartoken.com/](https://medium.collartoken.com/)                                                           |
+<table data-header-hidden><thead><tr><th width="210">Official Links</th><th></th></tr></thead><tbody><tr><td><strong>Official Links</strong></td><td></td></tr><tr><td>Website</td><td><a href="https://collartoken.com">https://collartoken.com</a></td></tr><tr><td>Twitter</td><td><a href="https://twitter.com/DogCollarToken">https://twitter.com/DogCollarToken</a></td></tr><tr><td>Discord</td><td><a href="https://discord.gg/collarcrew">https://discord.gg/collarcrew</a></td></tr><tr><td>Telegram</td><td><a href="https://t.me/DogCollarCrew">https://t.me/DogCollarCrew</a></td></tr><tr><td>Reddit</td><td><a href="https://www.reddit.com/r/Collartoken/">https://www.reddit.com/r/Collartoken/</a></td></tr><tr><td>YouTube</td><td><a href="https://www.youtube.com/c/DogCollarToken">https://www.youtube.com/c/DogCollarToken</a></td></tr><tr><td>Instagram</td><td><a href="https://www.instagram.com/dog_collar_tokenerc20/?r=nametag">https://www.instagram.com/dog_collar_tokenerc20/?r=nametag</a></td></tr><tr><td></td><td></td></tr><tr><td>Medium</td><td><a href="https://medium.collartoken.com/">https://medium.collartoken.com/</a></td></tr></tbody></table>

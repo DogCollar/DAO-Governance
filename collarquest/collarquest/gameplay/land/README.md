@@ -29,16 +29,7 @@ Additional details about land will be released in time.
 
 Ariomont consists of 127,001 plots of Land. These Land plots are represented as Non-Fungible Tokens and can be freely traded by players.
 
-| Land Type                          | Player-owned | Total supply |
-| ---------------------------------- | ------------ | ------------ |
-| Rhode Ridge                        | 0            | 30,897       |
-| Birklands                          | 0            | 30,897       |
-| Tundra                             | 0            | 23,181       |
-| Argos                              | 0            | 11,584       |
-| Inception                          | 0            | 308          |
-| Village Green (Center)             | 0            | 4,908        |
-| Map (water, roads, resource nodes) | 0            | 25,249       |
-| **Total land**                     | **0**        | **127,001**  |
+<table data-header-hidden><thead><tr><th width="353.50867625185924">Land Type</th><th width="214.33333333333331">Player-owned</th><th>Total supply</th></tr></thead><tbody><tr><td>Land Type</td><td>Player-owned</td><td>Total supply</td></tr><tr><td>Rhode Ridge</td><td>0</td><td>30,897</td></tr><tr><td>Birklands</td><td>0</td><td>30,897</td></tr><tr><td>Tundra</td><td>0</td><td>23,181</td></tr><tr><td>Argos</td><td>0</td><td>11,584</td></tr><tr><td>Inception</td><td>0</td><td>308</td></tr><tr><td>Village Green (Center)</td><td>0</td><td>4,908</td></tr><tr><td>Map (water, roads, resource nodes)</td><td>0</td><td>25,249</td></tr><tr><td><strong>Total land</strong></td><td><strong>0</strong></td><td><strong>127,001</strong></td></tr></tbody></table>
 
 Land gameplay is still being actively developed and will be released in phases.
 

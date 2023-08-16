@@ -12,12 +12,7 @@ Spot Exchanges - Endpoints Overview \
 CollarSwap offers the following 4 separate endpoints:\
 
 
-| No. |   Endpoint  |                                             Description                                             |
-| :-: | :---------: | :-------------------------------------------------------------------------------------------------: |
-|  1  |    /pairs   |                                   Details on crypto assets traded                                   |
-|  2  |   /tickers  |                   Market related statistics for all markets for the last 24 hours.                  |
-|  3  |  /orderbook | Order book depth of any given trading pair, split into two different arrays for bid and ask orders. |
-|  4  | /historical |                          Historical trade data for any given trading pair.                          |
+<table><thead><tr><th width="109" align="center">No.</th><th width="216" align="center">Endpoint</th><th align="center">Description</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">/pairs</td><td align="center">Details on crypto assets traded</td></tr><tr><td align="center">2</td><td align="center">/tickers</td><td align="center">Market related statistics for all markets for the last 24 hours.</td></tr><tr><td align="center">3</td><td align="center">/orderbook</td><td align="center">Order book depth of any given trading pair, split into two different arrays for bid and ask orders.</td></tr><tr><td align="center">4</td><td align="center">/historical</td><td align="center">Historical trade data for any given trading pair.</td></tr></tbody></table>
 
 **Endpoint 1 - /pairs**
 
@@ -31,12 +26,7 @@ The /pairs endpoint provides a summary of cryptoasset trading pairs available on
 \
 /pairs endpoint response description:
 
-| Name       | Data Type | Category              | Description                                                                    |
-| ---------- | --------- | --------------------- | ------------------------------------------------------------------------------ |
-| ticker\_id | string    | Mandatory             | Identifier of a ticker with delimiter to separate base/target, eg. COLLAR\_ETH |
-| base       | string    | Mandatory             | Symbol/currency code of a the base cryptoasset, eg. COLLAR                     |
-| Target     | string    | Mandatory             | Symbol/currency code of the target cryptoasset, eg. ETH                        |
-| pool\_id   | string    | Recommended/Mandatory | pool/pair address or unique ID (Mandatory for DEX)                             |
+<table><thead><tr><th width="122">Name</th><th width="118">Data Type</th><th width="163">Category</th><th>Description</th></tr></thead><tbody><tr><td>ticker_id</td><td>string</td><td>Mandatory</td><td>Identifier of a ticker with delimiter to separate base/target, eg. COLLAR_ETH</td></tr><tr><td>base</td><td>string</td><td>Mandatory</td><td>Symbol/currency code of a the base cryptoasset, eg. COLLAR</td></tr><tr><td>Target</td><td>string</td><td>Mandatory</td><td>Symbol/currency code of the target cryptoasset, eg. ETH</td></tr><tr><td>pool_id</td><td>string</td><td>Recommended/Mandatory</td><td>pool/pair address or unique ID (Mandatory for DEX)</td></tr></tbody></table>
 
 Reference: [https://api.collarswap.io/api/stake/pairs](https://api.collarswap.io/api/stake/pairs)
 
@@ -59,19 +49,7 @@ The /tickers endpoint provides 24-hour pricing and volume information on each ma
 
 /tickers endpoint response description:
 
-| Name             | Data Type | Category              | Description                                                                                                                                                              |
-| ---------------- | --------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ticker\_id       | string    | Mandatory             | Identifier of a ticker with delimiter to separate base/target, eg. COLLAR\_ETH                                                                                           |
-| base\_currency   | string    | Mandatory             | Symbol/currency code of base pair, eg. COLLAR                                                                                                                            |
-| target\_currency | string    | Mandatory             | Symbol/currency code of target pair, eg. ETH                                                                                                                             |
-| last\_price      | decimal   | Mandatory             | <p>Last transacted price of base currency based on given target currency (unit in base or target)<br></p><p>eg.<br>X = ? <br>1 base = X target <br>X base = 1 target</p> |
-| base\_volume     | decimal   | Mandatory             | 24 hour trading volume in base pair volume (unit in base)                                                                                                                |
-| target\_volume   | decimal   | Mandatory             | 24 hour trading volume in target pair volume (unit in target)                                                                                                            |
-| pool\_id         | string    | Recommended/Mandatory | pool/pair address or unique ID (Mandatory for DEX)                                                                                                                       |
-| bid              | decimal   | Recommended           | Current **highest bid price**                                                                                                                                            |
-| ask              | decimal   | Recommended           | Current lowest ask price                                                                                                                                                 |
-| high             | decimal   | Recommended           | Rolling 24-hours highest transaction price                                                                                                                               |
-| low              | decimal   | Recommended           | Rolling 24-hours lowest transaction price                                                                                                                                |
+<table><thead><tr><th width="181">Name</th><th width="129">Data Type</th><th width="117">Category</th><th>Description</th></tr></thead><tbody><tr><td>ticker_id</td><td>string</td><td>Mandatory</td><td>Identifier of a ticker with delimiter to separate base/target, eg. COLLAR_ETH</td></tr><tr><td>base_currency</td><td>string</td><td>Mandatory</td><td>Symbol/currency code of base pair, eg. COLLAR</td></tr><tr><td>target_currency</td><td>string</td><td>Mandatory</td><td>Symbol/currency code of target pair, eg. ETH</td></tr><tr><td>last_price</td><td>decimal</td><td>Mandatory</td><td><p>Last transacted price of base currency based on given target currency (unit in base or target)<br></p><p>eg.<br>X = ? <br>1 base = X target <br>X base = 1 target</p></td></tr><tr><td>base_volume</td><td>decimal</td><td>Mandatory</td><td>24 hour trading volume in base pair volume (unit in base)</td></tr><tr><td>target_volume</td><td>decimal</td><td>Mandatory</td><td>24 hour trading volume in target pair volume (unit in target)</td></tr><tr><td>pool_id</td><td>string</td><td>Recommended/Mandatory</td><td>pool/pair address or unique ID (Mandatory for DEX)</td></tr><tr><td>bid</td><td>decimal</td><td>Recommended</td><td>Current <strong>highest bid price</strong></td></tr><tr><td>ask</td><td>decimal</td><td>Recommended</td><td>Current lowest ask price</td></tr><tr><td>high</td><td>decimal</td><td>Recommended</td><td>Rolling 24-hours highest transaction price</td></tr><tr><td>low</td><td>decimal</td><td>Recommended</td><td>Rolling 24-hours lowest transaction price</td></tr></tbody></table>
 
 Reference: (Nov 21, 2022 will be added soon)\
 \
@@ -81,10 +59,7 @@ The /orderbook/ticker\_id endpoint is to provide order book information with at 
 
 Endpoint parameters:
 
-| Name       | Data Type   | Category        | Description                                                                                                                                                                                                                                             |
-| ---------- | ----------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ticker\_id | String      | **Mandatory**   | A ticker such as "COLLAR\_ETH", with delimiter between different cryptoassets                                                                                                                                                                           |
-| depth      | **integer** | **Recommended** | <p>Orders depth quantity: [0, 100, 200, 500...]. 0 returns full depth. Depth = 100 means 50 for each bid/ask side.</p><p>Note that for more liquid or closely priced pairs, the lack of order depth may result in a miscalculation of depth/spread.</p> |
+<table><thead><tr><th width="132">Name</th><th width="116">Data Type</th><th width="160">Category</th><th>Description</th></tr></thead><tbody><tr><td>ticker_id</td><td>String</td><td><strong>Mandatory</strong></td><td>A ticker such as "COLLAR_ETH", with delimiter between different cryptoassets</td></tr><tr><td>depth</td><td><strong>integer</strong></td><td><strong>Recommended</strong></td><td><p>Orders depth quantity: [0, 100, 200, 500...]. 0 returns full depth. Depth = 100 means 50 for each bid/ask side.</p><p>Note that for more liquid or closely priced pairs, the lack of order depth may result in a miscalculation of depth/spread.</p></td></tr></tbody></table>
 
 Example query: .../api/orderbook?ticker\_id=COLLAR\_ETH\&depth=200
 
@@ -100,11 +75,6 @@ Example query: .../api/orderbook?ticker\_id=COLLAR\_ETH\&depth=200
 Order book response descriptions:\
 
 
-| Name       | Data Type | Category    | Description                                                                     |
-| ---------- | --------- | ----------- | ------------------------------------------------------------------------------- |
-| ticker\_id | String    | Mandatory   | A pair such as "COLLAR\_ETH", with delimiter between different cryptoassets     |
-| timestamp  | timestamp | Recommended | Unix timestamp in milliseconds for when the last updated time occurred.         |
-| bids       | decimal   | Mandatory   | An array containing 2 elements. The offer price and quantity for each bid order |
-| asks       | decimal   | Mandatory   | An array containing 2 elements. The ask price and quantity for each ask order   |
+<table><thead><tr><th width="138">Name</th><th width="121">Data Type</th><th width="153">Category</th><th>Description</th></tr></thead><tbody><tr><td>ticker_id</td><td>String</td><td>Mandatory</td><td>A pair such as "COLLAR_ETH", with delimiter between different cryptoassets</td></tr><tr><td>timestamp</td><td>timestamp</td><td>Recommended</td><td>Unix timestamp in milliseconds for when the last updated time occurred.</td></tr><tr><td>bids</td><td>decimal</td><td>Mandatory</td><td>An array containing 2 elements. The offer price and quantity for each bid order</td></tr><tr><td>asks</td><td>decimal</td><td>Mandatory</td><td>An array containing 2 elements. The ask price and quantity for each ask order</td></tr></tbody></table>
 
 Reference: (Nov 21, 2022 will be added soon)

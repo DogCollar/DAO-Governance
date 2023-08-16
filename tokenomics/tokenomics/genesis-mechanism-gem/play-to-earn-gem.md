@@ -2,10 +2,7 @@
 
 ![CollarQuest a Metaverse Play2Earn Ecosystem](../../../.gitbook/assets/CQ-Title.png)
 
-|               |                   |                               |
-| ------------- | ----------------- | ----------------------------- |
-| Token Amount  | % of total supply | Unlock Schedule               |
-| 3,000,000,000 | 60%               | Gradual unlock over 48-months |
+<table><thead><tr><th width="188.89252118541864"></th><th width="182.78983698714632"></th><th></th></tr></thead><tbody><tr><td>Token Amount</td><td>% of total supply</td><td>Unlock Schedule</td></tr><tr><td>3,000,000,000</td><td>60%</td><td>Gradual unlock over 48-months</td></tr></tbody></table>
 
 The play to earn issuance represents 60% of the total GeM supply. The goal of the play to earn tokens is to attract a wide range of players to the CollarQuest ecosystem in the hunt for token rewards and to give ownership and stake to the most active community members.&#x20;
 
