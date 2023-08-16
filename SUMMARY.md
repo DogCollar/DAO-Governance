@@ -62,7 +62,7 @@
   * [SPARC-E](collarquest/collarquest/sparc-e/README.md)
     * [Breeding & Royalties](collarquest/collarquest/sparc-e/breeding-and-royalties.md)
     * [SPARC-E Population](collarquest/collarquest/sparc-e/sparc-e-population.md)
-  * [NFT Marketplace](collarquest/collarquest/nft-marketplace.md)
+  * [CollarQuest Marketplace](collarquest/collarquest/collarquest-marketplace.md)
   * [CollarQuest Academy](collarquest/collarquest/collarquest-academy.md)
 
 ## Financial Oversight
